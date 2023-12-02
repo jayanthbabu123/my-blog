@@ -1,0 +1,21 @@
+[data-small-caps="true"] .post-body h1,
+[data-small-caps="true"] .post-body h2,
+[data-small-caps="true"] .post-body h3,
+[data-small-caps="true"] .post-body h4,
+[data-small-caps="true"] .post-body h5,
+[data-small-caps="true"] .post-body h6 {
+  font-variant: none;
+}
+
+.post-title {
+    text-align: center;
+    font-family: system-ui;
+    font-size: 2.1em;
+}
+.post-body h1, .post-body h2, .post-body h3, .post-body h4, .post-body h5, .post-body h6 {
+    font-family: system-ui;
+    font-size: 1.3em;
+}
+.lntable, .highlight>pre {
+    max-height: max-content;
+}
