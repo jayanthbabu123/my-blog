@@ -1,7 +1,7 @@
 +++
 title = 'How I Answered “What is Virtual DOM in React?” in My Interview 🤔'
 date = 2023-12-02T20:20:21+05:30
-draft = true
+draft = false
 +++
 
 ### Introduction 🚀
