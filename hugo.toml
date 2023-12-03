@@ -1,8 +1,8 @@
 ##########################################
 # Site Settings
 
-baseURL = "https://example.com/"
-title = "Code Pro"
+baseURL = "https://programwithjayanth.com/"
+title = "Program With Jayanth"
 languageCode = "en"
 hasCJKLanguage = false
 # Copyright information (Markdown supported)

@@ -11,6 +11,7 @@
     text-align: center;
     font-family: system-ui;
     font-size: 2.1em;
+    margin-top: 10px;
 }
 .post-body h1, .post-body h2, .post-body h3, .post-body h4, .post-body h5, .post-body h6 {
     font-family: system-ui;
@@ -18,4 +19,10 @@
 }
 .lntable, .highlight>pre {
     max-height: max-content;
+}
+.main {
+    padding-top: 6em;
+}
+.post-body {
+    margin-top: 3em !important;
 }
