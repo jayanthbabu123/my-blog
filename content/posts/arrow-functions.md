@@ -4,6 +4,8 @@ date = 2023-12-03T23:44:12+05:30
 draft = false
 +++
 
+![How Real DOM works with HTML and JavaScript](/images/arrow-regular.png)
+
 ### Introduction 🚀
 
 Welcome to the world of JavaScript! In this article, we're diving into one of the key parts of JavaScript coding: functions. We'll compare two types of functions you'll often see — Regular Functions and Arrow Functions, which were added in the latest version, ES6. These functions make your code work, and understanding how they differ can really help you write better JavaScript.
