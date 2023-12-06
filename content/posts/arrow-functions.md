@@ -1,6 +1,18 @@
 +++
 title = '7 Differences between arrow functions and regular functions in JavaScript'
 date = 2023-12-03T23:44:12+05:30
+tags = [
+  "JavaScript",
+  "ES6",
+  "Arrow Functions",
+  "Regular Functions",
+  "Programming",
+  "Web Development",
+  "Function Syntax",
+  "Coding Best Practices",
+  "JavaScript Functions"
+]
+categories = ["JavaScript", "Programming Concepts", "Web Development"]
 draft = false
 +++
 

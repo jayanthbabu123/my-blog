@@ -2,6 +2,18 @@
 title = 'How I Answered “What is Virtual DOM in React?” in My Interview 🤔'
 date = 2023-12-02T20:20:21+05:30
 draft = false
+tags=[
+  "React",
+  "Virtual DOM",
+  "Frontend Development",
+  "JavaScript",
+  "React Interview Questions",
+  "Web Performance",
+  "UI Rendering",
+  "React Concepts",
+  "Interview Preparation"
+]
+categories= ["Development", "React"]
 +++
 
 ### Introduction 🚀
