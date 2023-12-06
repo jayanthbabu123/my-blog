@@ -12,7 +12,7 @@ tags = [
   "Coding Best Practices",
   "JavaScript Functions"
 ]
-categories = ["JavaScript", "Programming Concepts", "Web Development"]
+categories = ["JavaScript"]
 draft = false
 +++
 

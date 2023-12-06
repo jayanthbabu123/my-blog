@@ -13,9 +13,9 @@ tags=[
   "React Concepts",
   "Interview Preparation"
 ]
-categories= ["Development", "React"]
+categories= ["React"]
 +++
-
+![How I have used Closures in React](/images/virtual-dom.png)
 ### Introduction 🚀
 
 When I was asked about the Virtual DOM in React during an interview, I realized it’s a fundamental concept that often confuses beginners. Understanding the Virtual DOM is crucial for React developers as it is the foundation of React’s high performance and efficient rendering process, enabling the creation of dynamic and responsive user interfaces with minimal impact on browser performance.
