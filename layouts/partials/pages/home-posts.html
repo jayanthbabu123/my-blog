@@ -12,7 +12,7 @@
         {{ $paginator := .Paginate $pages }}
         <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-around;">
         {{ range $paginator.Pages }}
-            <article class="content post home h-entry" style="flex: 0 0 calc(33% - 20px); margin-bottom: 20px; box-sizing: border-box;">
+            <article class="content post home h-entry" >
                 <h2 class="post-title p-name" style="font-size: 1rem;">
                     <a href="{{ .RelPermalink }}" class="summary-title-link u-url">{{ (partial "utils/title.html" (dict "$" . "title" .LinkTitle)).htmlTitle }}</a>
                 </h2>
