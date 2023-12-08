@@ -41,12 +41,12 @@ article.content.post.home {
 }
 
 .welcome-page .main-inner {
-  width: 80em;
+  width: auto;
 }
 
 /* Existing Styles */
 article.content.post.home {
-  flex: 0 0 calc(33% - 20px); /* 3 items per row */
+  flex: 0 0 calc(29% - 20px); /* 3 items per row */
   margin-bottom: 20px;
   box-sizing: border-box;
 }
@@ -62,4 +62,8 @@ article.content.post.home {
   article.content.post.home {
     flex: 0 0 100%; /* 1 item per row on very small screens */
   }
+}
+
+.chroma .c1 {
+    color: #007400;
 }

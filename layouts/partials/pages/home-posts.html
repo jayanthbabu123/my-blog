@@ -10,7 +10,7 @@
         {{ end }}
 
         {{ $paginator := .Paginate $pages }}
-        <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-around;">
+        <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
         {{ range $paginator.Pages }}
             <article class="content post home h-entry" >
                 <h2 class="post-title p-name" style="font-size: 1rem;">
