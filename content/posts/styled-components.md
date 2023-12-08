@@ -16,7 +16,7 @@ tags = [
 ]
 categories= ["React"]
 +++
-
+![How I have used Styled Components in React](/images/styled-components-react.png)
 Styled components have become an essential tool for front-end developers working with React. They allow for the creation of reusable, styled UI components that are encapsulated and easy to maintain. If you’re new to styled components or looking to master them, this comprehensive guide is for you.
 
 From the basics of installation and setup to advanced techniques and best practices, this guide will provide you with everything you need to become a proficient user of styled components in React. Keep reading to learn how to leverage the power of styled components to create beautiful and modular user interfaces.
