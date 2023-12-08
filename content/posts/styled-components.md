@@ -14,6 +14,7 @@ tags = [
   "UI Design",
   "Responsive Design"
 ]
+categories= ["React"]
 +++
 
 Styled components have become an essential tool for front-end developers working with React. They allow for the creation of reusable, styled UI components that are encapsulated and easy to maintain. If you’re new to styled components or looking to master them, this comprehensive guide is for you.
