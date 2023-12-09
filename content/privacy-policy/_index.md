@@ -1,7 +1,7 @@
 +++
 title = 'Privacy Policy'
 date = 2023-12-09T13:21:10+05:30
-draft = true
+draft = false
 +++
 
 # Privacy Policy
