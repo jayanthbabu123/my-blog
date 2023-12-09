@@ -1,5 +1,5 @@
 +++
-title = 'How I have used Styles Components in React'
+title = 'How I have used Styled Components in React'
 date = 2023-12-07T18:12:07+05:30
 draft = false
 tags = [

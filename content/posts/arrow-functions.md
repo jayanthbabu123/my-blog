@@ -1,6 +1,6 @@
 +++
 title = '7 Differences between arrow functions and regular functions in JavaScript'
-date = 2023-12-03T23:44:12+05:30
+date = 2023-12-09T23:44:12+05:30
 tags = [
   "JavaScript",
   "ES6",

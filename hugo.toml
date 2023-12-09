@@ -363,7 +363,7 @@ uglyURLs = false
     siteLogo = "/icons/apple-touch-icon.png"
     # Note: used for JSON-LD, Open Graph
 
-    siteDescription = "MemE is a powerful and highly customizable GoHugo theme for personal blogs."
+    siteDescription = "Program With Jayanth is a dedicated space for aspiring and seasoned front-end developers. Here, Jayanth shares insightful tutorials, cutting-edge techniques, and comprehensive guides on modern web development. From mastering React and JavaScript to exploring CSS and HTML best practices, this blog is your go-to resource for enhancing your coding skills and staying ahead in the ever-evolving world of front-end development."
     # Note: used for HTML head meta, JSON-LD,
     #       Open Graph, Atom, RSS
 

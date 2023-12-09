@@ -17,7 +17,7 @@
 
     <title>7 Differences between arrow functions and regular functions in JavaScript | Program With Jayanth</title>
 
-    <link rel="stylesheet" href="/css/meme.min.f5e0a474bb656352d4264a2cda3bdaa2127229dfa325c8a57f61880119de2507.css"/>
+    <link rel="stylesheet" href="/css/meme.min.74a90842d8443d152366bdb5c2eb654aa35818d0c5e0c3c9a313782cae31f3a7.css"/>
 
     
     
@@ -60,8 +60,8 @@
     {
         "@context": "https://schema.org",
         "@type": "BlogPosting",
-        "datePublished": "2023-12-03T23:44:12+05:30",
-        "dateModified": "2023-12-06T23:14:01+05:30",
+        "datePublished": "2023-12-09T23:44:12+05:30",
+        "dateModified": "2023-12-09T23:52:54+05:30",
         "url": "https://programwithjayanth.com/posts/arrow-functions/",
         "headline": "7 Differences between arrow functions and regular functions in JavaScript",
         "description": "Introduction 🚀 Welcome to the world of JavaScript! In this article, we’re diving into one of the key parts of JavaScript coding: functions. We’ll compare two types of functions you’ll often see — Regular Functions and Arrow Functions, which were added in the latest version, ES6.",
@@ -110,8 +110,8 @@
 <meta property="og:site_name" content="Program With Jayanth" />
 <meta property="og:locale" content="en" /><meta property="og:image" content="https://programwithjayanth.com/images/arrow-regular.png" />
 <meta property="og:type" content="article" />
-    <meta property="article:published_time" content="2023-12-03T23:44:12&#43;05:30" />
-    <meta property="article:modified_time" content="2023-12-06T23:14:01&#43;05:30" />
+    <meta property="article:published_time" content="2023-12-09T23:44:12&#43;05:30" />
+    <meta property="article:modified_time" content="2023-12-09T23:52:54&#43;05:30" />
     
     <meta property="article:section" content="posts" />
 
@@ -162,6 +162,11 @@
         
             
                 <li class="menu-item"><a href="/about/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512" class="icon user-circle"><path d="M248 8C111 8 0 119 0 256s111 248 248 248 248-111 248-248S385 8 248 8zm0 96c48.6 0 88 39.4 88 88s-39.4 88-88 88-88-39.4-88-88 39.4-88 88-88zm0 344c-58.7 0-111.3-26.6-146.5-68.2 18.8-35.4 55.6-59.8 98.5-59.8 2.4 0 4.8.4 7.1 1.1 13 4.2 26.6 6.9 40.9 6.9 14.3 0 28-2.7 40.9-6.9 2.3-.7 4.7-1.1 7.1-1.1 42.9 0 79.7 24.4 98.5 59.8C359.3 421.4 306.7 448 248 448z"/></svg><span class="menu-item-name">About</span></a>
+                </li>
+            
+        
+            
+                <li class="menu-item"><a href="/privacy-policy/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512" class="icon user-circle"><path d="M248 8C111 8 0 119 0 256s111 248 248 248 248-111 248-248S385 8 248 8zm0 96c48.6 0 88 39.4 88 88s-39.4 88-88 88-88-39.4-88-88 39.4-88 88-88zm0 344c-58.7 0-111.3-26.6-146.5-68.2 18.8-35.4 55.6-59.8 98.5-59.8 2.4 0 4.8.4 7.1 1.1 13 4.2 26.6 6.9 40.9 6.9 14.3 0 28-2.7 40.9-6.9 2.3-.7 4.7-1.1 7.1-1.1 42.9 0 79.7 24.4 98.5 59.8C359.3 421.4 306.7 448 248 448z"/></svg><span class="menu-item-name">Privacy</span></a>
                 </li>
             
         
@@ -242,11 +247,11 @@
 <div class="post-meta">
     
         
-        <time datetime="2023-12-03T23:44:12&#43;05:30" class="post-meta-item published dt-published"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="icon post-meta-icon"><path d="M148 288h-40c-6.6 0-12-5.4-12-12v-40c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12zm108-12v-40c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12zm96 0v-40c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12zm-96 96v-40c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12zm-96 0v-40c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12zm192 0v-40c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12zm96-260v352c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V112c0-26.5 21.5-48 48-48h48V12c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v52h128V12c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v52h48c26.5 0 48 21.5 48 48zm-48 346V160H48v298c0 3.3 2.7 6 6 6h340c3.3 0 6-2.7 6-6z"/></svg>&nbsp;2023.12.3</time>
+        <time datetime="2023-12-09T23:44:12&#43;05:30" class="post-meta-item published dt-published"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="icon post-meta-icon"><path d="M148 288h-40c-6.6 0-12-5.4-12-12v-40c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12zm108-12v-40c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12zm96 0v-40c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12zm-96 96v-40c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12zm-96 0v-40c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12zm192 0v-40c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12zm96-260v352c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V112c0-26.5 21.5-48 48-48h48V12c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v52h128V12c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v52h48c26.5 0 48 21.5 48 48zm-48 346V160H48v298c0 3.3 2.7 6 6 6h340c3.3 0 6-2.7 6-6z"/></svg>&nbsp;2023.12.9</time>
     
     
         
-        <time datetime="2023-12-06T23:14:01&#43;05:30" class="post-meta-item modified dt-updated"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="icon post-meta-icon"><path d="M400 64h-48V12c0-6.627-5.373-12-12-12h-40c-6.627 0-12 5.373-12 12v52H160V12c0-6.627-5.373-12-12-12h-40c-6.627 0-12 5.373-12 12v52H48C21.49 64 0 85.49 0 112v352c0 26.51 21.49 48 48 48h352c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm-6 400H54a6 6 0 0 1-6-6V160h352v298a6 6 0 0 1-6 6zm-52.849-200.65L198.842 404.519c-4.705 4.667-12.303 4.637-16.971-.068l-75.091-75.699c-4.667-4.705-4.637-12.303.068-16.971l22.719-22.536c4.705-4.667 12.303-4.637 16.97.069l44.104 44.461 111.072-110.181c4.705-4.667 12.303-4.637 16.971.068l22.536 22.718c4.667 4.705 4.636 12.303-.069 16.97z"/></svg>&nbsp;2023.12.6</time>
+        <time datetime="2023-12-09T23:52:54&#43;05:30" class="post-meta-item modified dt-updated"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="icon post-meta-icon"><path d="M400 64h-48V12c0-6.627-5.373-12-12-12h-40c-6.627 0-12 5.373-12 12v52H160V12c0-6.627-5.373-12-12-12h-40c-6.627 0-12 5.373-12 12v52H48C21.49 64 0 85.49 0 112v352c0 26.51 21.49 48 48 48h352c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm-6 400H54a6 6 0 0 1-6-6V160h352v298a6 6 0 0 1-6 6zm-52.849-200.65L198.842 404.519c-4.705 4.667-12.303 4.637-16.971-.068l-75.091-75.699c-4.667-4.705-4.637-12.303.068-16.971l22.719-22.536c4.705-4.667 12.303-4.637 16.97.069l44.104 44.461 111.072-110.181c4.705-4.667 12.303-4.637 16.971.068l22.536 22.718c4.667 4.705 4.636 12.303-.069 16.97z"/></svg>&nbsp;2023.12.9</time>
     
     
     
@@ -590,9 +595,9 @@ Regular functions can be declared as generator functions, which enables them to 
 
         
     <div class="updated-badge-container">
-        <span title="Updated @ 2023-12-06 23:14:01 IST" style="cursor:help">
+        <span title="Updated @ 2023-12-09 23:52:54 IST" style="cursor:help">
 
-<svg xmlns="http://www.w3.org/2000/svg" width="130" height="20" class="updated-badge"><linearGradient id="b" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="a"><rect width="130" height="20" rx="3" fill="#fff"/></clipPath><g clip-path="url(#a)"><path class="updated-badge-left" d="M0 0h55v20H0z"/><path class="updated-badge-right" d="M55 0h75v20H55z"/><path fill="url(#b)" d="M0 0h130v20H0z"/></g><g fill="#fff" text-anchor="middle" font-size="110"><text x="285" y="150" fill="#010101" fill-opacity=".3" textLength="450" transform="scale(.1)">updated</text><text x="285" y="140" textLength="450" transform="scale(.1)">updated</text><text x="915" y="150" fill="#010101" fill-opacity=".3" textLength="650" transform="scale(.1)">2023-12-06</text><text x="915" y="140" textLength="650" transform="scale(.1)">2023-12-06</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="130" height="20" class="updated-badge"><linearGradient id="b" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="a"><rect width="130" height="20" rx="3" fill="#fff"/></clipPath><g clip-path="url(#a)"><path class="updated-badge-left" d="M0 0h55v20H0z"/><path class="updated-badge-right" d="M55 0h75v20H55z"/><path fill="url(#b)" d="M0 0h130v20H0z"/></g><g fill="#fff" text-anchor="middle" font-size="110"><text x="285" y="150" fill="#010101" fill-opacity=".3" textLength="450" transform="scale(.1)">updated</text><text x="285" y="140" textLength="450" transform="scale(.1)">updated</text><text x="915" y="150" fill="#010101" fill-opacity=".3" textLength="650" transform="scale(.1)">2023-12-09</text><text x="915" y="140" textLength="650" transform="scale(.1)">2023-12-09</text></g></svg>
         </span></div>
 
 
@@ -730,6 +735,14 @@ Regular functions can be declared as generator functions, which enables them to 
             <ul class="related-list">
                 
                     <li class="related-item">
+                        <a href="/posts/excel-json-javascript/" class="related-link">How to Convert Excel File Data into a JSON Object Using JavaScript</a>
+                    </li>
+                
+                    <li class="related-item">
+                        <a href="/posts/styled-components/" class="related-link">How I have used Styled Components in React</a>
+                    </li>
+                
+                    <li class="related-item">
                         <a href="/posts/closures-react/" class="related-link">How I have used Closures in React</a>
                     </li>
                 
@@ -840,13 +853,9 @@ Regular functions can be declared as generator functions, which enables them to 
     
         <ul class="post-nav">
             
-                <li class="post-nav-prev">
-                    <a href="/posts/closures-react/" rel="prev">&lt; How I have used Closures in React</a>
-                </li>
-            
             
                 <li class="post-nav-next">
-                    <a href="/posts/virtual-dom/" rel="next">How I Answered “What is Virtual DOM in React?” in My Interview 🤔 &gt;</a>
+                    <a href="/posts/styled-components/" rel="next">How I have used Styled Components in React &gt;</a>
                 </li>
             
         </ul>
