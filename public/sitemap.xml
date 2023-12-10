@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://programwithjayanth.com/posts/multiple-ways-create-object/</loc>
+    <lastmod>2023-12-10T21:16:41+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/posts/</loc>
+    <lastmod>2023-12-10T21:16:41+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/</loc>
+    <lastmod>2023-12-10T21:16:41+05:30</lastmod>
+  </url><url>
     <loc>https://programwithjayanth.com/posts/arrow-functions/</loc>
     <lastmod>2023-12-09T23:52:54+05:30</lastmod>
   </url><url>
@@ -9,7 +18,7 @@
     <lastmod>2023-12-09T23:52:54+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/categories/</loc>
-    <lastmod>2023-12-09T23:56:55+05:30</lastmod>
+    <lastmod>2023-12-10T00:06:11+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/coding-best-practices/</loc>
     <lastmod>2023-12-09T23:52:54+05:30</lastmod>
@@ -21,28 +30,22 @@
     <lastmod>2023-12-09T23:52:54+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/javascript/</loc>
-    <lastmod>2023-12-09T23:56:55+05:30</lastmod>
+    <lastmod>2023-12-10T00:06:11+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/categories/javascript/</loc>
-    <lastmod>2023-12-09T23:56:55+05:30</lastmod>
+    <lastmod>2023-12-10T00:06:11+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/javascript-functions/</loc>
     <lastmod>2023-12-09T23:52:54+05:30</lastmod>
   </url><url>
-    <loc>https://programwithjayanth.com/posts/</loc>
-    <lastmod>2023-12-09T23:56:55+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/</loc>
-    <lastmod>2023-12-09T23:56:55+05:30</lastmod>
-  </url><url>
     <loc>https://programwithjayanth.com/tags/programming/</loc>
-    <lastmod>2023-12-09T23:56:55+05:30</lastmod>
+    <lastmod>2023-12-10T00:06:11+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/regular-functions/</loc>
     <lastmod>2023-12-09T23:52:54+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/web-development/</loc>
-    <lastmod>2023-12-09T23:56:55+05:30</lastmod>
+    <lastmod>2023-12-10T00:06:11+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/privacy-policy/</loc>
     <lastmod>2023-12-09T13:39:49+05:30</lastmod>
@@ -102,28 +105,28 @@
     <lastmod>2023-12-07T00:24:49+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/client-side-scripting/</loc>
-    <lastmod>2023-12-09T23:56:55+05:30</lastmod>
+    <lastmod>2023-12-10T00:06:11+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/code-tutorial/</loc>
-    <lastmod>2023-12-09T23:56:55+05:30</lastmod>
+    <lastmod>2023-12-10T00:06:11+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/data-conversion/</loc>
-    <lastmod>2023-12-09T23:56:55+05:30</lastmod>
+    <lastmod>2023-12-10T00:06:11+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/excel/</loc>
-    <lastmod>2023-12-09T23:56:55+05:30</lastmod>
+    <lastmod>2023-12-10T00:06:11+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/front-end-development/</loc>
-    <lastmod>2023-12-09T23:56:55+05:30</lastmod>
+    <lastmod>2023-12-10T00:06:11+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/posts/excel-json-javascript/</loc>
-    <lastmod>2023-12-09T23:56:55+05:30</lastmod>
+    <lastmod>2023-12-10T00:06:11+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/json/</loc>
-    <lastmod>2023-12-09T23:56:55+05:30</lastmod>
+    <lastmod>2023-12-10T00:06:11+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/xlsx/</loc>
-    <lastmod>2023-12-09T23:56:55+05:30</lastmod>
+    <lastmod>2023-12-10T00:06:11+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/frontend-development/</loc>
     <lastmod>2023-12-07T00:29:51+05:30</lastmod>

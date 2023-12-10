@@ -18,7 +18,7 @@ draft = false
 +++
 
 ![How Real DOM works with HTML and JavaScript](/images/excel-json-javascript-min.png)
-## Introduction 🌐
+### Introduction 🌐
 
 In today’s fast-paced digital world, efficiency is key, especially when dealing with data. A common challenge many developers face is converting `Excel files` into `JSON` format for easier manipulation and integration into web applications. While there are various methods to achieve this, using JavaScript for client-side conversion stands out for its simplicity and effectiveness. This approach negates the need for server-side processing, offering a swift and streamlined solution directly in the browser.
 
@@ -28,7 +28,7 @@ The conversion process utilizes a JavaScript plugin named `XLSX`, which is adept
 
 **Plugins Required:** xlsx.full.min.js
 
-## Step-1: Setting Up the XLSX Library ⚙️
+### Step-1: Setting Up the XLSX Library ⚙️
 
 Begin by incorporating the `XLSX` library into your HTML document. This is done by adding the `CDN (Content Delivery Network) link` of the library within the `<head>` tag of your HTML file, as shown below:
 
@@ -50,7 +50,7 @@ Begin by incorporating the `XLSX` library into your HTML document. This is done 
 </html>
 ```
 
-## Step-2: Creating the File Input and Convert Button 📂
+### Step-2: Creating the File Input and Convert Button 📂
 
 Now, within the `<body>` section of your HTML document, we need to insert an `<input>` element configured to accept files. Specifically, we want to ensure that users can only select files with an `.xls` or `.xlsx` extension, which are standard formats for Excel files. Insert the following code snippet into the `<body>` tag of your HTML to achieve this:
 
@@ -63,7 +63,7 @@ Now, within the `<body>` section of your HTML document, we need to insert an `<i
 
 This code creates a file input field that filters out non-Excel files, a button that initiates the conversion process, and a `<pre>` element to display the formatted JSON output after conversion.
 
-## Step-3: Implementing Event Listeners in JavaScript 🔊
+### Step-3: Implementing Event Listeners in JavaScript 🔊
  
 Now we need to add event listeners for both the input and button elements to handle changes in the input and button click events. In JavaScript, event listeners are functions that wait for an event to occur, like a file being selected or a button being clicked. Here’s how we can add them to our elements:
 
