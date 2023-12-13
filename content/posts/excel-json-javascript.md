@@ -3,21 +3,41 @@ title = 'How to Convert Excel File Data into a JSON Object Using JavaScript'
 date = 2023-12-03T23:44:12+05:30
 tags = [
   "JavaScript",
-  "Excel",
-  "JSON",
+  "Excel to JSON",
   "Data Conversion",
-  "Front End Development",
   "Web Development",
-  "Programming",
+  "Client-Side Scripting",
   "XLSX",
-  "Client Side Scripting",
-  "Code Tutorial"
+  "FileReader API",
+  "Frontend Development",
+  "Excel File Handling",
+  "JavaScript Libraries",
+  "Programming Tutorial",
+  "Code Example",
+  "Data Parsing",
+  "Spreadsheet Management",
+  "Web Application Development",
+  "JavaScript Coding",
+  "Software Development",
+  "Data Integration",
+  "Automation",
+  "JavaScript Excel Reader",
+  "Data Processing",
+  "HTML5",
+  "CSS3",
+  "Responsive Design",
+  "Cross-Browser Compatibility",
+  "Data Visualization",
+  "Data Analysis",
+  "Tech How-To",
+  "Coding Guide"
 ]
 categories = ["JavaScript"]
 draft = false
 +++
 
-![How Real DOM works with HTML and JavaScript](/images/excel-json-javascript-min.png)
+![Excel to json in javascript](/images/excel-json-javascript-min.png)
+
 ### Introduction 🌐
 
 In today’s fast-paced digital world, efficiency is key, especially when dealing with data. A common challenge many developers face is converting `Excel files` into `JSON` format for easier manipulation and integration into web applications. While there are various methods to achieve this, using JavaScript for client-side conversion stands out for its simplicity and effectiveness. This approach negates the need for server-side processing, offering a swift and streamlined solution directly in the browser.
@@ -64,7 +84,7 @@ Now, within the `<body>` section of your HTML document, we need to insert an `<i
 This code creates a file input field that filters out non-Excel files, a button that initiates the conversion process, and a `<pre>` element to display the formatted JSON output after conversion.
 
 ### Step-3: Implementing Event Listeners in JavaScript 🔊
- 
+
 Now we need to add event listeners for both the input and button elements to handle changes in the input and button click events. In JavaScript, event listeners are functions that wait for an event to occur, like a file being selected or a button being clicked. Here’s how we can add them to our elements:
 
 ```javascript
@@ -83,7 +103,7 @@ In JavaScript, we can read the contents of an Excel file by utilizing the FileRe
 
 Here’s the complete HTML and JavaScript code that encapsulates the entire conversion process.
 
-``` html
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -139,6 +159,7 @@ Here’s the complete HTML and JavaScript code that encapsulates the entire conv
 ```
 
 ### Step-5: Execution and Output 🚀
+
 Choose the desired Excel file by clicking on the file selection field, then press the `Convert` button. This action triggers the conversion process, and the resulting JSON object will be displayed directly within the browser. You can then employ this JSON data for various tasks, such as manipulating its content or seamlessly integrating it into diverse user interface layouts.
 
 To facilitate your understanding, I’ve included a live `demo` via a `CodeSandbox` link below. For direct access to the source code, click on the following link.
@@ -148,6 +169,7 @@ Click here for source code [source code](https://github.com/jayanthbabu123/excel
 <iframe src="https://codesandbox.io/p/sandbox/excel-to-json-object-t4lbf" style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;" title="Excel to JSON Demo"></iframe>
 
 ### Additional Resources
+
 For those interested in converting Excel files to JSON using Angular, please refer to the following video tutorial for guidance:
 
 <iframe width="680" height="382" src="https://www.youtube.com/embed/iT_l0l-SPDY" title="How to Convert Excel file into JSON by using Angular | JavaScript | JSON" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -157,6 +179,7 @@ If you’re looking to export a JSON object to an Excel format, consider watchin
 <iframe width="680" height="382" src="https://www.youtube.com/embed/AaN9riXBMTw" title="How to export as excel from JSON object by using JavaScript | JavaScript Tutorials" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Conclusion 📚
+
 In this guide, we’ve walked through the process of converting Excel files to JSON using JavaScript. This skill is invaluable in modern web development and can be applied to a range of projects.
 
 👏 Appreciate your attention. Thank you! :)
