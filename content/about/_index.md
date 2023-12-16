@@ -34,7 +34,7 @@ Hello! I'm <span style="color: #2a9d8f;">Jayanth</span>, a front-end web develop
 Feel free to reach out for collaborations.
 
 - <i class="fas fa-envelope" style="color: #2a9d8f;"></i>  [jsomineni@gmail.com](mailto:jsomineni@gmail.com)
-- <i class="fab fa-linkedin" style="color: #2a9d8f;"></i>  [LinkedIn](www.linkedin.com/in/jayanth-babu-somineni)
+- <i class="fab fa-linkedin" style="color: #2a9d8f;"></i>  [LinkedIn](https://linkedin.com/in/jayanth-babu-somineni)
 - <i class="fab fa-github" style="color: #2a9d8f;"></i>  [GitHub](https://github.com/jayanthbabu123)
 
 Thank you for visiting my page!
