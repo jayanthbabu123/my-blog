@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Program With Jayanth</title>
     <subtitle type="html">Program With Jayanth is a dedicated space for aspiring and seasoned front-end developers. Here, Jayanth shares insightful tutorials, cutting-edge techniques, and comprehensive guides on modern web development. From mastering React and JavaScript to exploring CSS and HTML best practices, this blog is your go-to resource for enhancing your coding skills and staying ahead in the ever-evolving world of front-end development.</subtitle>
-    <updated>2023-12-16T23:15:06&#43;05:30</updated>
+    <updated>2023-12-19T23:12:20&#43;05:30</updated>
     <id>https://programwithjayanth.com/</id>
     <link rel="alternate" type="text/html" href="https://programwithjayanth.com/" />
     <link rel="self" type="application/atom&#43;xml" href="https://programwithjayanth.com/atom.xml" />
@@ -15,12 +15,240 @@
                 <email>jsomineni@gmail.com</email>
             </author>
     
-    <generator uri="https://gohugo.io/" version="0.120.4">Hugo</generator>
+    <generator uri="https://gohugo.io/" version="0.121.1">Hugo</generator>
+        <entry>
+            <title type="text">Difference between Tilde (~) vs Caret (^) in package.json</title>
+            <link rel="alternate" type="text/html" href="https://programwithjayanth.com/posts/difference-between-tlide-caret-in-package-json/" />
+            <id>https://programwithjayanth.com/posts/difference-between-tlide-caret-in-package-json/</id>
+            <updated>2023-12-19T23:10:21&#43;05:30</updated>
+            <published>2023-12-19T22:18:50&#43;05:30</published>
+            <author>
+                    <name>Jayanthbabu</name>
+                    <uri>https://programwithjayanth.com/</uri>
+                    <email>jsomineni@gmail.com</email>
+                    </author>
+            <summary type="html">Introduction In the world of JavaScript development, managing dependencies is a crucial aspect of project setup and maintenance. One key file that plays a vital role in this process is package.json. This file, often found in JavaScript projects like Angular, React, and Vue.</summary>
+            
+                <content type="html">&lt;p&gt;&lt;img src=&#34;https://programwithjayanth.com/images/tlide-caret.png&#34; alt=&#34;difference between caret vs tlide&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
+&lt;p&gt;In the world of JavaScript development, managing dependencies is a crucial aspect of project setup and maintenance. One key file that plays a vital role in this process is package.json. This file, often found in JavaScript projects like &lt;code&gt;Angular&lt;/code&gt;, &lt;code&gt;React&lt;/code&gt;, and &lt;code&gt;Vue.js&lt;/code&gt;, acts as the road map for managing external packages your project depends on. In this blog, we’ll unravel the mystery behind two small but significant symbols in package.json: the &lt;code&gt;tilde (~)&lt;/code&gt; and &lt;code&gt;caret (^)&lt;/code&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;what-is-packagejson&#34;&gt;What is package.json?&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;package.json&lt;/code&gt; is a fundamental component of JavaScript projects. It serves as a manifest file for Node.js projects, containing metadata about the project such as its name, version, and dependencies. Dependencies are external modules or packages that your project needs to function correctly. This file is not only a necessity for Node.js projects but also for front-end projects using frameworks like &lt;code&gt;Angular&lt;/code&gt;, &lt;code&gt;React&lt;/code&gt;, and &lt;code&gt;Vue.js&lt;/code&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;version-numbers-in-packagejson&#34;&gt;Version Numbers in package.json&lt;/h2&gt;
+&lt;p&gt;In package.json, each dependency is listed with a version number, like &lt;code&gt;4.17.1&lt;/code&gt;. This number is a semantic versioning notation, where:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;4&lt;/code&gt; is the major version. It changes when there are significant updates that might break backward compatibility.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;17 &lt;/code&gt;is the minor version. It represents backward-compatible feature additions.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;1&lt;/code&gt; is the patch version. It&amp;rsquo;s for backward-compatible bug fixes.&lt;/p&gt;
+&lt;p&gt;Here, express and moment are two dependencies with the &lt;code&gt;caret (^)&lt;/code&gt; and &lt;code&gt;tilde (~)&lt;/code&gt; symbols preceding their version numbers. Let&amp;rsquo;s explore what these symbols signify.&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s a sample package.json snippet:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;8
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-json&#34; data-lang=&#34;json&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;nt&#34;&gt;&amp;#34;name&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;example-project&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;nt&#34;&gt;&amp;#34;version&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;1.0.0&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;nt&#34;&gt;&amp;#34;dependencies&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nt&#34;&gt;&amp;#34;express&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;^4.17.1&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nt&#34;&gt;&amp;#34;moment&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;~2.24.0&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Notice how &lt;code&gt;express&lt;/code&gt; and &lt;code&gt;moment&lt;/code&gt; have a &lt;code&gt;caret (^)&lt;/code&gt; and &lt;code&gt;tilde (~)&lt;/code&gt; before their version numbers, respectively. These symbols determine how npm (Node Package Manager) updates the packages when you run npm install in your project.&lt;/p&gt;
+&lt;h3 id=&#34;understanding-the-tilde-&#34;&gt;Understanding the Tilde (~)&lt;/h3&gt;
+&lt;p&gt;The &lt;code&gt;tilde (~)&lt;/code&gt; signifies that npm can update to the latest patch release. Patch releases are small, usually fixing bugs without adding new features or causing significant changes.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example with Tilde:&lt;/strong&gt;
+If &amp;ldquo;moment&amp;rdquo;: &amp;ldquo;&lt;code&gt;~2.24.0&lt;/code&gt;&amp;rdquo; is specified, npm can update to any version from &lt;code&gt;2.24.0&lt;/code&gt; to &lt;code&gt;2.24.x&lt;/code&gt;, where x is the latest patch.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-json&#34; data-lang=&#34;json&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;dependencies&amp;#34;&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;nt&#34;&gt;&amp;#34;moment&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;~2.24.0&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;For instance, if moment releases a new patch version, &lt;code&gt;2.24.5&lt;/code&gt;, npm will update to this version, but not to &lt;code&gt;2.25.0&lt;/code&gt;, as that would be a new minor version.&lt;/p&gt;
+&lt;h3 id=&#34;understanding-the-caret-&#34;&gt;Understanding the caret (^)&lt;/h3&gt;
+&lt;p&gt;The &lt;code&gt;caret (^)&lt;/code&gt; is more liberal, allowing updates to the latest minor version. Minor versions can introduce new features but should not break existing functionality.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example with Caret:&lt;/strong&gt;
+&amp;ldquo;express&amp;rdquo;: &amp;ldquo;&lt;code&gt;^4.17.1&lt;/code&gt;&amp;rdquo; tells npm it can update to any &lt;code&gt;4.x.x&lt;/code&gt; version, but not to &lt;code&gt;5.0.0&lt;/code&gt;, which would be a new major version.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-json&#34; data-lang=&#34;json&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;dependencies&amp;#34;&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;nt&#34;&gt;&amp;#34;express&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;^4.17.1&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;So, if Express releases version &lt;code&gt;4.18.0&lt;/code&gt;, npm will update to it. However, it won&amp;rsquo;t update to version &lt;code&gt;5.0.0&lt;/code&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;when-to-use-each&#34;&gt;When to Use Each&lt;/h3&gt;
+&lt;p&gt;The choice between &lt;code&gt;~&lt;/code&gt; and &lt;code&gt;^&lt;/code&gt; depends on your project&amp;rsquo;s needs for stability and adaptability. Use &lt;code&gt;~&lt;/code&gt; for more controlled, patch-level updates, and &lt;code&gt;^&lt;/code&gt; for accepting new features through minor updates.&lt;/p&gt;
+&lt;h3 id=&#34;real-time-example-in-a-react-project&#34;&gt;Real-Time Example in a React Project&lt;/h3&gt;
+&lt;p&gt;In a React application using axios for HTTP requests and date-fns for date management:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Using Tilde:&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-json&#34; data-lang=&#34;json&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;dependencies&amp;#34;&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;nt&#34;&gt;&amp;#34;axios&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;~0.21.0&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;nt&#34;&gt;&amp;#34;date-fns&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;~2.16.0&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;This configuration ensures you get the latest bug fixes for &lt;code&gt;axios&lt;/code&gt; and &lt;code&gt;date-fns&lt;/code&gt; without risking new features that might come with minor versions.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Using Caret:&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-json&#34; data-lang=&#34;json&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;dependencies&amp;#34;&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;nt&#34;&gt;&amp;#34;axios&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;^0.21.0&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;nt&#34;&gt;&amp;#34;date-fns&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;^2.16.0&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Here, your project can automatically adopt new, backward-compatible features from these packages.&lt;/p&gt;
+&lt;h3 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h3&gt;
+&lt;p&gt;Understanding the &lt;code&gt;tilde (~)&lt;/code&gt; and &lt;code&gt;caret (^)&lt;/code&gt; in &lt;code&gt;package.json&lt;/code&gt; is key to managing your JavaScript project dependencies effectively. They offer different approaches to version control, with &lt;code&gt;~&lt;/code&gt; focusing on stability through patch updates and &lt;code&gt;^&lt;/code&gt; on feature adoption via minor updates. Grasping these concepts will enable you to maintain better control over your project&amp;rsquo;s dependencies, ensuring smoother and more predictable development cycles.&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://programwithjayanth.com/categories/javascript/" term="JavaScript" label="JavaScript" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://programwithjayanth.com/tags/javascript/" term="JavaScript" label="JavaScript" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://programwithjayanth.com/tags/nodejs/" term="NodeJS" label="NodeJS" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://programwithjayanth.com/tags/npm/" term="NPM" label="NPM" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://programwithjayanth.com/tags/versioncontrol/" term="VersionControl" label="VersionControl" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://programwithjayanth.com/tags/packagemanagement/" term="PackageManagement" label="PackageManagement" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://programwithjayanth.com/tags/semanticversioning/" term="SemanticVersioning" label="SemanticVersioning" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://programwithjayanth.com/tags/webdevelopment/" term="WebDevelopment" label="WebDevelopment" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://programwithjayanth.com/tags/codingbestpractices/" term="CodingBestPractices" label="CodingBestPractices" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://programwithjayanth.com/tags/hugoblog/" term="HugoBlog" label="HugoBlog" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://programwithjayanth.com/tags/dependencymanagement/" term="DependencyManagement" label="DependencyManagement" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://programwithjayanth.com/tags/frontenddevelopment/" term="FrontendDevelopment" label="FrontendDevelopment" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://programwithjayanth.com/tags/reactjs/" term="ReactJS" label="ReactJS" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://programwithjayanth.com/tags/angularjs/" term="AngularJS" label="AngularJS" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://programwithjayanth.com/tags/vuejs/" term="VueJS" label="VueJS" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">How to create PDF invoices with JavaScript</title>
             <link rel="alternate" type="text/html" href="https://programwithjayanth.com/posts/pdf-invoices-javascript/" />
             <id>https://programwithjayanth.com/posts/pdf-invoices-javascript/</id>
-            <updated>2023-12-13T20:59:08&#43;05:30</updated>
+            <updated>2023-12-19T21:43:32&#43;05:30</updated>
             <published>2023-12-13T20:19:45&#43;05:30</published>
             <author>
                     <name>Jayanthbabu</name>
@@ -469,7 +697,7 @@
             <title type="text">5 ways to create an Object in JavaScript</title>
             <link rel="alternate" type="text/html" href="https://programwithjayanth.com/posts/multiple-ways-create-object/" />
             <id>https://programwithjayanth.com/posts/multiple-ways-create-object/</id>
-            <updated>2023-12-10T21:33:55&#43;05:30</updated>
+            <updated>2023-12-19T21:43:32&#43;05:30</updated>
             <published>2023-12-10T20:16:38&#43;05:30</published>
             <author>
                     <name>Jayanthbabu</name>
@@ -721,7 +949,7 @@
             <title type="text">7 Differences between arrow functions and regular functions in JavaScript</title>
             <link rel="alternate" type="text/html" href="https://programwithjayanth.com/posts/arrow-functions/" />
             <id>https://programwithjayanth.com/posts/arrow-functions/</id>
-            <updated>2023-12-09T23:52:54&#43;05:30</updated>
+            <updated>2023-12-19T21:43:32&#43;05:30</updated>
             <published>2023-12-09T23:44:12&#43;05:30</published>
             <author>
                     <name>Jayanthbabu</name>
@@ -1102,7 +1330,7 @@ Regular functions can be declared as generator functions, which enables them to 
             <title type="text">How I have used Styled Components in React</title>
             <link rel="alternate" type="text/html" href="https://programwithjayanth.com/posts/styled-components/" />
             <id>https://programwithjayanth.com/posts/styled-components/</id>
-            <updated>2023-12-09T23:50:55&#43;05:30</updated>
+            <updated>2023-12-19T21:43:32&#43;05:30</updated>
             <published>2023-12-07T18:12:07&#43;05:30</published>
             <author>
                     <name>Jayanthbabu</name>
@@ -1780,7 +2008,7 @@ Styled components have become an essential tool for front-end developers working
             <title type="text">How I have used Closures in React</title>
             <link rel="alternate" type="text/html" href="https://programwithjayanth.com/posts/closures-react/" />
             <id>https://programwithjayanth.com/posts/closures-react/</id>
-            <updated>2023-12-07T00:24:49&#43;05:30</updated>
+            <updated>2023-12-19T21:43:32&#43;05:30</updated>
             <published>2023-12-07T00:13:02&#43;05:30</published>
             <author>
                     <name>Jayanthbabu</name>
@@ -2068,7 +2296,7 @@ Styled components have become an essential tool for front-end developers working
             <title type="text">How to Convert Excel File Data into a JSON Object Using JavaScript</title>
             <link rel="alternate" type="text/html" href="https://programwithjayanth.com/posts/excel-json-javascript/" />
             <id>https://programwithjayanth.com/posts/excel-json-javascript/</id>
-            <updated>2023-12-13T20:57:08&#43;05:30</updated>
+            <updated>2023-12-19T21:43:32&#43;05:30</updated>
             <published>2023-12-03T23:44:12&#43;05:30</published>
             <author>
                     <name>Jayanthbabu</name>
@@ -2488,7 +2716,7 @@ Styled components have become an essential tool for front-end developers working
             <title type="text">How I Answered “What is Virtual DOM in React?” in My Interview 🤔</title>
             <link rel="alternate" type="text/html" href="https://programwithjayanth.com/posts/virtual-dom/" />
             <id>https://programwithjayanth.com/posts/virtual-dom/</id>
-            <updated>2023-12-07T00:29:51&#43;05:30</updated>
+            <updated>2023-12-19T21:43:32&#43;05:30</updated>
             <published>2023-12-02T20:20:21&#43;05:30</published>
             <author>
                     <name>Jayanthbabu</name>

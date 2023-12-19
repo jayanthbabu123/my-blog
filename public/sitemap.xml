@@ -2,331 +2,373 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://programwithjayanth.com/tags/automate-pdf-download/</loc>
-    <lastmod>2023-12-13T20:59:08+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/tags/bootstrap-invoice-template/</loc>
-    <lastmod>2023-12-13T20:59:08+05:30</lastmod>
+    <loc>https://programwithjayanth.com/tags/angularjs/</loc>
+    <lastmod>2023-12-19T23:10:21+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/categories/</loc>
-    <lastmod>2023-12-13T20:59:08+05:30</lastmod>
+    <lastmod>2023-12-19T23:10:21+05:30</lastmod>
   </url><url>
-    <loc>https://programwithjayanth.com/tags/cdn-html2pdf/</loc>
-    <lastmod>2023-12-13T20:59:08+05:30</lastmod>
+    <loc>https://programwithjayanth.com/tags/codingbestpractices/</loc>
+    <lastmod>2023-12-19T23:10:21+05:30</lastmod>
   </url><url>
-    <loc>https://programwithjayanth.com/tags/client-side-invoice-generation/</loc>
-    <lastmod>2023-12-13T20:59:08+05:30</lastmod>
+    <loc>https://programwithjayanth.com/tags/dependencymanagement/</loc>
+    <lastmod>2023-12-19T23:10:21+05:30</lastmod>
   </url><url>
-    <loc>https://programwithjayanth.com/tags/client-side-pdf-creation/</loc>
-    <lastmod>2023-12-13T20:59:08+05:30</lastmod>
+    <loc>https://programwithjayanth.com/posts/difference-between-tlide-caret-in-package-json/</loc>
+    <lastmod>2023-12-19T23:10:21+05:30</lastmod>
   </url><url>
-    <loc>https://programwithjayanth.com/tags/convert-html-to-pdf/</loc>
-    <lastmod>2023-12-13T20:59:08+05:30</lastmod>
+    <loc>https://programwithjayanth.com/tags/frontenddevelopment/</loc>
+    <lastmod>2023-12-19T23:10:21+05:30</lastmod>
   </url><url>
-    <loc>https://programwithjayanth.com/tags/download-pdf-invoices/</loc>
-    <lastmod>2023-12-13T20:59:08+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/tags/frontend-pdf-generation/</loc>
-    <lastmod>2023-12-13T20:59:08+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/posts/pdf-invoices-javascript/</loc>
-    <lastmod>2023-12-13T20:59:08+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/tags/html-invoice-to-pdf/</loc>
-    <lastmod>2023-12-13T20:59:08+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/tags/html-to-pdf-javascript/</loc>
-    <lastmod>2023-12-13T20:59:08+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/tags/html2canvas-javascript/</loc>
-    <lastmod>2023-12-13T20:59:08+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/tags/html2pdf-library/</loc>
-    <lastmod>2023-12-13T20:59:08+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/tags/hugo-site-pdf-creation/</loc>
-    <lastmod>2023-12-13T20:59:08+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/tags/interactive-pdf-invoices/</loc>
-    <lastmod>2023-12-13T20:59:08+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/categories/javascript/</loc>
-    <lastmod>2023-12-13T20:59:08+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/tags/javascript-invoice-download/</loc>
-    <lastmod>2023-12-13T20:59:08+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/tags/javascript-pdf-generation/</loc>
-    <lastmod>2023-12-13T20:59:08+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/tags/jspdf-library/</loc>
-    <lastmod>2023-12-13T20:59:08+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/tags/npm-html2pdf.js/</loc>
-    <lastmod>2023-12-13T20:59:08+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/tags/open-source-pdf-library/</loc>
-    <lastmod>2023-12-13T20:59:08+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/tags/pdf-download-button/</loc>
-    <lastmod>2023-12-13T20:59:08+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/tags/pdf-download-script/</loc>
-    <lastmod>2023-12-13T20:59:08+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/tags/pdf-generation-from-html/</loc>
-    <lastmod>2023-12-13T20:59:08+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/tags/pdf-generation-guide/</loc>
-    <lastmod>2023-12-13T20:59:08+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/tags/pdf-generation-in-browser/</loc>
-    <lastmod>2023-12-13T20:59:08+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/tags/pdf-generation-javascript-example/</loc>
-    <lastmod>2023-12-13T20:59:08+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/tags/pdf-generation-tutorial/</loc>
-    <lastmod>2023-12-13T20:59:08+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/tags/pdf-save-feature-in-javascript/</loc>
-    <lastmod>2023-12-13T20:59:08+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/tags/pdfmake-vs-html2pdf/</loc>
-    <lastmod>2023-12-13T20:59:08+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/posts/</loc>
-    <lastmod>2023-12-13T20:59:08+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/</loc>
-    <lastmod>2023-12-16T23:09:08+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/tags/save-pdf-from-web-page/</loc>
-    <lastmod>2023-12-13T20:59:08+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/tags/user-friendly-pdf-download/</loc>
-    <lastmod>2023-12-13T20:59:08+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/tags/yarn-add-html2pdf.js/</loc>
-    <lastmod>2023-12-13T20:59:08+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/posts/multiple-ways-create-object/</loc>
-    <lastmod>2023-12-10T21:33:55+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/tags/coding-best-practices/</loc>
-    <lastmod>2023-12-10T21:33:55+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/tags/constructor-functions/</loc>
-    <lastmod>2023-12-10T21:33:55+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/tags/es6/</loc>
-    <lastmod>2023-12-10T21:33:55+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/tags/es6-classes/</loc>
-    <lastmod>2023-12-10T21:33:55+05:30</lastmod>
+    <loc>https://programwithjayanth.com/tags/hugoblog/</loc>
+    <lastmod>2023-12-19T23:10:21+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/javascript/</loc>
-    <lastmod>2023-12-13T20:57:08+05:30</lastmod>
+    <lastmod>2023-12-19T23:10:21+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/categories/javascript/</loc>
+    <lastmod>2023-12-19T23:10:21+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/nodejs/</loc>
+    <lastmod>2023-12-19T23:10:21+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/npm/</loc>
+    <lastmod>2023-12-19T23:10:21+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/packagemanagement/</loc>
+    <lastmod>2023-12-19T23:10:21+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/posts/</loc>
+    <lastmod>2023-12-19T23:10:21+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/</loc>
+    <lastmod>2023-12-19T23:10:21+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/reactjs/</loc>
+    <lastmod>2023-12-19T23:10:21+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/semanticversioning/</loc>
+    <lastmod>2023-12-19T23:10:21+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/versioncontrol/</loc>
+    <lastmod>2023-12-19T23:10:21+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/vuejs/</loc>
+    <lastmod>2023-12-19T23:10:21+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/webdevelopment/</loc>
+    <lastmod>2023-12-19T23:10:21+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/automate-pdf-download/</loc>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/bootstrap-invoice-template/</loc>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/cdn-html2pdf/</loc>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/client-side-invoice-generation/</loc>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/client-side-pdf-creation/</loc>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/convert-html-to-pdf/</loc>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/download-pdf-invoices/</loc>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/frontend-pdf-generation/</loc>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/posts/pdf-invoices-javascript/</loc>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/html-invoice-to-pdf/</loc>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/html-to-pdf-javascript/</loc>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/html2canvas-javascript/</loc>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/html2pdf-library/</loc>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/hugo-site-pdf-creation/</loc>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/interactive-pdf-invoices/</loc>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/javascript-invoice-download/</loc>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/javascript-pdf-generation/</loc>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/jspdf-library/</loc>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/npm-html2pdf.js/</loc>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/open-source-pdf-library/</loc>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/pdf-download-button/</loc>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/pdf-download-script/</loc>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/pdf-generation-from-html/</loc>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/pdf-generation-guide/</loc>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/pdf-generation-in-browser/</loc>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/pdf-generation-javascript-example/</loc>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/pdf-generation-tutorial/</loc>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/pdf-save-feature-in-javascript/</loc>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/pdfmake-vs-html2pdf/</loc>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/save-pdf-from-web-page/</loc>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/user-friendly-pdf-download/</loc>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/yarn-add-html2pdf.js/</loc>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/posts/multiple-ways-create-object/</loc>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/coding-best-practices/</loc>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/constructor-functions/</loc>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/es6/</loc>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/es6-classes/</loc>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/javascript-objects/</loc>
-    <lastmod>2023-12-10T21:33:55+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/object-creation/</loc>
-    <lastmod>2023-12-10T21:33:55+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/object-literals/</loc>
-    <lastmod>2023-12-10T21:33:55+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/object.create/</loc>
-    <lastmod>2023-12-10T21:33:55+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/programming-fundamentals/</loc>
-    <lastmod>2023-12-10T21:33:55+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/software-development/</loc>
-    <lastmod>2023-12-13T20:57:08+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/web-development/</loc>
-    <lastmod>2023-12-13T20:57:08+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/posts/arrow-functions/</loc>
-    <lastmod>2023-12-09T23:52:54+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/arrow-functions/</loc>
-    <lastmod>2023-12-09T23:52:54+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/function-syntax/</loc>
-    <lastmod>2023-12-09T23:52:54+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/javascript-functions/</loc>
-    <lastmod>2023-12-09T23:52:54+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/programming/</loc>
-    <lastmod>2023-12-09T23:52:54+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/regular-functions/</loc>
-    <lastmod>2023-12-09T23:52:54+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/privacy-policy/</loc>
-    <lastmod>2023-12-09T13:39:49+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/component-styling/</loc>
-    <lastmod>2023-12-09T23:50:55+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/css-in-js/</loc>
-    <lastmod>2023-12-09T23:50:55+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/frontend-design/</loc>
-    <lastmod>2023-12-09T23:50:55+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/posts/styled-components/</loc>
-    <lastmod>2023-12-09T23:50:55+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/react/</loc>
-    <lastmod>2023-12-09T23:50:55+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/categories/react/</loc>
-    <lastmod>2023-12-09T23:50:55+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/react-library/</loc>
-    <lastmod>2023-12-09T23:50:55+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/responsive-design/</loc>
-    <lastmod>2023-12-13T20:57:08+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/styled-components/</loc>
-    <lastmod>2023-12-09T23:50:55+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/ui-design/</loc>
-    <lastmod>2023-12-09T23:50:55+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/closures/</loc>
-    <lastmod>2023-12-07T00:24:49+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/functional-programming/</loc>
-    <lastmod>2023-12-07T00:24:49+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/posts/closures-react/</loc>
-    <lastmod>2023-12-07T00:24:49+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/programming-concepts/</loc>
-    <lastmod>2023-12-07T00:24:49+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/react-hooks/</loc>
-    <lastmod>2023-12-07T00:24:49+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/react-patterns/</loc>
-    <lastmod>2023-12-07T00:24:49+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/scope/</loc>
-    <lastmod>2023-12-07T00:24:49+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/state-management/</loc>
-    <lastmod>2023-12-07T00:24:49+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/automation/</loc>
-    <lastmod>2023-12-13T20:57:08+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/client-side-scripting/</loc>
-    <lastmod>2023-12-13T20:57:08+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/code-example/</loc>
-    <lastmod>2023-12-13T20:57:08+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/coding-guide/</loc>
-    <lastmod>2023-12-13T20:57:08+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/cross-browser-compatibility/</loc>
-    <lastmod>2023-12-13T20:57:08+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/css3/</loc>
-    <lastmod>2023-12-13T20:57:08+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/data-analysis/</loc>
-    <lastmod>2023-12-13T20:57:08+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/data-conversion/</loc>
-    <lastmod>2023-12-13T20:57:08+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/data-integration/</loc>
-    <lastmod>2023-12-13T20:57:08+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/data-parsing/</loc>
-    <lastmod>2023-12-13T20:57:08+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/data-processing/</loc>
-    <lastmod>2023-12-13T20:57:08+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/data-visualization/</loc>
-    <lastmod>2023-12-13T20:57:08+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/excel-file-handling/</loc>
-    <lastmod>2023-12-13T20:57:08+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/excel-to-json/</loc>
-    <lastmod>2023-12-13T20:57:08+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/filereader-api/</loc>
-    <lastmod>2023-12-13T20:57:08+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/frontend-development/</loc>
-    <lastmod>2023-12-13T20:57:08+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/posts/excel-json-javascript/</loc>
-    <lastmod>2023-12-13T20:57:08+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/html5/</loc>
-    <lastmod>2023-12-13T20:57:08+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/javascript-coding/</loc>
-    <lastmod>2023-12-13T20:57:08+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/javascript-excel-reader/</loc>
-    <lastmod>2023-12-13T20:57:08+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/javascript-libraries/</loc>
-    <lastmod>2023-12-13T20:57:08+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/programming-tutorial/</loc>
-    <lastmod>2023-12-13T20:57:08+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/spreadsheet-management/</loc>
-    <lastmod>2023-12-13T20:57:08+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/tech-how-to/</loc>
-    <lastmod>2023-12-13T20:57:08+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/web-application-development/</loc>
-    <lastmod>2023-12-13T20:57:08+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/xlsx/</loc>
-    <lastmod>2023-12-13T20:57:08+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/posts/virtual-dom/</loc>
-    <lastmod>2023-12-07T00:29:51+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/interview-preparation/</loc>
-    <lastmod>2023-12-07T00:29:51+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/react-concepts/</loc>
-    <lastmod>2023-12-07T00:29:51+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/react-interview-questions/</loc>
-    <lastmod>2023-12-07T00:29:51+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/ui-rendering/</loc>
-    <lastmod>2023-12-07T00:29:51+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/virtual-dom/</loc>
-    <lastmod>2023-12-07T00:29:51+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/web-performance/</loc>
-    <lastmod>2023-12-07T00:29:51+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/about/</loc>
-    <lastmod>2023-12-16T23:09:08+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/</loc>
-    <lastmod>2023-12-06T21:01:31+05:30</lastmod>
+    <lastmod>2023-12-19T21:43:32+05:30</lastmod>
   </url>
 </urlset>
