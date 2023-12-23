@@ -67,24 +67,46 @@ article.content.post.home {
 .chroma .c1 {
   color: #007400;
 }
-
-@media (max-width: 738px) {
-  #disqus_thread {
-    margin: 0 auto;
-    display: block;
-    width: 90%;
-  }
-}
-
-.main-inner {
-  margin: 0 auto;
-  display: block;
-}
 #disqus_thread {
   margin: 0 auto;
   display: block;
   width: 36em;
 }
-.footer{
+
+@media (max-width: 767px) {
+  #disqus_thread {
+    margin: 0 auto;
+    display: block;
+    width: 90%;
+  }
+  .pagination {
+    margin: 0 auto;
+    width: 90%;
+  }
+}
+
+.pagination {
+  margin: 0 auto;
+  width: 57%;
+}
+.pagination a {
+  border: 1px solid blue;
+  background: blue;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-size: 14px;
+}
+.main-inner {
+  margin: 0 auto;
+  display: block;
+}
+
+.footer {
   position: relative;
+}
+
+.main {
+  padding-top: 2em;
+  padding-bottom: 3em;
 }
