@@ -1,0 +1,6 @@
+{{ define "main" }}
+    {{ partial "pages/post.html" . }}
+{{ end }}
+{{ if .Site.DisqusShortname }}
+  {{ template "_internal/disqus.html" . }}
+{{ end }}

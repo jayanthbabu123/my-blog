@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Program With Jayanth</title>
     <subtitle type="html">Program With Jayanth is a dedicated space for aspiring and seasoned front-end developers. Here, Jayanth shares insightful tutorials, cutting-edge techniques, and comprehensive guides on modern web development. From mastering React and JavaScript to exploring CSS and HTML best practices, this blog is your go-to resource for enhancing your coding skills and staying ahead in the ever-evolving world of front-end development.</subtitle>
-    <updated>2023-12-23T17:33:07&#43;05:30</updated>
+    <updated>2023-12-23T18:36:05&#43;05:30</updated>
     <id>https://programwithjayanth.com/</id>
     <link rel="alternate" type="text/html" href="https://programwithjayanth.com/" />
     <link rel="self" type="application/atom&#43;xml" href="https://programwithjayanth.com/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">3 Ways to Check if a Property Exists in a JavaScript Object 🕵️‍♂️</title>
             <link rel="alternate" type="text/html" href="https://programwithjayanth.com/posts/object-property-existence/" />
             <id>https://programwithjayanth.com/posts/object-property-existence/</id>
-            <updated>2023-12-23T17:31:49&#43;05:30</updated>
+            <updated>2023-12-23T17:38:42&#43;05:30</updated>
             <published>2023-12-23T16:45:10&#43;05:30</published>
             <author>
                     <name>Jayanthbabu</name>
@@ -29,7 +29,8 @@
                     </author>
             <summary type="html">Introduction 🌟 In JavaScript, when dealing with objects, a common challenge is determining if a specific property exist or not. This blog post will guide you through three simple yet effective methods to check for the existence of a property in a JavaScript object.</summary>
             
-                <content type="html">&lt;h3 id=&#34;introduction-&#34;&gt;Introduction 🌟&lt;/h3&gt;
+                <content type="html">&lt;p&gt;&lt;img src=&#34;https://programwithjayanth.com/images/object-properties.png&#34; alt=&#34;Object Property Existence&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;introduction-&#34;&gt;Introduction 🌟&lt;/h3&gt;
 &lt;p&gt;In JavaScript, when dealing with objects, a common challenge is determining if a specific property exist or not. This blog post will guide you through &lt;code&gt;three&lt;/code&gt; simple yet effective methods to check for the existence of a property in a JavaScript object. Whether you&amp;rsquo;re a beginner or an experienced developer, these techniques are essential for robust and error-free code.&lt;/p&gt;
 &lt;h3 id=&#34;1-using-the-in-operator&#34;&gt;1. Using the in Operator 🔍&lt;/h3&gt;
 &lt;p&gt;The &lt;code&gt;in&lt;/code&gt; operator is a straightforward way to check if a property exists in an object. It checks through the object and its &lt;code&gt;prototype&lt;/code&gt; chain.&lt;/p&gt;

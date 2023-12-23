@@ -21,7 +21,7 @@
             <webMaster>jsomineni@gmail.com (Jayanthbabu)</webMaster>
         
         
-        <lastBuildDate>Sat, 23 Dec 2023 17:33:07 &#43;0530</lastBuildDate>
+        <lastBuildDate>Sat, 23 Dec 2023 18:36:05 &#43;0530</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://programwithjayanth.com/rss.xml" />
         
@@ -36,7 +36,8 @@
                 
                 
                 
-                    <description>&lt;h3 id=&#34;introduction-&#34;&gt;Introduction 🌟&lt;/h3&gt;
+                    <description>&lt;p&gt;&lt;img src=&#34;https://programwithjayanth.com/images/object-properties.png&#34; alt=&#34;Object Property Existence&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;introduction-&#34;&gt;Introduction 🌟&lt;/h3&gt;
 &lt;p&gt;In JavaScript, when dealing with objects, a common challenge is determining if a specific property exist or not. This blog post will guide you through &lt;code&gt;three&lt;/code&gt; simple yet effective methods to check for the existence of a property in a JavaScript object. Whether you&amp;rsquo;re a beginner or an experienced developer, these techniques are essential for robust and error-free code.&lt;/p&gt;
 &lt;h3 id=&#34;1-using-the-in-operator&#34;&gt;1. Using the in Operator 🔍&lt;/h3&gt;
 &lt;p&gt;The &lt;code&gt;in&lt;/code&gt; operator is a straightforward way to check if a property exists in an object. It checks through the object and its &lt;code&gt;prototype&lt;/code&gt; chain.&lt;/p&gt;

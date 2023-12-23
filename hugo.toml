@@ -163,7 +163,9 @@ uglyURLs = false
 [services.rss]
     limit = -1
 
-
+[services]
+  [services.disqus]
+    shortname = "jayanth-2"
 
 ##########################################
 # Menu Settings
