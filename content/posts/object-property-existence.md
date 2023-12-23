@@ -16,7 +16,7 @@ tags=[
 ]
 categories = ["JavaScript"]
 +++
-
+![Object Property Existence](/images/object-properties.png)
 ### Introduction 🌟
 
 In JavaScript, when dealing with objects, a common challenge is determining if a specific property exist or not. This blog post will guide you through `three` simple yet effective methods to check for the existence of a property in a JavaScript object. Whether you're a beginner or an experienced developer, these techniques are essential for robust and error-free code.
