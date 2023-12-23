@@ -65,5 +65,23 @@ article.content.post.home {
 }
 
 .chroma .c1 {
-    color: #007400;
+  color: #007400;
+}
+
+@media (max-width: 738px) {
+  #disqus_thread {
+    margin: 0 auto;
+    display: block;
+    width: 90%;
+  }
+}
+
+.main-inner {
+  margin: 0 auto;
+  display: block;
+}
+#disqus_thread {
+  margin: 0 auto;
+  display: block;
+  width: 36em;
 }
