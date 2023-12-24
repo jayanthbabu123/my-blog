@@ -34,6 +34,7 @@ tags = [
 ]
 categories = ["JavaScript"]
 draft = false
+favorite= true
 image= "/images/excel-json-javascript-min.png"
 +++
 

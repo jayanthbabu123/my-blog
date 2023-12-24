@@ -1,52 +1,63 @@
 <main class="main single welcome-page" id="main">
-    <div class="main-inner">
-        <div style="text-align: center; ">
-            <h1>Welcome to Program With Jayanth</h1>
-            <p>I'm here to simplify the web with my insights into front-end development. Enjoy your reading!</p>
-        </div>
-        {{ $pages := where .Site.RegularPages "Section" "in" .Site.Params.mainSections }}
-        {{ if .Site.Params.enableHideInHomepage }}
-            {{ $pages = where $pages ".Params.hideInHomepage" "ne" true }}
-        {{ end }}
-
-        {{ $paginator := .Paginate $pages }}
-        <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-        {{ range $paginator.Pages }}
-            <article class="content post home h-entry" >
-                {{ with .Params.image }}
-    <img src="{{ . }}" alt="Featured Image">
-{{ end }}
-                <h2 class="post-title p-name" style="font-size: 1rem;">
-                    <a href="{{ .RelPermalink }}" class="summary-title-link u-url">{{ (partial "utils/title.html" (dict "$" . "title" .LinkTitle)).htmlTitle }}</a>
-                </h2>
-                <!-- {{ if $.Site.Params.enablePostMetaInHome }}
-                    {{ partial "components/post-meta.html" (dict "$" . "isHome" true) }}
-                {{ end }} -->
-                
-                <summary class="summary p-summary" style="font-size: 0.9rem;">
-                    {{ .Content | plainify | truncate 150 "..." }}
-                </summary>
-                {{ if or .Truncated .Params.summary }}
-                    <div class="read-more-container">
-                        <a href="{{ .RelPermalink }}" class="read-more-link">{{ i18n "readMore" }} »</a>
-                    </div>
-                {{ end }}
-            </article>
-        {{ end }}
-        </div>
-        {{ if or $paginator.HasPrev $paginator.HasNext }}
-            <ul class="pagination">
-                {{ if $paginator.HasPrev }}
-                    <li class="pagination-prev">
-                        <a href="{{ $paginator.Prev.URL }}" rel="prev">&lt; {{ i18n "prevPage" }}</a>
-                    </li>
-                {{ end }}
-                {{ if $paginator.HasNext }}
-                    <li class="pagination-next">
-                        <a href="{{ $paginator.Next.URL }}" rel="next">{{ i18n "nextPage" }} &gt;</a>
-                    </li>
-                {{ end }}
-            </ul>
-        {{ end }}
+  <div class="main-inner">
+    <div style="text-align: center">
+      <h1>Welcome to Program With Jayanth</h1>
+      <p>
+        I'm here to simplify the web with my insights into front-end
+        development. Enjoy your reading!
+      </p>
     </div>
+
+    {{ $allPages := where .Site.RegularPages "Section" "in"
+    .Site.Params.mainSections }} {{ if .Site.Params.enableHideInHomepage }} {{
+    $allPages = where $allPages ".Params.hideInHomepage" "ne" true }} {{ end }}
+    {{ $favoritePosts := where $allPages "Params.favorite" true }} {{
+    $otherPosts := where $allPages "Params.favorite" "!=" true }} {{
+    $combinedPages := union $favoritePosts $otherPosts }} {{ $paginator :=
+    .Paginate $combinedPages 12 }}
+    <div
+      style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center"
+    >
+      {{ range $paginator.Pages }}
+      <article class="content post home h-entry">
+        {{ $image := .Params.image }} {{ $title := .Title }} {{ if $image }}
+        <img src="{{ $image }}" alt="{{ $title }}" loading="lazy" />
+        {{ end }}
+        <h2 class="post-title p-name" style="font-size: 1rem">
+          <a href="{{ .RelPermalink }}" class="summary-title-link u-url">
+            {{ $title }}
+          </a>
+        </h2>
+        <summary class="summary p-summary" style="font-size: 0.9rem">
+          {{ .Content | plainify | truncate 150 "..." }}
+        </summary>
+        {{ if or .Truncated .Params.summary }}
+        <div class="read-more-container">
+          <a href="{{ .RelPermalink }}" class="read-more-link"
+            >{{ i18n "readMore" }} »</a
+          >
+        </div>
+        {{ end }}
+      </article>
+      {{ end }}
+    </div>
+
+    {{ if or $paginator.HasPrev $paginator.HasNext }}
+    <ul class="pagination">
+      {{ if $paginator.HasPrev }}
+      <li class="pagination-prev">
+        <a href="{{ $paginator.Prev.URL }}" rel="prev"
+          >&lt; {{ i18n "prevPage" }}</a
+        >
+      </li>
+      {{ end }} {{ if $paginator.HasNext }}
+      <li class="pagination-next">
+        <a href="{{ $paginator.Next.URL }}" rel="next"
+          >{{ i18n "nextPage" }} &gt;</a
+        >
+      </li>
+      {{ end }}
+    </ul>
+    {{ end }}
+  </div>
 </main>

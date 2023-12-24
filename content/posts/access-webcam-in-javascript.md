@@ -21,6 +21,7 @@ tags=[
     "JavaScript Video Stream"
 ]
 categories = ["JavaScript"]
+favorite= true
 image= "/images/webcam.png"
 +++
 

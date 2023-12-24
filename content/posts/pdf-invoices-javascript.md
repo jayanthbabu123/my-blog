@@ -36,6 +36,7 @@ tags = [
   "frontend PDF generation"
 ]
 categories = ['JavaScript']
+favorite= true
 image= "/images/pdf-invoices.png"
 +++
 
