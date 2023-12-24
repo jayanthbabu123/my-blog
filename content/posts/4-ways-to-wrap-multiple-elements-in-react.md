@@ -16,6 +16,7 @@ tags=[
     "Web Design"
 ]
 categories= ["React"]
+image= "/images/react-fragments.png"
 +++
 
 ![How to wrap multiple elements in React](/images/react-fragments.png)

@@ -14,6 +14,7 @@ tags=[
   "Interview Preparation"
 ]
 categories= ["React"]
+image= "/images/virtual-dom.png"
 +++
 ![How I have used Closures in React](/images/virtual-dom.png)
 ### Introduction 🚀

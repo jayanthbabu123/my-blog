@@ -15,6 +15,7 @@ tags=[
     "Best Practices"
 ]
 categories = ["JavaScript"]
+image= "/images/object-properties.png"
 +++
 ![Object Property Existence](/images/object-properties.png)
 ### Introduction 🌟

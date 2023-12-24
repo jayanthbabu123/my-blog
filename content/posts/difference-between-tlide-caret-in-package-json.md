@@ -19,6 +19,7 @@ tags=[
   "VueJS"
 ]
 categories= ["JavaScript"]
+image= "/images/tlide-caret.png"
 +++
 ![difference between caret vs tlide](/images/tlide-caret.png)
 ### Introduction

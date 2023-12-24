@@ -34,6 +34,7 @@ tags = [
 ]
 categories = ["JavaScript"]
 draft = false
+image= "/images/excel-json-javascript-min.png"
 +++
 
 ![Excel to json in javascript](/images/excel-json-javascript-min.png)

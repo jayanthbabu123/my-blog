@@ -13,6 +13,7 @@ tags = [
   "JavaScript Functions"
 ]
 categories = ["JavaScript"]
+image= "/images/arrow-regular.png"
 draft = false
 +++
 

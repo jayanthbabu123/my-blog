@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Program With Jayanth</title>
     <subtitle type="html">Program With Jayanth is a dedicated space for aspiring and seasoned front-end developers. Here, Jayanth shares insightful tutorials, cutting-edge techniques, and comprehensive guides on modern web development. From mastering React and JavaScript to exploring CSS and HTML best practices, this blog is your go-to resource for enhancing your coding skills and staying ahead in the ever-evolving world of front-end development.</subtitle>
-    <updated>2023-12-23T19:05:07&#43;05:30</updated>
+    <updated>2023-12-24T09:19:07&#43;05:30</updated>
     <id>https://programwithjayanth.com/</id>
     <link rel="alternate" type="text/html" href="https://programwithjayanth.com/" />
     <link rel="self" type="application/atom&#43;xml" href="https://programwithjayanth.com/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">3 Ways to Check if a Property Exists in a JavaScript Object 🕵️‍♂️</title>
             <link rel="alternate" type="text/html" href="https://programwithjayanth.com/posts/object-property-existence/" />
             <id>https://programwithjayanth.com/posts/object-property-existence/</id>
-            <updated>2023-12-23T17:38:42&#43;05:30</updated>
+            <updated>2023-12-24T07:38:31&#43;05:30</updated>
             <published>2023-12-23T16:45:10&#43;05:30</published>
             <author>
                     <name>Jayanthbabu</name>
@@ -248,7 +248,7 @@ Unlike the &lt;code&gt;in&lt;/code&gt; operator, &lt;code&gt;hasOwnProperty&lt;/
             <title type="text">How to Access Webcam in JavaScript 📸</title>
             <link rel="alternate" type="text/html" href="https://programwithjayanth.com/posts/access-webcam-in-javascript/" />
             <id>https://programwithjayanth.com/posts/access-webcam-in-javascript/</id>
-            <updated>2023-12-22T14:49:16&#43;05:30</updated>
+            <updated>2023-12-24T07:35:49&#43;05:30</updated>
             <published>2023-12-22T13:47:44&#43;05:30</published>
             <author>
                     <name>Jayanthbabu</name>
@@ -472,7 +472,7 @@ Unlike the &lt;code&gt;in&lt;/code&gt; operator, &lt;code&gt;hasOwnProperty&lt;/
             <title type="text">4 Ways to Wrap Multiple Elements in React</title>
             <link rel="alternate" type="text/html" href="https://programwithjayanth.com/posts/4-ways-to-wrap-multiple-elements-in-react/" />
             <id>https://programwithjayanth.com/posts/4-ways-to-wrap-multiple-elements-in-react/</id>
-            <updated>2023-12-22T13:38:50&#43;05:30</updated>
+            <updated>2023-12-24T07:33:08&#43;05:30</updated>
             <published>2023-12-22T12:31:47&#43;05:30</published>
             <author>
                     <name>Jayanthbabu</name>
@@ -695,7 +695,7 @@ Unlike the &lt;code&gt;in&lt;/code&gt; operator, &lt;code&gt;hasOwnProperty&lt;/
             <title type="text">TypeScript’s any vs unknown vs never: Complete Guide</title>
             <link rel="alternate" type="text/html" href="https://programwithjayanth.com/posts/typescript-any-unknown-never-types/" />
             <id>https://programwithjayanth.com/posts/typescript-any-unknown-never-types/</id>
-            <updated>2023-12-22T13:38:50&#43;05:30</updated>
+            <updated>2023-12-24T07:39:29&#43;05:30</updated>
             <published>2023-12-21T12:46:53&#43;05:30</published>
             <author>
                     <name>Jayanthbabu</name>
@@ -1088,7 +1088,7 @@ Use &lt;code&gt;never&lt;/code&gt; when writing a function that is not expected 
             <title type="text">Difference between Tilde (~) vs Caret (^) in package.json</title>
             <link rel="alternate" type="text/html" href="https://programwithjayanth.com/posts/difference-between-tlide-caret-in-package-json/" />
             <id>https://programwithjayanth.com/posts/difference-between-tlide-caret-in-package-json/</id>
-            <updated>2023-12-22T13:38:50&#43;05:30</updated>
+            <updated>2023-12-24T07:37:18&#43;05:30</updated>
             <published>2023-12-19T22:18:50&#43;05:30</published>
             <author>
                     <name>Jayanthbabu</name>
@@ -1316,7 +1316,7 @@ If &amp;ldquo;moment&amp;rdquo;: &amp;ldquo;&lt;code&gt;~2.24.0&lt;/code&gt;&amp
             <title type="text">How to create PDF invoices with JavaScript</title>
             <link rel="alternate" type="text/html" href="https://programwithjayanth.com/posts/pdf-invoices-javascript/" />
             <id>https://programwithjayanth.com/posts/pdf-invoices-javascript/</id>
-            <updated>2023-12-13T20:59:08&#43;05:30</updated>
+            <updated>2023-12-24T07:38:48&#43;05:30</updated>
             <published>2023-12-13T20:19:45&#43;05:30</published>
             <author>
                     <name>Jayanthbabu</name>
@@ -1765,7 +1765,7 @@ If &amp;ldquo;moment&amp;rdquo;: &amp;ldquo;&lt;code&gt;~2.24.0&lt;/code&gt;&amp
             <title type="text">5 ways to create an Object in JavaScript</title>
             <link rel="alternate" type="text/html" href="https://programwithjayanth.com/posts/multiple-ways-create-object/" />
             <id>https://programwithjayanth.com/posts/multiple-ways-create-object/</id>
-            <updated>2023-12-10T21:33:55&#43;05:30</updated>
+            <updated>2023-12-24T07:38:13&#43;05:30</updated>
             <published>2023-12-10T20:16:38&#43;05:30</published>
             <author>
                     <name>Jayanthbabu</name>
@@ -2017,7 +2017,7 @@ If &amp;ldquo;moment&amp;rdquo;: &amp;ldquo;&lt;code&gt;~2.24.0&lt;/code&gt;&amp
             <title type="text">7 Differences between arrow functions and regular functions in JavaScript</title>
             <link rel="alternate" type="text/html" href="https://programwithjayanth.com/posts/arrow-functions/" />
             <id>https://programwithjayanth.com/posts/arrow-functions/</id>
-            <updated>2023-12-09T23:52:54&#43;05:30</updated>
+            <updated>2023-12-24T07:36:28&#43;05:30</updated>
             <published>2023-12-09T23:44:12&#43;05:30</published>
             <author>
                     <name>Jayanthbabu</name>
@@ -2398,7 +2398,7 @@ Regular functions can be declared as generator functions, which enables them to 
             <title type="text">How I have used Styled Components in React</title>
             <link rel="alternate" type="text/html" href="https://programwithjayanth.com/posts/styled-components/" />
             <id>https://programwithjayanth.com/posts/styled-components/</id>
-            <updated>2023-12-09T23:50:55&#43;05:30</updated>
+            <updated>2023-12-24T07:39:09&#43;05:30</updated>
             <published>2023-12-07T18:12:07&#43;05:30</published>
             <author>
                     <name>Jayanthbabu</name>
@@ -3076,7 +3076,7 @@ Styled components have become an essential tool for front-end developers working
             <title type="text">How I have used Closures in React</title>
             <link rel="alternate" type="text/html" href="https://programwithjayanth.com/posts/closures-react/" />
             <id>https://programwithjayanth.com/posts/closures-react/</id>
-            <updated>2023-12-07T00:24:49&#43;05:30</updated>
+            <updated>2023-12-24T07:36:50&#43;05:30</updated>
             <published>2023-12-07T00:13:02&#43;05:30</published>
             <author>
                     <name>Jayanthbabu</name>
@@ -3364,7 +3364,7 @@ Styled components have become an essential tool for front-end developers working
             <title type="text">How to Convert Excel File Data into a JSON Object Using JavaScript</title>
             <link rel="alternate" type="text/html" href="https://programwithjayanth.com/posts/excel-json-javascript/" />
             <id>https://programwithjayanth.com/posts/excel-json-javascript/</id>
-            <updated>2023-12-13T20:57:08&#43;05:30</updated>
+            <updated>2023-12-24T07:37:56&#43;05:30</updated>
             <published>2023-12-03T23:44:12&#43;05:30</published>
             <author>
                     <name>Jayanthbabu</name>
@@ -3784,7 +3784,7 @@ Styled components have become an essential tool for front-end developers working
             <title type="text">How I Answered “What is Virtual DOM in React?” in My Interview 🤔</title>
             <link rel="alternate" type="text/html" href="https://programwithjayanth.com/posts/virtual-dom/" />
             <id>https://programwithjayanth.com/posts/virtual-dom/</id>
-            <updated>2023-12-07T00:29:51&#43;05:30</updated>
+            <updated>2023-12-24T07:39:54&#43;05:30</updated>
             <published>2023-12-02T20:20:21&#43;05:30</published>
             <author>
                     <name>Jayanthbabu</name>

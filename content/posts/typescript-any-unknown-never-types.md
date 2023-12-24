@@ -25,6 +25,7 @@ tags=[
     "Learn TypeScript"
 ]
 categories= ["TypeScript"]
+image= "/images/typescript.png"
 +++
 ![Typescript types](/images/typescript.png)
 

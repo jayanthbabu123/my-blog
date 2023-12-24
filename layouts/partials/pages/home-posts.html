@@ -13,14 +13,18 @@
         <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
         {{ range $paginator.Pages }}
             <article class="content post home h-entry" >
+                {{ with .Params.image }}
+    <img src="{{ . }}" alt="Featured Image">
+{{ end }}
                 <h2 class="post-title p-name" style="font-size: 1rem;">
                     <a href="{{ .RelPermalink }}" class="summary-title-link u-url">{{ (partial "utils/title.html" (dict "$" . "title" .LinkTitle)).htmlTitle }}</a>
                 </h2>
-                {{ if $.Site.Params.enablePostMetaInHome }}
+                <!-- {{ if $.Site.Params.enablePostMetaInHome }}
                     {{ partial "components/post-meta.html" (dict "$" . "isHome" true) }}
-                {{ end }}
+                {{ end }} -->
+                
                 <summary class="summary p-summary" style="font-size: 0.9rem;">
-                    {{ partial "utils/summary.html" . }}
+                    {{ .Content | plainify | truncate 150 "..." }}
                 </summary>
                 {{ if or .Truncated .Params.summary }}
                     <div class="read-more-container">

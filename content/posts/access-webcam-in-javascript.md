@@ -21,6 +21,7 @@ tags=[
     "JavaScript Video Stream"
 ]
 categories = ["JavaScript"]
+image= "/images/webcam.png"
 +++
 
 ![Access webcam JavaScript](/images/webcam.png)

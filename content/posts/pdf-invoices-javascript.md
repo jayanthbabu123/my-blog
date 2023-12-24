@@ -36,6 +36,7 @@ tags = [
   "frontend PDF generation"
 ]
 categories = ['JavaScript']
+image= "/images/pdf-invoices.png"
 +++
 
 ![How to download web pages as pdf in javascript ](/images/pdf-invoices.png)

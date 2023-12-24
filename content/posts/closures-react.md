@@ -15,6 +15,7 @@ tags=[
   "Programming Concepts"
 ]
 categories= ["React"]
+image= "/images/closures-react.png"
 +++
 ![How I have used Closures in React](/images/closures-react.png)
 ### Introduction 🚀

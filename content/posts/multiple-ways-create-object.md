@@ -4,6 +4,7 @@ date = 2023-12-10T20:16:38+05:30
 tags= ["JavaScript", "Object Creation", "Web Development", "Programming Fundamentals", "ES6", "Object Literals", "Constructor Functions", "Object.create", "ES6 Classes", "Coding Best Practices", "JavaScript Objects", "Software Development"]
 categories = ["JavaScript"]
 draft = false
+image= "/images/create-object-javascript.png"
 +++
 
 ![How I have used Styled Components in React](/images/create-object-javascript.png)
