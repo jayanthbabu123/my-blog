@@ -2,14 +2,74 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://programwithjayanth.com/categories/</loc>
+    <lastmod>2023-12-25T10:19:38+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/coding-qr-codes/</loc>
+    <lastmod>2023-12-25T10:19:38+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/frontend-development/</loc>
+    <lastmod>2023-12-25T10:19:38+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/posts/generate-qr-code-in-react/</loc>
+    <lastmod>2023-12-25T10:19:38+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/interactive-web-apps/</loc>
+    <lastmod>2023-12-25T10:19:38+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/javascript-library/</loc>
+    <lastmod>2023-12-25T10:19:38+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/modern-web-development/</loc>
+    <lastmod>2023-12-25T10:19:38+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/posts/</loc>
+    <lastmod>2023-12-25T10:19:38+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/</loc>
+    <lastmod>2023-12-25T10:19:38+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/qr-code-generation/</loc>
+    <lastmod>2023-12-25T10:19:38+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/qr-code-in-react/</loc>
+    <lastmod>2023-12-25T10:19:38+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/qrcode.react/</loc>
+    <lastmod>2023-12-25T10:19:38+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/categories/react/</loc>
+    <lastmod>2023-12-25T10:19:38+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/react-components/</loc>
+    <lastmod>2023-12-25T10:19:38+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/react-development/</loc>
+    <lastmod>2023-12-25T10:19:38+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/react-for-beginners/</loc>
+    <lastmod>2023-12-25T10:19:38+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/react-programming/</loc>
+    <lastmod>2023-12-25T10:19:38+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/react-qr-code/</loc>
+    <lastmod>2023-12-25T10:19:38+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/react-tutorial/</loc>
+    <lastmod>2023-12-25T10:19:38+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/reactjs/</loc>
+    <lastmod>2023-12-25T10:19:38+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/web-development/</loc>
+    <lastmod>2023-12-25T10:19:38+05:30</lastmod>
+  </url><url>
     <loc>https://programwithjayanth.com/posts/object-property-existence/</loc>
     <lastmod>2023-12-24T07:38:31+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/best-practices/</loc>
     <lastmod>2023-12-24T07:38:31+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/categories/</loc>
-    <lastmod>2023-12-24T09:38:03+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/code-optimization/</loc>
     <lastmod>2023-12-24T07:38:31+05:30</lastmod>
@@ -32,20 +92,11 @@
     <loc>https://programwithjayanth.com/tags/object-properties/</loc>
     <lastmod>2023-12-24T07:38:31+05:30</lastmod>
   </url><url>
-    <loc>https://programwithjayanth.com/posts/</loc>
-    <lastmod>2023-12-24T09:38:03+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/</loc>
-    <lastmod>2023-12-24T09:38:03+05:30</lastmod>
-  </url><url>
     <loc>https://programwithjayanth.com/tags/programming/</loc>
     <lastmod>2023-12-24T07:38:31+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/software-engineering/</loc>
     <lastmod>2023-12-24T07:38:31+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/tags/web-development/</loc>
-    <lastmod>2023-12-24T09:37:27+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/accessing-camera-in-js/</loc>
     <lastmod>2023-12-24T09:38:03+05:30</lastmod>
@@ -101,23 +152,11 @@
     <loc>https://programwithjayanth.com/tags/coding/</loc>
     <lastmod>2023-12-24T07:33:08+05:30</lastmod>
   </url><url>
-    <loc>https://programwithjayanth.com/tags/frontend-development/</loc>
-    <lastmod>2023-12-24T09:37:51+05:30</lastmod>
-  </url><url>
     <loc>https://programwithjayanth.com/tags/react/</loc>
     <lastmod>2023-12-24T09:37:51+05:30</lastmod>
   </url><url>
-    <loc>https://programwithjayanth.com/categories/react/</loc>
-    <lastmod>2023-12-24T09:37:51+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/tags/react-components/</loc>
-    <lastmod>2023-12-24T07:33:08+05:30</lastmod>
-  </url><url>
     <loc>https://programwithjayanth.com/tags/react-fragments/</loc>
     <lastmod>2023-12-24T07:33:08+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/tags/reactjs/</loc>
-    <lastmod>2023-12-24T07:37:18+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/ui-development/</loc>
     <lastmod>2023-12-24T07:33:08+05:30</lastmod>
@@ -126,67 +165,67 @@
     <lastmod>2023-12-24T07:33:08+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/coding-in-typescript/</loc>
-    <lastmod>2023-12-24T07:39:29+05:30</lastmod>
+    <lastmod>2023-12-25T10:17:11+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/javascript-superset/</loc>
-    <lastmod>2023-12-24T07:39:29+05:30</lastmod>
+    <lastmod>2023-12-25T10:17:11+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/learn-typescript/</loc>
-    <lastmod>2023-12-24T07:39:29+05:30</lastmod>
+    <lastmod>2023-12-25T10:17:11+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/programming-best-practices/</loc>
-    <lastmod>2023-12-24T07:39:29+05:30</lastmod>
+    <lastmod>2023-12-25T10:17:11+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/static-type-checking/</loc>
-    <lastmod>2023-12-24T07:39:29+05:30</lastmod>
+    <lastmod>2023-12-25T10:17:11+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/type-safety/</loc>
-    <lastmod>2023-12-24T07:39:29+05:30</lastmod>
+    <lastmod>2023-12-25T10:17:11+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/categories/typescript/</loc>
-    <lastmod>2023-12-24T07:39:29+05:30</lastmod>
+    <lastmod>2023-12-25T10:17:11+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/typescript-advanced-concepts/</loc>
-    <lastmod>2023-12-24T07:39:29+05:30</lastmod>
+    <lastmod>2023-12-25T10:17:11+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/typescript-any-type/</loc>
-    <lastmod>2023-12-24T07:39:29+05:30</lastmod>
+    <lastmod>2023-12-25T10:17:11+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/typescript-basics/</loc>
-    <lastmod>2023-12-24T07:39:29+05:30</lastmod>
+    <lastmod>2023-12-25T10:17:11+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/typescript-blog/</loc>
-    <lastmod>2023-12-24T07:39:29+05:30</lastmod>
+    <lastmod>2023-12-25T10:17:11+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/typescript-development/</loc>
-    <lastmod>2023-12-24T07:39:29+05:30</lastmod>
+    <lastmod>2023-12-25T10:17:11+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/typescript-examples/</loc>
-    <lastmod>2023-12-24T07:39:29+05:30</lastmod>
+    <lastmod>2023-12-25T10:17:11+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/typescript-for-beginners/</loc>
-    <lastmod>2023-12-24T07:39:29+05:30</lastmod>
+    <lastmod>2023-12-25T10:17:11+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/typescript-guide/</loc>
-    <lastmod>2023-12-24T07:39:29+05:30</lastmod>
+    <lastmod>2023-12-25T10:17:11+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/typescript-never-type/</loc>
-    <lastmod>2023-12-24T07:39:29+05:30</lastmod>
+    <lastmod>2023-12-25T10:17:11+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/typescript-tutorial/</loc>
-    <lastmod>2023-12-24T07:39:29+05:30</lastmod>
+    <lastmod>2023-12-25T10:17:11+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/typescript-type-system/</loc>
-    <lastmod>2023-12-24T07:39:29+05:30</lastmod>
+    <lastmod>2023-12-25T10:17:11+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/typescript-types/</loc>
-    <lastmod>2023-12-24T07:39:29+05:30</lastmod>
+    <lastmod>2023-12-25T10:17:11+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/typescript-unknown-type/</loc>
-    <lastmod>2023-12-24T07:39:29+05:30</lastmod>
+    <lastmod>2023-12-25T10:17:11+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/posts/typescript-any-unknown-never-types/</loc>
-    <lastmod>2023-12-24T07:39:29+05:30</lastmod>
+    <lastmod>2023-12-25T10:17:11+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/angularjs/</loc>
     <lastmod>2023-12-24T07:37:18+05:30</lastmod>
