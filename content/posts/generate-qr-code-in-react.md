@@ -1,5 +1,5 @@
 +++
-title = 'Generate Qr Code in React'
+title = 'How to Generate QR Code in React'
 date = 2023-12-25T09:58:24+05:30
 draft = false
 favorite = true

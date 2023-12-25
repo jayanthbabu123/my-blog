@@ -21,13 +21,13 @@
             <webMaster>jsomineni@gmail.com (Jayanthbabu)</webMaster>
         
         
-        <lastBuildDate>Mon, 25 Dec 2023 10:25:37 &#43;0530</lastBuildDate>
+        <lastBuildDate>Mon, 25 Dec 2023 10:27:37 &#43;0530</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://programwithjayanth.com/rss.xml" />
         
         
             <item>
-                <title>Generate Qr Code in React</title>
+                <title>How to Generate QR Code in React</title>
                 <link>https://programwithjayanth.com/posts/generate-qr-code-in-react/</link>
                 <guid isPermaLink="true">https://programwithjayanth.com/posts/generate-qr-code-in-react/</guid>
                 <pubDate>Mon, 25 Dec 2023 09:58:24 &#43;0530</pubDate>
