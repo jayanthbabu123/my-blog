@@ -99,7 +99,8 @@ article.content.post.home {
   text-align: center; /* Center the text */
   vertical-align: middle; /* Align button text vertically */
   user-select: none; /* Prevent text selection */
-  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out; /* Smooth transition for hover effects */
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
+    border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out; /* Smooth transition for hover effects */
   text-decoration: none; /* Remove underline from links */
 }
 
@@ -109,7 +110,7 @@ article.content.post.home {
   border-color: #198754;
 }
 
-.pagination a{
+.pagination a {
   border: 1px solid #0d6efd; /* Primary color for outline */
   background-color: transparent; /* Transparent background */
   color: #0d6efd; /* Primary color for text */
@@ -119,10 +120,11 @@ article.content.post.home {
   text-align: center; /* Center the text */
   vertical-align: middle; /* Align button text vertically */
   user-select: none; /* Prevent text selection */
-  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out; /* Smooth transition for hover effects */
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
+    border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out; /* Smooth transition for hover effects */
   text-decoration: none; /* Remove underline from links */
 }
-.pagination a:hover{
+.pagination a:hover {
   color: #fff;
   background-color: #0d6efd;
   border-color: #0d6efd;
@@ -141,7 +143,7 @@ article.content.post.home {
   padding-bottom: 3em;
 }
 
-.post img{
+.post img {
   margin: 0em auto 1em;
 }
 
@@ -150,6 +152,84 @@ article.content.post.home {
   margin-bottom: 0;
 }
 
-.welcome-page h1{
+.welcome-page h1 {
   margin-top: 30px;
+}
+
+.calendar-date {
+  display: block; /* Changed from inline-block to block */
+  margin: 10px auto; /* Center the block horizontally */
+  background-color: #f0f0f0;
+  border: 1px solid #ddd;
+  text-align: center;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  font-family: "Arial", sans-serif;
+  width: 100px;
+}
+
+.calendar-date .month {
+  display: block;
+  font-size: 20px;
+  color: #333;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.calendar-date .day {
+  display: block;
+  font-size: 30px;
+  color: #007bff;
+  font-weight: bold;
+  line-height: 1;
+}
+
+.calendar-date .year {
+  display: block;
+  font-size: 16px;
+  color: #666;
+}
+
+#countdown {
+  text-align: center;
+  
+  margin-bottom: 20px;
+}
+
+.countdown-title {
+  font-size: 18px;
+  margin-bottom: 15px;
+}
+
+#timer {
+  display: inline-block;
+}
+
+.countdown-part {
+  display: inline-block;
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+  margin: 0px;
+  padding: 10px 15px;
+  background: rgba(255, 255, 255, 0.3);
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.countdown-part.days {
+  background-color: #ff5722; /* Reddish for days */
+}
+
+.countdown-part.hours {
+  background-color: #3f51b5; /* Blue for hours */
+}
+
+.countdown-part.minutes {
+  background-color: #009688; /* Teal for minutes */
+}
+
+.countdown-part.seconds {
+  background-color: #ffc107; /* Yellow for seconds */
 }

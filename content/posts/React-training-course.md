@@ -21,6 +21,47 @@ Welcome to our React Training Course! As a seasoned front-end developer with 9 y
 
 ### 📅 Course Launch Date & Details
 
+<div class="calendar-date">
+    <span class="month">JAN</span>
+    <span class="day">6</span>
+    <span class="year">2024</span>
+</div>
+<div id="countdown">
+    <p>Countdown to Start Course:</p>
+    <span id="timer"></span>
+</div>
+
+<script>
+    // Set the date we're counting down to
+    var countDownDate = new Date("Jan 6, 2024 00:00:00").getTime();
+
+    // Update the count down every 1 second
+    var x = setInterval(function() {
+
+        // Get today's date and time
+        var now = new Date().getTime();
+
+        // Find the distance between now and the count down date
+        var distance = countDownDate - now;
+
+        // Time calculations for days, hours, minutes and seconds
+        var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+        var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+        var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+        var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+        // Display the result in the element with id="timer"
+       document.getElementById("timer").innerHTML = "<span class='countdown-part days'>" + days + "d</span> <span class='countdown-part hours'>" + hours + "h</span> <span class='countdown-part minutes'>" + minutes + "m</span> <span class='countdown-part seconds'>" + seconds + "s</span>";
+
+
+        // If the countdown is over, display a message
+        if (distance < 0) {
+            clearInterval(x);
+            document.getElementById("timer").innerHTML = "The course has started!";
+        }
+    }, 1000);
+</script>
+
 - **Start Date:** JAN 6th, 2024.
 - **Duration:** 50 days.
 - **Enrollment:** The course is paid. Contact for details and fees.
@@ -33,7 +74,6 @@ Welcome to our React Training Course! As a seasoned front-end developer with 9 y
   - [BuiltIn Author](https://builtin.com/authors/jayanth-somineni)
   - [GitHub](https://github.com/jayanthbabu123)
   - [WhatsApp](https://wa.me/+918466880194)
-
 
 ### Complete Syllabus 📖
 
