@@ -14,10 +14,15 @@ draft = false
 
 Hello! I'm <span style="color: #2a9d8f;">Jayanth</span>, a front-end web developer with a passion for creating beautiful and functional websites. With expertise in modern web technologies like React, JavaScript, and CSS, I enjoy turning complex problems into simple, intuitive, and aesthetic web solutions.
 
+You can check more about my blogs and projects here
+  - [Medium Writer](https://medium.com/@jsomineni)
+  - [BuiltIn Author](https://builtin.com/authors/jayanth-somineni)
+  - [GitHub](https://github.com/jayanthbabu123)
+
 
 ### My Journey
 
-<i class="fas fa-laptop-code" style="color: #2a9d8f;"></i>  My journey into web development began in [Year], driven by my curiosity about how websites are built and how they function. Since then, I've been constantly learning and growing in the field, keeping up with the latest trends and technologies.
+<i class="fas fa-laptop-code" style="color: #2a9d8f;"></i>  My journey into web development began in 2015, driven by my curiosity about how websites are built and how they function. Since then, I've been constantly learning and growing in the field, keeping up with the latest trends and technologies.
 
 ### What I Do
 
