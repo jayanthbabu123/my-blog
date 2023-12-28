@@ -19,43 +19,25 @@ image = "/images/react-training.png"
 
 Welcome to our React Training Course! As a seasoned front-end developer with 9 years of experience, I am excited to guide you through this comprehensive journey into web development. Our course is meticulously designed to cover essential technologies like HTML, CSS, SCSS, Bootstrap, JavaScript, and ReactJS. Whether you're starting out or looking to upgrade your skills, this course is your gateway to becoming a proficient front-end developer.
 
-### Course Launch Date 📅
+### 📅 Course Launch Date & Details
 
-Starting from the 2nd week of January 2024, we embark on this educational adventure together. Mark your calendars and prepare to dive deep into the world of web development!
+- **Start Date:** JAN 6th, 2024.
+- **Duration:** 50 days.
+- **Enrollment:** The course is paid. Contact for details and fees.
+- **Contact:** Reach out to me on WhatsApp at +918466880194 [WhatsApp](https://wa.me/+918466880194) for more information and to enroll.
+- **email:** [jsomineni@gmail.com](mailto:jsomineni@gmail.com)
+- **WhatsApp:** +918466880194 [WhatsApp](https://wa.me/+918466880194)
+- **Trainer Profile:**
+  - [Medium Writer](https://medium.com/@jsomineni)
+  - [About Me](https://programwithjayanth.com/about/)
+  - [BuiltIn Author](https://builtin.com/authors/jayanth-somineni)
+  - [GitHub](https://github.com/jayanthbabu123)
+  - [WhatsApp](https://wa.me/+918466880194)
 
-### Course Overview 📚
 
-## HTML: The Foundation of Web Development 🌐
+### Complete Syllabus 📖
 
-1.  **Understanding HTML:** Dive into the basics of HTML and its pivotal role in web development.
-2.  **Hands-On Learning:** Practical lessons on setting up a basic HTML file, understanding its structure, and exploring the head and body tags.
-3.  **Interactive Elements:** Detailed sessions on creating forms, tables, and incorporating media elements.
-4.  **Expert Insights:** Get insider tips and tricks to enhance your HTML skills.
-
-## CSS: Designing the Web 🎨
-
-1. **CSS Essentials:** Learn the fundamentals of CSS and different methods of integrating CSS into your web pages.
-2. **The CSS Box Model:** Master the box model concept, including content, padding, border, and margin.
-3. **Responsive Design:** Gain expertise in responsive design using media queries and CSS positions.
-4. **Advanced Styling:** Explore CSS selectors, combinators, and learn how to use variables and Google Fonts.
-
-## JavaScript: Bringing Websites to Life 💻
-
-1. **JavaScript Basics**: Start with variables, data types, and control structures.
-2. **Advanced Concepts:** Delve into functions, arrays, objects, and ES6 features.
-3. **Interactive Web:** Learn about DOM manipulation, event handling, and using browser APIs.
-4. **Asynchronous JavaScript:** Understand promises, the Fetch API, and various asynchronous programming patterns.
-
-### ReactJS: Modern Web Applications ⚛️
-
-1. **Introduction to ReactJS:** Set up your React environment and explore the basics of this powerful library.
-2. **Deep Dive into React:** Understand React components, JSX, state, and props.
-3. **React in Action:** Learn about event handling, conditional rendering, and form handling in React.
-4. **Advanced Topics:** Explore component lifecycle methods, React Hooks, Context API, React Router, and more.
-
-### Complete Syllabus
-
-### HTML Syllabus
+### HTML Syllabus 🌐
 
 - What is HTML and its Role in Web Development?
 - Setting up a Basic HTML File
@@ -68,7 +50,7 @@ Starting from the 2nd week of January 2024, we embark on this educational advent
 - Media Elements
 - Tips and Tricks in HTML
 
-### CSS Syllabus
+### CSS Syllabus 🎨
 
 - CSS Introduction
 - 3 Ways of Writing CSS: Inline, Internal, External, and Preference
@@ -84,7 +66,7 @@ Starting from the 2nd week of January 2024, we embark on this educational advent
 - Variables in CSS
 - CSS Tips and Tricks
 
-### JavaScript Syllabus
+### JavaScript Syllabus 💻
 
 - Variables and Data Types
 - Conditions and Control Flow
@@ -107,7 +89,7 @@ Starting from the 2nd week of January 2024, we embark on this educational advent
 - Asynchronous Programming Patterns
 - Error Handling and Debugging
 
-### ReactJS Syllabus
+### ReactJS Syllabus ⚛️
 
 - Introduction to ReactJS
 - Setting Up the React Environment
