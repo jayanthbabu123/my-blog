@@ -29,7 +29,7 @@
           </a>
         </h2>
         <summary class="summary p-summary" style="font-size: 0.9rem">
-          {{ .Content | plainify | truncate 150 "..." }}
+          {{ .Content | plainify | truncate 160 "..." }}
         </summary>
         {{ if or .Truncated .Params.summary }}
         <div class="read-more-container">
