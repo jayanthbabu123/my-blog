@@ -23,7 +23,7 @@ tags =  [
   "React Performance",
   "React Best Practices",
 ]
-categories = ["React"]
+categories = ["React-Training"]
 image = "https://i.postimg.cc/fLBdrxcr/data-binding-react.png"
 +++
 

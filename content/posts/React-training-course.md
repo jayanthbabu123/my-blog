@@ -9,7 +9,7 @@ tags = [
     "Modern Web Development",
     "React Development",
 ]
-categories = ["React"]
+categories = ["React-Training"]
 image = "/images/react-training.png"
 +++
 

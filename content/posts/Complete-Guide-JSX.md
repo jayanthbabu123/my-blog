@@ -26,7 +26,7 @@ tags = [
   "React JSX Guide",
   "React JSX Best Practices"
 ]
-categories = ["React"]
+categories = ["React-Training"]
 image = "https://i.postimg.cc/C5BTXHPd/jsx-react.png"
 +++
 

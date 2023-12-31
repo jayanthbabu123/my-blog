@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Program With Jayanth</title>
     <subtitle type="html">Program With Jayanth is a dedicated space for aspiring and seasoned front-end developers. Here, Jayanth shares insightful tutorials, cutting-edge techniques, and comprehensive guides on modern web development. From mastering React and JavaScript to exploring CSS and HTML best practices, this blog is your go-to resource for enhancing your coding skills and staying ahead in the ever-evolving world of front-end development.</subtitle>
-    <updated>2023-12-31T11:15:35&#43;05:30</updated>
+    <updated>2024-01-01T02:13:27&#43;05:30</updated>
     <id>https://programwithjayanth.com/</id>
     <link rel="alternate" type="text/html" href="https://programwithjayanth.com/" />
     <link rel="self" type="application/atom&#43;xml" href="https://programwithjayanth.com/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">Complete Guide on Props in React: Lesson-6</title>
             <link rel="alternate" type="text/html" href="https://programwithjayanth.com/posts/props-in-react/" />
             <id>https://programwithjayanth.com/posts/props-in-react/</id>
-            <updated>2023-12-31T11:14:27&#43;05:30</updated>
+            <updated>2023-12-31T11:36:30&#43;05:30</updated>
             <published>2023-12-30T23:55:34&#43;05:30</published>
             <author>
                     <name>Jayanthbabu</name>
@@ -408,7 +408,7 @@
                             
                             
                             
-                                <category scheme="https://programwithjayanth.com/categories/react/" term="React" label="React" />
+                                <category scheme="https://programwithjayanth.com/categories/react-training/" term="React-Training" label="React-Training" />
                             
                         
                     
@@ -508,7 +508,7 @@
             <title type="text">Complete Guide on State in ReactJS: Lesson-5</title>
             <link rel="alternate" type="text/html" href="https://programwithjayanth.com/posts/state-in-react/" />
             <id>https://programwithjayanth.com/posts/state-in-react/</id>
-            <updated>2023-12-30T22:52:20&#43;05:30</updated>
+            <updated>2023-12-31T11:36:13&#43;05:30</updated>
             <published>2023-12-30T15:17:53&#43;05:30</published>
             <author>
                     <name>Jayanthbabu</name>
@@ -879,7 +879,7 @@
                             
                             
                             
-                                <category scheme="https://programwithjayanth.com/categories/react/" term="React" label="React" />
+                                <category scheme="https://programwithjayanth.com/categories/react-training/" term="React-Training" label="React-Training" />
                             
                         
                     
@@ -991,7 +991,7 @@
             <title type="text">Data Binding in React: A Comprehensive Guide: Lesson-4</title>
             <link rel="alternate" type="text/html" href="https://programwithjayanth.com/posts/data-binding-in-react/" />
             <id>https://programwithjayanth.com/posts/data-binding-in-react/</id>
-            <updated>2023-12-30T22:52:38&#43;05:30</updated>
+            <updated>2023-12-31T11:37:01&#43;05:30</updated>
             <published>2023-12-30T13:49:29&#43;05:30</published>
             <author>
                     <name>Jayanthbabu</name>
@@ -1218,7 +1218,7 @@ Let&amp;rsquo;s explore various data types and their binding in a React function
                             
                             
                             
-                                <category scheme="https://programwithjayanth.com/categories/react/" term="React" label="React" />
+                                <category scheme="https://programwithjayanth.com/categories/react-training/" term="React-Training" label="React-Training" />
                             
                         
                     
@@ -1348,7 +1348,7 @@ Let&amp;rsquo;s explore various data types and their binding in a React function
             <title type="text">Complete Guide on JSX in ReactJS: Lesson-3</title>
             <link rel="alternate" type="text/html" href="https://programwithjayanth.com/posts/complete-guide-jsx/" />
             <id>https://programwithjayanth.com/posts/complete-guide-jsx/</id>
-            <updated>2023-12-30T22:52:44&#43;05:30</updated>
+            <updated>2023-12-31T11:37:11&#43;05:30</updated>
             <published>2023-12-30T12:17:19&#43;05:30</published>
             <author>
                     <name>Jayanthbabu</name>
@@ -1547,7 +1547,7 @@ Let&amp;rsquo;s explore various data types and their binding in a React function
                             
                             
                             
-                                <category scheme="https://programwithjayanth.com/categories/react/" term="React" label="React" />
+                                <category scheme="https://programwithjayanth.com/categories/react-training/" term="React-Training" label="React-Training" />
                             
                         
                     
@@ -1695,7 +1695,7 @@ Let&amp;rsquo;s explore various data types and their binding in a React function
             <title type="text">Complete Guide on ReactJS Components: Lesson-2</title>
             <link rel="alternate" type="text/html" href="https://programwithjayanth.com/posts/reactjs-components/" />
             <id>https://programwithjayanth.com/posts/reactjs-components/</id>
-            <updated>2023-12-30T22:52:31&#43;05:30</updated>
+            <updated>2023-12-31T11:36:21&#43;05:30</updated>
             <published>2023-12-30T00:33:18&#43;05:30</published>
             <author>
                     <name>Jayanthbabu</name>
@@ -1825,7 +1825,7 @@ Let&amp;rsquo;s explore various data types and their binding in a React function
                             
                             
                             
-                                <category scheme="https://programwithjayanth.com/categories/react/" term="React" label="React" />
+                                <category scheme="https://programwithjayanth.com/categories/react-training/" term="React-Training" label="React-Training" />
                             
                         
                     
@@ -1889,7 +1889,7 @@ Let&amp;rsquo;s explore various data types and their binding in a React function
             <title type="text">ReactJS Introduction and Setup: Lesson-1</title>
             <link rel="alternate" type="text/html" href="https://programwithjayanth.com/posts/reactjs-notes/" />
             <id>https://programwithjayanth.com/posts/reactjs-notes/</id>
-            <updated>2023-12-30T22:52:26&#43;05:30</updated>
+            <updated>2023-12-31T11:35:51&#43;05:30</updated>
             <published>2023-12-29T14:42:22&#43;05:30</published>
             <author>
                     <name>Jayanthbabu</name>
@@ -2170,7 +2170,7 @@ After the compilation process, your index.html file in the build directory will 
                             
                             
                             
-                                <category scheme="https://programwithjayanth.com/categories/react/" term="React" label="React" />
+                                <category scheme="https://programwithjayanth.com/categories/react-training/" term="React-Training" label="React-Training" />
                             
                         
                     
@@ -3993,7 +3993,7 @@ cherry
             <title type="text">React Training Course</title>
             <link rel="alternate" type="text/html" href="https://programwithjayanth.com/posts/react-training-course/" />
             <id>https://programwithjayanth.com/posts/react-training-course/</id>
-            <updated>2023-12-28T15:55:08&#43;05:30</updated>
+            <updated>2023-12-31T11:36:40&#43;05:30</updated>
             <published>2023-12-27T21:53:16&#43;05:30</published>
             <author>
                     <name>Jayanthbabu</name>
@@ -4157,7 +4157,7 @@ cherry
                             
                             
                             
-                                <category scheme="https://programwithjayanth.com/categories/react/" term="React" label="React" />
+                                <category scheme="https://programwithjayanth.com/categories/react-training/" term="React-Training" label="React-Training" />
                             
                         
                     

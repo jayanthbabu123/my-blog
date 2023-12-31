@@ -8,7 +8,7 @@ tags = ["reactjs", "components",
    "hooks",
    "state-management",
    "lifecycle", "reactjs-components"]
-categories = ["React"]
+categories = ["React-Training"]
 image = "https://i.postimg.cc/13RkVyBH/react-components.png"
 +++
 

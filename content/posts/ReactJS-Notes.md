@@ -24,7 +24,7 @@ tags = [
     "ReactJS Testing",
     "ReactJS Deployment"
 ]
-categories = ["React"]
+categories = ["React-Training"]
 image = "https://i.postimg.cc/cCtfv5D0/react-introduction.png"
 +++
 

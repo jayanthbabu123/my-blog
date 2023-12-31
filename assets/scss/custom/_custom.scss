@@ -193,7 +193,7 @@ article.content.post.home {
 
 #countdown {
   text-align: center;
-  
+
   margin-bottom: 20px;
 }
 
@@ -215,7 +215,7 @@ article.content.post.home {
   padding: 10px 15px;
   background: rgba(255, 255, 255, 0.3);
   border-radius: 5px;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 .countdown-part.days {
@@ -233,3 +233,101 @@ article.content.post.home {
 .countdown-part.seconds {
   background-color: #ffc107; /* Yellow for seconds */
 }
+
+.list-categories .list-posts li {
+  padding: 10px;
+  border: 1px solid #e5e5e5;
+  border-radius: 5px;
+  margin-bottom: 5px;
+  transition: border-color 0.3s ease;
+}
+
+.list-categories .list-posts li:hover {
+  border: 1px solid #198754;
+}
+
+.new-year-container {
+  position: fixed;
+  bottom: -100%;
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+  z-index: 1000;
+  animation: slideUp 7s forwards, fadeInOut 8s infinite;
+  display: block; /* Start hidden */
+}
+
+.balloons {
+  font-size: 3rem;
+}
+
+.balloon {
+  display: inline-block;
+  animation: float 5s ease-in-out infinite;
+}
+
+.message {
+  font-size: 2rem;
+  font-weight: 700;
+  color: white; /* Gold color */
+  margin-top: 20px;
+}
+
+@keyframes slideUp {
+  0% {
+    bottom: -100%;
+    opacity: 0;
+  }
+  30% {
+    bottom: 50%;
+    opacity: 1;
+  }
+  70% {
+    bottom: 50%;
+    opacity: 1;
+  }
+  100% {
+    bottom: 100%;
+    opacity: 0;
+  }
+}
+
+@keyframes float {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-20px);
+  }
+}
+
+@keyframes fadeInOut {
+  0%,
+  100% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+}
+
+.new-year-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  background-color: black;
+  z-index: 999;
+  display: block;
+  opacity: 0.7;
+}
+
+.new-year-container {
+  /* ... existing styles ... */
+  z-index: 1000; /* Ensure it's above the overlay */
+  /* ... */
+}
+
+/* ... rest of your existing CSS ... */

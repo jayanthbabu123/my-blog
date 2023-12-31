@@ -20,7 +20,7 @@ tags = [
     "React Performance",
     "React Best Practices",
 ]
-categories = ["React"]
+categories = ["React-Training"]
 image = "https://i.postimg.cc/T35L4sfW/state-in-react.png"
 +++
 
