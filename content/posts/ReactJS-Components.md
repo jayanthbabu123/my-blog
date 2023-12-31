@@ -1,5 +1,5 @@
 +++
-title = 'Complete Guide on ReactJS Components'
+title = 'Complete Guide on ReactJS Components: Lesson-2'
 date = 2023-12-30T00:33:18+05:30
 draft = false
 tags = ["reactjs", "components",
@@ -8,7 +8,7 @@ tags = ["reactjs", "components",
    "hooks",
    "state-management",
    "lifecycle", "reactjs-components"]
-categories = ["reactjs"]
+categories = ["React"]
 image = "https://i.postimg.cc/13RkVyBH/react-components.png"
 +++
 
