@@ -248,6 +248,7 @@ article.content.post.home {
 
 .new-year-container {
   position: fixed;
+  z-index: 1000;
   bottom: -100%;
   left: 50%;
   transform: translateX(-50%);
@@ -255,6 +256,7 @@ article.content.post.home {
   z-index: 1000;
   animation: slideUp 7s forwards, fadeInOut 8s infinite;
   display: block; /* Start hidden */
+  
 }
 
 .balloons {
@@ -270,7 +272,6 @@ article.content.post.home {
   font-size: 2rem;
   font-weight: 700;
   color: white; /* Gold color */
-  margin-top: 20px;
 }
 
 @keyframes slideUp {
@@ -324,10 +325,17 @@ article.content.post.home {
   opacity: 0.7;
 }
 
-.new-year-container {
-  /* ... existing styles ... */
-  z-index: 1000; /* Ensure it's above the overlay */
-  /* ... */
-}
+@media (max-width: 768px) {
+  .new-year-container {
+      top: 10%; /* Adjust the position */
+      font-size: 1rem; /* Reduce the font size */
+  }
 
-/* ... rest of your existing CSS ... */
+  .balloons {
+      font-size: 2rem; /* Reduce the size of the balloons */
+  }
+
+  .message {
+      font-size: 1.5rem; /* Adjust the message font size */
+  }
+}
