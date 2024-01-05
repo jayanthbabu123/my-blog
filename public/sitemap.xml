@@ -2,20 +2,59 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://programwithjayanth.com/posts/click-events-javascript/</loc>
+    <lastmod>2024-01-05T22:03:08+05:30</lastmod>
+  </url><url>
     <loc>https://programwithjayanth.com/categories/</loc>
-    <lastmod>2023-12-31T11:37:11+05:30</lastmod>
+    <lastmod>2024-01-05T22:03:08+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/click-events/</loc>
+    <lastmod>2024-01-05T22:03:08+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/event-bubbling/</loc>
+    <lastmod>2024-01-05T22:03:08+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/event-handlers/</loc>
+    <lastmod>2024-01-05T22:03:08+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/event-handling/</loc>
+    <lastmod>2024-01-05T22:03:08+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/event-listener/</loc>
+    <lastmod>2024-01-05T22:03:08+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/event-listeners/</loc>
+    <lastmod>2024-01-05T22:03:08+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/event-propagation/</loc>
+    <lastmod>2024-01-05T22:03:08+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/event-target/</loc>
+    <lastmod>2024-01-05T22:03:08+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/event-targets/</loc>
+    <lastmod>2024-01-05T22:03:08+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/frontend-development/</loc>
+    <lastmod>2024-01-05T22:03:08+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/javascript/</loc>
+    <lastmod>2024-01-05T22:03:08+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/categories/javascript/</loc>
+    <lastmod>2024-01-05T22:03:08+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/posts/</loc>
+    <lastmod>2024-01-05T22:03:08+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/</loc>
+    <lastmod>2024-01-05T22:03:08+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/web-development/</loc>
+    <lastmod>2024-01-05T22:03:08+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/posts/props-in-react/</loc>
     <lastmod>2023-12-31T11:36:30+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/tags/frontend-development/</loc>
-    <lastmod>2023-12-31T11:37:11+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/posts/</loc>
-    <lastmod>2023-12-31T11:37:11+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/</loc>
-    <lastmod>2023-12-31T11:37:11+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/props/</loc>
     <lastmod>2023-12-31T11:36:30+05:30</lastmod>
@@ -54,9 +93,6 @@
     <lastmod>2023-12-31T11:37:11+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/reactjs/</loc>
-    <lastmod>2023-12-31T11:37:11+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/tags/web-development/</loc>
     <lastmod>2023-12-31T11:37:11+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/posts/state-in-react/</loc>
@@ -303,12 +339,6 @@
     <lastmod>2023-12-29T11:38:05+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/interview/</loc>
-    <lastmod>2023-12-28T19:01:28+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/tags/javascript/</loc>
-    <lastmod>2023-12-28T19:01:28+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/categories/javascript/</loc>
     <lastmod>2023-12-28T19:01:28+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/javascript-foreach-loop/</loc>
