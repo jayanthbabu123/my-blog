@@ -25,9 +25,9 @@ tags=[
     "Learn TypeScript"
 ]
 categories= ["TypeScript"]
-image= "/images/typescript.png"
+image= "/images/typescript.webp"
 +++
-![Typescript types](/images/typescript.png)
+![Typescript types](/images/typescript.webp)
 
 ### Introduction 📘
 

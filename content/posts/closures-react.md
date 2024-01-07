@@ -16,9 +16,9 @@ tags=[
 ]
 categories= ["React"]
 favorite= true
-image= "/images/closures-react.png"
+image= "/images/closures-react.webp"
 +++
-![How I have used Closures in React](/images/closures-react.png)
+![How I have used Closures in React](/images/closures-react.webp)
 ### Introduction 🚀
 As a frontend developer, understanding closures is crucial for efficient and powerful coding. In this blog, we’ll demystify closures in JavaScript and explore their practical application in React. Whether you’re new to React or looking to deepen your understanding, this blog aims to provide clear insights, especially on how closures empower state management and event handling in React applications.
 

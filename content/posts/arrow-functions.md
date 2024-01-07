@@ -13,11 +13,11 @@ tags = [
   "JavaScript Functions"
 ]
 categories = ["JavaScript"]
-image= "/images/arrow-regular.png"
+image= "/images/arrow-regular.webp"
 draft = false
 +++
 
-![How Real DOM works with HTML and JavaScript](/images/arrow-regular.png)
+![How Real DOM works with HTML and JavaScript](/images/arrow-regular.webp)
 
 ### Introduction 🚀
 

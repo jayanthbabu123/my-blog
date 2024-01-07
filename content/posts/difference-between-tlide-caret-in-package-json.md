@@ -19,9 +19,9 @@ tags=[
   "VueJS"
 ]
 categories= ["JavaScript"]
-image= "/images/tlide-caret.png"
+image= "/images/tlide-caret.webp"
 +++
-![difference between caret vs tlide](/images/tlide-caret.png)
+![difference between caret vs tlide](/images/tlide-caret.webp)
 ### Introduction
 In the world of JavaScript development, managing dependencies is a crucial aspect of project setup and maintenance. One key file that plays a vital role in this process is package.json. This file, often found in JavaScript projects like `Angular`, `React`, and `Vue.js`, acts as the road map for managing external packages your project depends on. In this blog, we’ll unravel the mystery behind two small but significant symbols in package.json: the `tilde (~)` and `caret (^)`.
 

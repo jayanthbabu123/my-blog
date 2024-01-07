@@ -10,10 +10,10 @@ tags = [
     "React Development",
 ]
 categories = ["React-Training"]
-image = "/images/react-training.png"
+image = "/images/react-training.webp"
 +++
 
-![React Training Course](/images/react-training.png)
+![React Training Course](/images/react-training.webp)
 
 ### Welcome to Your Journey into Modern Web Development!
 

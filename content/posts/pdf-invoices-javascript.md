@@ -37,10 +37,10 @@ tags = [
 ]
 categories = ['JavaScript']
 favorite= true
-image= "/images/pdf-invoices.png"
+image= "/images/pdf-invoices.webp"
 +++
 
-![How to download web pages as pdf in javascript ](/images/pdf-invoices.png)
+![How to download web pages as pdf in javascript ](/images/pdf-invoices.webp)
 
 ### Introduction 🌐
 

@@ -22,10 +22,10 @@ tags=[
 ]
 categories = ["JavaScript"]
 favorite= true
-image= "/images/webcam.png"
+image= "/images/webcam.webp"
 +++
 
-![Access webcam JavaScript](/images/webcam.png)
+![Access webcam JavaScript](/images/webcam.webp)
 
 ### Introduction 🌐
 

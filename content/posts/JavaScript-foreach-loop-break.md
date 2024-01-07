@@ -13,10 +13,10 @@ tags = ["JavaScript",
     ]
 categories = ["JavaScript"]
 favorite = true
-image = "/images/javascript-foreach.png"
+image = "/images/javascript-foreach.webp"
 +++
 
-![JavaScript Foreach Loop](/images/javascript-foreach.png)
+![JavaScript Foreach Loop](/images/javascript-foreach.webp)
 
 ### Introduction
 
