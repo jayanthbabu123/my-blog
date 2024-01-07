@@ -23,9 +23,9 @@ tags = [
 ]
 
 categories = ["React"]
-image = "/images/qr-code.png"
+image = "/images/qr-code.webp"
 +++
-![How to generate QR Code in React](/images/qr-code.png)
+![How to generate QR Code in React](/images/qr-code.webp)
 
 ### Introduction 🌟
 Welcome to web development, a place where smart ideas come to life! In this blog, we'll explore a really cool feature - generating QR Codes in a React application. QR Codes are everywhere, from restaurant menus to event tickets, offering a quick way to access websites, text, and other data. Whether you're building a personal project or enhancing your business app, integrating QR Codes can significantly uplift your user experience. 

@@ -5,10 +5,10 @@ tags= ["JavaScript", "Object Creation", "Web Development", "Programming Fundamen
 categories = ["JavaScript"]
 draft = false
 favorite= true
-image= "/images/create-object-javascript.png"
+image= "/images/create-object-javascript.webp"
 +++
 
-![How I have used Styled Components in React](/images/create-object-javascript.png)
+![How I have used Styled Components in React](/images/create-object-javascript.webp)
 ### Introduction
 
 In JavaScript, objects are versatile tools that can be created in various ways, each suitable for different scenarios. Understanding when to use each method is key to writing efficient and maintainable JavaScript code. Let’s explore five common methods for creating objects in JavaScript, detailing the best use case for each.

@@ -26,10 +26,10 @@ tags = [
 ]
 categories = ["Angular"]
 favorite= true
-image= "/images/angular-api-call.png"
+image= "/images/angular-api-call.webp"
 +++
 
-![Angular API Call](/images/angular-api-call.png)
+![Angular API Call](/images/angular-api-call.webp)
 ### Introduction 🚀
 In your Angular projects, you'll often find the need to retrieve data from external APIs or send data back to a server. Whether you're a beginner or a seasoned developer, understanding how to communicate with external APIs is crucial in the world of web development. It's a key aspect of web development that allows your applications to be dynamic and responsive, fetching and displaying data in real time.
 

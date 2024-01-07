@@ -20,11 +20,11 @@ tags = [
   
 ]
 categories = ["Javascript"]
-image = "/images/click-events-javascript.png"
+image = "/images/click-events-javascript.webp"
 favorite= true
 +++
 
-![Access webcam JavaScript](/images/click-events-javascript.png)
+![Access webcam JavaScript](/images/click-events-javascript.webp)
 
 ### Introduction 🌊
 

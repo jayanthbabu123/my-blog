@@ -35,10 +35,10 @@ tags = [
 categories = ["JavaScript"]
 draft = false
 favorite= true
-image= "/images/excel-json-javascript-min.png"
+image= "/images/excel-json-javascript-min.webp"
 +++
 
-![Excel to json in javascript](/images/excel-json-javascript-min.png)
+![Excel to json in javascript](/images/excel-json-javascript-min.webp)
 
 ### Introduction 🌐
 
