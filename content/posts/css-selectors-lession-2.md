@@ -1,7 +1,7 @@
 +++
 title = 'CSS Selectors - Lession-2'
 date = 2024-01-07T11:40:43+05:30
-draft = true
+draft = false
 categories = ['CSS Learning']
 image= "/images/css-selectors.webp"
 tags=[
