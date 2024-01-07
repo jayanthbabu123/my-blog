@@ -3,7 +3,7 @@ title = 'Typography and Text Styling in CSS - Lession 5'
 date = 2024-01-07T20:48:18+05:30
 draft = false
 categories = ['CSS Learning']
-image= "images/typography.webp"
+image= "/images/typography.webp"
 tags = ["css", 
 "typography", 
 "text styling",
