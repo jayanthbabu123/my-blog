@@ -64,16 +64,15 @@ Welcome to our React Training Course! As a seasoned front-end developer with 9 y
 
 - **Start Date:** JAN 6th, 2024.
 - **Duration:** 50 days.
-- **Enrollment:** The course is paid. Contact for details and fees.
+<!-- - **Enrollment:** The course is paid. Contact for details and fees. -->
 - **Contact:** Reach out to me on WhatsApp at +918466880194 [WhatsApp](https://wa.me/+918466880194) for more information and to enroll.
 - **email:** [jsomineni@gmail.com](mailto:jsomineni@gmail.com)
-- **WhatsApp:** +918466880194 [WhatsApp](https://wa.me/+918466880194)
+<!-- - **WhatsApp:** +918466880194 [WhatsApp](https://wa.me/+918466880194) -->
 - **Trainer Profile:**
   - [Medium Writer](https://medium.com/@jsomineni)
   - [About Me](https://programwithjayanth.com/about/)
   - [BuiltIn Author](https://builtin.com/authors/jayanth-somineni)
   - [GitHub](https://github.com/jayanthbabu123)
-  - [WhatsApp](https://wa.me/+918466880194)
 
 ### Complete Syllabus 📖
 

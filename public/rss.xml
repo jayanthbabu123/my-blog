@@ -21,7 +21,7 @@
             <webMaster>jsomineni@gmail.com (Jayanthbabu)</webMaster>
         
         
-        <lastBuildDate>Sun, 07 Jan 2024 23:33:11 &#43;0530</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jan 2024 20:53:01 &#43;0530</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://programwithjayanth.com/rss.xml" />
         
@@ -2685,7 +2685,7 @@ To use the styles defined in the external stylesheet, you need to link it in the
                 
                 
                 
-                    <description>&lt;p&gt;&lt;img src=&#34;https://programwithjayanth.com/images/click-events-javascript.png&#34; alt=&#34;Access webcam JavaScript&#34;&gt;&lt;/p&gt;
+                    <description>&lt;p&gt;&lt;img src=&#34;https://programwithjayanth.com/images/click-events-javascript.webp&#34; alt=&#34;Access webcam JavaScript&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;introduction-&#34;&gt;Introduction 🌊&lt;/h3&gt;
 &lt;p&gt;JavaScript is the heart of interactive web development, and handling click events is a fundamental skill every front-end developer should master. In this blog, we&amp;rsquo;ll explore &lt;code&gt;three&lt;/code&gt; different methods to write click events in JavaScript. Whether you are just starting out or brushing up on your skills, this guide will help you understand how to make your web pages interactive.&lt;/p&gt;
 &lt;p&gt;Let&amp;rsquo;s dive into the examples…&lt;/p&gt;
@@ -6884,17 +6884,20 @@ cherry
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Start Date:&lt;/strong&gt; JAN 6th, 2024.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 50 days.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Enrollment:&lt;/strong&gt; The course is paid. Contact for details and fees.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- - **Enrollment:** The course is paid. Contact for details and fees. --&gt;
+&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Contact:&lt;/strong&gt; Reach out to me on WhatsApp at +918466880194 &lt;a href=&#34;https://wa.me/+918466880194&#34;&gt;WhatsApp&lt;/a&gt; for more information and to enroll.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;email:&lt;/strong&gt; &lt;a href=&#34;mailto:jsomineni@gmail.com&#34;&gt;jsomineni@gmail.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;WhatsApp:&lt;/strong&gt; +918466880194 &lt;a href=&#34;https://wa.me/+918466880194&#34;&gt;WhatsApp&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- - **WhatsApp:** +918466880194 [WhatsApp](https://wa.me/+918466880194) --&gt;
+&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Trainer Profile:&lt;/strong&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://medium.com/@jsomineni&#34;&gt;Medium Writer&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://programwithjayanth.com/about/&#34;&gt;About Me&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://builtin.com/authors/jayanth-somineni&#34;&gt;BuiltIn Author&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/jayanthbabu123&#34;&gt;GitHub&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://wa.me/+918466880194&#34;&gt;WhatsApp&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -7045,7 +7048,7 @@ cherry
                 
                 
                 
-                    <description>&lt;p&gt;&lt;img src=&#34;https://programwithjayanth.com/images/angular-api-call.png&#34; alt=&#34;Angular API Call&#34;&gt;&lt;/p&gt;
+                    <description>&lt;p&gt;&lt;img src=&#34;https://programwithjayanth.com/images/angular-api-call.webp&#34; alt=&#34;Angular API Call&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;introduction-&#34;&gt;Introduction 🚀&lt;/h3&gt;
 &lt;p&gt;In your Angular projects, you&amp;rsquo;ll often find the need to retrieve data from external APIs or send data back to a server. Whether you&amp;rsquo;re a beginner or a seasoned developer, understanding how to communicate with external APIs is crucial in the world of web development. It&amp;rsquo;s a key aspect of web development that allows your applications to be dynamic and responsive, fetching and displaying data in real time.&lt;/p&gt;
 &lt;p&gt;As of the time of writing this article, the latest version of Angular is &lt;code&gt;Angular 17&lt;/code&gt;. let&amp;rsquo;s get started and unlock the power of APIs in Angular! 🌟&lt;/p&gt;
@@ -7427,7 +7430,7 @@ Happy Coding!!!&lt;/p&gt;
                 
                 
                 
-                    <description>&lt;p&gt;&lt;img src=&#34;https://programwithjayanth.com/images/qr-code.png&#34; alt=&#34;How to generate QR Code in React&#34;&gt;&lt;/p&gt;
+                    <description>&lt;p&gt;&lt;img src=&#34;https://programwithjayanth.com/images/qr-code.webp&#34; alt=&#34;How to generate QR Code in React&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;introduction-&#34;&gt;Introduction 🌟&lt;/h3&gt;
 &lt;p&gt;Welcome to web development, a place where smart ideas come to life! In this blog, we&amp;rsquo;ll explore a really cool feature - generating QR Codes in a React application. QR Codes are everywhere, from restaurant menus to event tickets, offering a quick way to access websites, text, and other data. Whether you&amp;rsquo;re building a personal project or enhancing your business app, integrating QR Codes can significantly uplift your user experience. &lt;/p&gt;
 &lt;p&gt;Let&amp;rsquo;s get started and see how QR Codes can make your app more interactive and fun!&lt;/p&gt;
@@ -9434,7 +9437,7 @@ If &amp;ldquo;moment&amp;rdquo;: &amp;ldquo;&lt;code&gt;~2.24.0&lt;/code&gt;&amp
                 
                 
                 
-                    <description>&lt;p&gt;&lt;img src=&#34;https://programwithjayanth.com/images/create-object-javascript.png&#34; alt=&#34;How I have used Styled Components in React&#34;&gt;&lt;/p&gt;
+                    <description>&lt;p&gt;&lt;img src=&#34;https://programwithjayanth.com/images/create-object-javascript.webp&#34; alt=&#34;How I have used Styled Components in React&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
 &lt;p&gt;In JavaScript, objects are versatile tools that can be created in various ways, each suitable for different scenarios. Understanding when to use each method is key to writing efficient and maintainable JavaScript code. Let’s explore five common methods for creating objects in JavaScript, detailing the best use case for each.&lt;/p&gt;
 &lt;h3 id=&#34;1-object-literals-&#34;&gt;1. Object Literals 📦&lt;/h3&gt;
@@ -11021,7 +11024,7 @@ Styled components have become an essential tool for front-end developers working
                 
                 
                 
-                    <description>&lt;p&gt;&lt;img src=&#34;https://programwithjayanth.com/images/excel-json-javascript-min.png&#34; alt=&#34;Excel to json in javascript&#34;&gt;&lt;/p&gt;
+                    <description>&lt;p&gt;&lt;img src=&#34;https://programwithjayanth.com/images/excel-json-javascript-min.webp&#34; alt=&#34;Excel to json in javascript&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;introduction-&#34;&gt;Introduction 🌐&lt;/h3&gt;
 &lt;p&gt;In today’s fast-paced digital world, efficiency is key, especially when dealing with data. A common challenge many developers face is converting &lt;code&gt;Excel files&lt;/code&gt; into &lt;code&gt;JSON&lt;/code&gt; format for easier manipulation and integration into web applications. While there are various methods to achieve this, using JavaScript for client-side conversion stands out for its simplicity and effectiveness. This approach negates the need for server-side processing, offering a swift and streamlined solution directly in the browser.&lt;/p&gt;
 &lt;p&gt;In this comprehensive guide, we’ll explore how to transform &lt;code&gt;Excel data&lt;/code&gt; into &lt;code&gt;JSON&lt;/code&gt; objects using pure JavaScript. We’ll dive into the JavaScript library &lt;code&gt;XLSX&lt;/code&gt;, a powerful tool for reading Excel files and converting them to &lt;code&gt;JSON&lt;/code&gt;. This tutorial is perfect for developers looking to enhance their front-end development skills, offering a straightforward method to handle Excel files in web applications. Whether you’re a beginner or a seasoned coder, you’ll find valuable insights on leveraging JavaScript for Excel to JSON conversion, improving data handling in your projects.&lt;/p&gt;
