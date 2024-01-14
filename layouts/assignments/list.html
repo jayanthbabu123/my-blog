@@ -3,7 +3,7 @@
   <div class="main-inner">
     <div class="assignments-header" style="text-align: center">
       <h1 class="assignments-title">
-        Web Development Assignment: Start Your Journey 
+        Web Development Assignments: Start Your Journey 
       </h1>
       <p class="assignments-description">
         Unlock Your Potential with Hands-On Assignments. Explore. Learn. Create.
@@ -20,7 +20,10 @@
         <h2 style="font-size: 1rem">
           <a href="{{ .RelPermalink }}">{{ .Title }}</a>
         </h2>
-        <p style="font-size: 0.9rem">{{ .Summary }}</p>
+        <!-- <summary class="summary p-summary" style="font-size: 0.9rem">
+            {{ .Content | plainify | truncate 160 "..." }}
+          </summary> -->
+        <p style="font-size: 0.9rem; text-align: justify;">{{ .Summary | plainify | truncate 160 "..." }}</p>
       </div>
       {{ end }}
     </div>

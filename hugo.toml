@@ -216,11 +216,11 @@ uglyURLs = false
         pre = "internal"
         post = "archive"
     [[menu.main]]
-        identifier = "assignments"
+        identifier = "assignment"
         name = "Assignments"
         url = "/assignments/"
         weight = 3
-
+        post="folder"
     [[menu.main]]
         pageref = "/categories/"
         name = "Categories"
