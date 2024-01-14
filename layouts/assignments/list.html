@@ -1,0 +1,29 @@
+{{ define "main" }}
+<main class="main assignments-page" id="main">
+  <div class="main-inner">
+    <div class="assignments-header" style="text-align: center">
+      <h1 class="assignments-title">
+        Web Development Assignment: Start Your Journey 
+      </h1>
+      <p class="assignments-description">
+        Unlock Your Potential with Hands-On Assignments. Explore. Learn. Create.
+      </p>
+    </div>
+
+    <div
+      class="assignments"
+      style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center"
+    >
+      {{ range .Pages }}
+      <div class="assignment-card">
+        <span class="emoji-icon">📚</span>
+        <h2 style="font-size: 1rem">
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        </h2>
+        <p style="font-size: 0.9rem">{{ .Summary }}</p>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</main>
+{{ end }}

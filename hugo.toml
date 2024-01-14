@@ -211,10 +211,16 @@ uglyURLs = false
     #     post = "home"
     [[menu.main]]
         pageref = "/posts/"
-        name = "Posts"
+        name = "Blogs"
         weight = 2
         pre = "internal"
         post = "archive"
+    [[menu.main]]
+        identifier = "assignments"
+        name = "Assignments"
+        url = "/assignments/"
+        weight = 3
+
     [[menu.main]]
         pageref = "/categories/"
         name = "Categories"
@@ -239,6 +245,7 @@ uglyURLs = false
         weight = 5
         pre = "internal"
         post = "user-circle"
+
     [[menu.main]]
         weight = 6
         identifier = "theme-switcher"
@@ -249,8 +256,7 @@ uglyURLs = false
         weight = 8
         identifier = "search"
         post = "search"
-
-
+ 
 
 ##########################################
 # Theme Settings

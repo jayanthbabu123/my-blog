@@ -257,7 +257,6 @@ article.content.post.home {
   z-index: 1000;
   animation: slideUp 7s forwards, fadeInOut 8s infinite;
   display: block; /* Start hidden */
-  
 }
 
 .balloons {
@@ -328,15 +327,75 @@ article.content.post.home {
 
 @media (max-width: 768px) {
   .new-year-container {
-      top: 10%; /* Adjust the position */
-      font-size: 1rem; /* Reduce the font size */
+    top: 10%; /* Adjust the position */
+    font-size: 1rem; /* Reduce the font size */
   }
 
   .balloons {
-      font-size: 2rem; /* Reduce the size of the balloons */
+    font-size: 2rem; /* Reduce the size of the balloons */
   }
 
   .message {
-      font-size: 1.5rem; /* Adjust the message font size */
+    font-size: 1.5rem; /* Adjust the message font size */
+  }
+}
+
+.header-inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 auto;
+  max-width: 48em;
+}
+
+.header-inner.list {
+  max-width: 48em;
+}
+.assignments-page .main-inner {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.assignments-header {
+  margin-bottom: 30px;
+}
+
+.assignments-title {
+  font-size: 30px;
+  margin-bottom: 0.5em;
+}
+
+.assignments-description {
+  color: #666;
+}
+
+.assignments {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+.assignment-card {
+  border: 1px solid #ddd;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  width: calc(33.333% - 20px); /* For 3 cards in a row */
+  text-align: center;
+}
+
+.assignment-card .emoji-icon {
+  font-size: 2em;
+  display: block;
+}
+
+@media (max-width: 768px) {
+  .assignments {
+      flex-direction: column;
+  }
+
+  .assignment-card {
+      width: auto; /* Full width on small screens */
   }
 }
