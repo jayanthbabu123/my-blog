@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Program With Jayanth</title>
     <subtitle type="html">Program With Jayanth is a dedicated space for aspiring and seasoned front-end developers. Here, Jayanth shares insightful tutorials, cutting-edge techniques, and comprehensive guides on modern web development. From mastering React and JavaScript to exploring CSS and HTML best practices, this blog is your go-to resource for enhancing your coding skills and staying ahead in the ever-evolving world of front-end development.</subtitle>
-    <updated>2024-01-14T22:41:20&#43;05:30</updated>
+    <updated>2024-01-17T22:30:25&#43;05:30</updated>
     <id>https://programwithjayanth.com/</id>
     <link rel="alternate" type="text/html" href="https://programwithjayanth.com/" />
     <link rel="self" type="application/atom&#43;xml" href="https://programwithjayanth.com/atom.xml" />
@@ -6477,7 +6477,7 @@ After the compilation process, your index.html file in the build directory will 
             <title type="text">Complete HTML Guide</title>
             <link rel="alternate" type="text/html" href="https://programwithjayanth.com/posts/html-notes/" />
             <id>https://programwithjayanth.com/posts/html-notes/</id>
-            <updated>2023-12-29T11:38:05&#43;05:30</updated>
+            <updated>2024-01-17T21:11:09&#43;05:30</updated>
             <published>2023-12-28T23:01:38&#43;05:30</published>
             <author>
                     <name>Jayanthbabu</name>
@@ -7819,7 +7819,7 @@ Ensure your HTML code is valid by validating it with an HTML validator like the 
                             
                             
                             
-                                <category scheme="https://programwithjayanth.com/tags/cross-browser-compatibility/" term="Cross-Browser Compatibility" label="Cross-Browser Compatibility" />
+                                <category scheme="https://programwithjayanth.com/tags/cross-browser-compatibility/" term="Cross-browser Compatibility" label="Cross-browser Compatibility" />
                             
                         
                             
@@ -12774,7 +12774,7 @@ Styled components have become an essential tool for front-end developers working
                             
                             
                             
-                                <category scheme="https://programwithjayanth.com/tags/cross-browser-compatibility/" term="Cross-Browser Compatibility" label="Cross-Browser Compatibility" />
+                                <category scheme="https://programwithjayanth.com/tags/cross-browser-compatibility/" term="Cross-browser Compatibility" label="Cross-browser Compatibility" />
                             
                         
                             
