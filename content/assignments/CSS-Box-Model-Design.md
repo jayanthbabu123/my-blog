@@ -1,5 +1,5 @@
 +++
-title = 'CSS Box Model Design'
+title = 'CSS Box Model Design - Assignment-2'
 date = 2024-01-17T21:14:06+05:30
 draft = false
 tags = [
