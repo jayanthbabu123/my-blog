@@ -215,6 +215,11 @@ uglyURLs = false
         weight = 2
         pre = "internal"
         post = "archive"
+        [[menu.main]]
+identifier = "interviews"
+name = "Interviews"
+url = "/interviews/"
+weight = 3
     [[menu.main]]
         identifier = "assignment"
         name = "Assignments"

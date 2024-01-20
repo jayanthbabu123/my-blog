@@ -392,10 +392,106 @@ article.content.post.home {
 
 @media (max-width: 768px) {
   .assignments {
-      flex-direction: column;
+    flex-direction: column;
   }
 
   .assignment-card {
-      width: auto; /* Full width on small screens */
+    width: auto; /* Full width on small screens */
   }
+}
+
+// interviews
+
+.language-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 6px;
+  padding: 20px;
+}
+
+.language-card {
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  text-align: center;
+  padding: 20px 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+}
+
+.language-card h2 {
+  font-size: 20px;
+  margin-top: 10px;
+}
+
+.language-card p{
+  font-size: 16px;
+  margin-top: 10px;
+}
+
+.language-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+}
+
+.language-card img {
+  max-width: 100px;
+  margin-bottom: 10px;
+  height: 50px;
+}
+
+.language-card .view-button {
+  display: inline-block;
+  padding: 4px 15px;
+  background-color: #007bff;
+  width: 100px;
+  color: white;
+  border-radius: 5px;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+}
+
+.language-card .view-button:hover {
+  background-color: #0056b3;
+}
+
+.interview-questions {
+  list-style: none;
+  padding: 0;
+  margin: 0 auto;
+  max-width: 800px; /* Adjust as needed */
+}
+
+.interview-question {
+  background-color: #f9f9f9;
+  border: 1px solid #eaeaea;
+  padding: 15px 15px 0px;
+  margin-bottom: 15px;
+  border-radius: 8px;
+  /* box-shadow: 0 2px 4px rgba(0,0,0,0.1); */
+  transition: box-shadow 0.3s ease;
+}
+
+.interview-question:hover {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+}
+
+.interview-question h2 {
+  margin-top: 0;
+  color: #333;
+  font-size: 1.2em;
+}
+
+.interview-question p {
+  color: #666;
+  line-height: 1.5;
+}
+
+.interview-question a {
+  text-decoration: none;
+  color: #007bff;
+  transition: color 0.3s ease;
+}
+
+.interview-question a:hover {
+  color: #0056b3;
 }

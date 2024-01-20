@@ -2,10 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://programwithjayanth.com/assignments/</loc>
-    <lastmod>2024-01-18T21:41:46+05:30</lastmod>
-  </url><url>
     <loc>https://programwithjayanth.com/categories/</loc>
+    <lastmod>2024-01-19T23:44:41+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/html/</loc>
+    <lastmod>2024-01-19T23:44:41+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/html-5/</loc>
+    <lastmod>2024-01-19T23:44:41+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/html-attributes/</loc>
+    <lastmod>2024-01-19T23:44:41+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/html-elements/</loc>
+    <lastmod>2024-01-19T23:44:41+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/html-interview/</loc>
+    <lastmod>2024-01-19T23:44:41+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/categories/html-interview/</loc>
+    <lastmod>2024-01-19T23:44:41+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/html-notes/</loc>
+    <lastmod>2024-01-19T23:44:41+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/html-structure/</loc>
+    <lastmod>2024-01-19T23:44:41+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/html-tags/</loc>
+    <lastmod>2024-01-19T23:44:41+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/html-tutorial/</loc>
+    <lastmod>2024-01-19T23:44:41+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/html-tutorials/</loc>
+    <lastmod>2024-01-19T23:44:41+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/html5/</loc>
+    <lastmod>2024-01-19T23:44:41+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/interviews/</loc>
+    <lastmod>2024-01-19T23:44:41+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/</loc>
+    <lastmod>2024-01-19T23:44:41+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/interviews/html/doctype-in-html5/</loc>
+    <lastmod>2024-01-19T23:44:41+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/assignments/</loc>
     <lastmod>2024-01-18T21:41:46+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/css/</loc>
@@ -20,16 +65,10 @@
     <loc>https://programwithjayanth.com/assignments/custom-buttons-assignment/</loc>
     <lastmod>2024-01-18T21:41:46+05:30</lastmod>
   </url><url>
-    <loc>https://programwithjayanth.com/tags/html/</loc>
-    <lastmod>2024-01-18T21:41:46+05:30</lastmod>
-  </url><url>
     <loc>https://programwithjayanth.com/categories/html/</loc>
     <lastmod>2024-01-18T21:41:46+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/html-assignments/</loc>
-    <lastmod>2024-01-18T21:41:46+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/</loc>
     <lastmod>2024-01-18T21:41:46+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/web-development/</loc>
@@ -47,19 +86,7 @@
     <loc>https://programwithjayanth.com/tags/form-styling/</loc>
     <lastmod>2024-01-18T12:48:27+05:30</lastmod>
   </url><url>
-    <loc>https://programwithjayanth.com/tags/html-attributes/</loc>
-    <lastmod>2024-01-18T12:48:27+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/tags/html-elements/</loc>
-    <lastmod>2024-01-18T12:48:27+05:30</lastmod>
-  </url><url>
     <loc>https://programwithjayanth.com/tags/html-forms/</loc>
-    <lastmod>2024-01-18T12:48:27+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/tags/html-structure/</loc>
-    <lastmod>2024-01-18T12:48:27+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/tags/html-tags/</loc>
     <lastmod>2024-01-18T12:48:27+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/registration-form/</loc>
@@ -743,9 +770,6 @@
     <loc>https://programwithjayanth.com/tags/html-metadata/</loc>
     <lastmod>2024-01-17T21:11:09+05:30</lastmod>
   </url><url>
-    <loc>https://programwithjayanth.com/tags/html-notes/</loc>
-    <lastmod>2024-01-17T21:11:09+05:30</lastmod>
-  </url><url>
     <loc>https://programwithjayanth.com/tags/html-semantics/</loc>
     <lastmod>2024-01-17T21:11:09+05:30</lastmod>
   </url><url>
@@ -755,13 +779,7 @@
     <loc>https://programwithjayanth.com/tags/html-tables/</loc>
     <lastmod>2024-01-17T21:11:09+05:30</lastmod>
   </url><url>
-    <loc>https://programwithjayanth.com/tags/html-tutorial/</loc>
-    <lastmod>2024-01-17T21:11:09+05:30</lastmod>
-  </url><url>
     <loc>https://programwithjayanth.com/tags/html-validation/</loc>
-    <lastmod>2024-01-17T21:11:09+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/tags/html5/</loc>
     <lastmod>2024-01-17T21:11:09+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/seo/</loc>
@@ -1357,5 +1375,11 @@
   </url><url>
     <loc>https://programwithjayanth.com/tags/</loc>
     <lastmod>2023-12-06T21:01:31+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/interviews/css/</loc>
+    <lastmod>2024-01-19T18:56:35+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/interviews/html/</loc>
+    <lastmod>2024-01-19T18:56:12+05:30</lastmod>
   </url>
 </urlset>

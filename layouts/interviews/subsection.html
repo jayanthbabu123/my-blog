@@ -1,0 +1,26 @@
+{{ define "main" }}
+<main class="main assignments-page" id="main">
+  <div class="main-inner">
+    <div class="assignments-header" style="text-align: center">
+      <h1 class="assignments-title">
+        Master Your Tech Interviews: Comprehensive Question Bank
+      </h1>
+      <p class="assignments-description">
+        Dive into Comprehensive Interview Questions across Key Technologies.
+        From HTML to React - Your Path to Interview Success!
+      </p>
+    </div>
+    <div class="interview-questions">
+      {{ range $index, $element := .Pages }}
+      <div class="interview-question">
+        <div>
+          <span>{{ add $index 1 }}. </span
+          ><a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        </div>
+        <p>{{ .Summary }}</p>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</main>
+{{ end }}
