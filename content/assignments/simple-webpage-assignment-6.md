@@ -1,5 +1,5 @@
 +++
-title = ' HTML and CSS Recipe Card: Assignment 6'
+title = ' HTML and CSS Recipe Card: Assignment-6'
 date = 2024-01-21T10:50:43+05:30
 draft = false
 tags = [
