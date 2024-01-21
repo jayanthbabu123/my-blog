@@ -17,7 +17,7 @@
           <span>{{ add $index 1 }}. </span
           ><a href="{{ .RelPermalink }}">{{ .Title }}</a>
         </div>
-        <p>{{ .Summary }}</p>
+        <p>{{ .Summary | plainify | truncate 160 "..."}}</p>
       </div>
       {{ end }}
     </div>

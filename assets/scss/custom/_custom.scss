@@ -7,6 +7,9 @@
   font-variant: none;
 }
 
+body {
+  background-color: #f9f9f9;
+}
 .post-title {
   text-align: center;
   font-family: system-ui;
@@ -423,7 +426,7 @@ article.content.post.home {
   margin-top: 10px;
 }
 
-.language-card p{
+.language-card p {
   font-size: 16px;
   margin-top: 10px;
 }
@@ -462,17 +465,19 @@ article.content.post.home {
 }
 
 .interview-question {
-  background-color: #f9f9f9;
   border: 1px solid #eaeaea;
   padding: 15px 15px 0px;
   margin-bottom: 15px;
   border-radius: 8px;
   /* box-shadow: 0 2px 4px rgba(0,0,0,0.1); */
   transition: box-shadow 0.3s ease;
+  background-color: #fff;
+  font-size: 18px;
+  color: #0056b3;
 }
 
 .interview-question:hover {
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+  // box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
 }
 
 .interview-question h2 {
@@ -484,11 +489,12 @@ article.content.post.home {
 .interview-question p {
   color: #666;
   line-height: 1.5;
+  font-size: 15px;
 }
 
 .interview-question a {
   text-decoration: none;
-  color: #007bff;
+  color: #0056b3;
   transition: color 0.3s ease;
 }
 
