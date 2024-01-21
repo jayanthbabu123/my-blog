@@ -1,7 +1,21 @@
 +++
 title = ' HTML and CSS Recipe Card: Assignment 6'
 date = 2024-01-21T10:50:43+05:30
-draft = true
+draft = false
+tags = [
+    "HTML",
+    "HTML 5",
+    "HTML Interview",
+    "HTML Notes",
+    "HTML Tutorials",
+    "HTML Tutorial",
+    "HTML Tags",
+    "HTML Attributes",
+    "HTML Elements",
+    "HTML Structure",
+    "HTML5",
+]
+categories = ['Assignments']
 +++
 
 Create a styled recipe card for a "Simple Omelette" using HTML and CSS, replicating the provided code structure and styling.

@@ -10,7 +10,7 @@ tags = [
     "HTML Assignments",
     "CSS Assignments",
 ]
-categories = ['HTML', 'CSS']
+categories = ['Assignments']
 +++
 
  <div style="text-align: center;

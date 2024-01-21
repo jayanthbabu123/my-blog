@@ -3,7 +3,7 @@ title = 'Multipage Website: Assignment-1'
 date = 2024-01-13T22:24:33+05:30
 draft = false
 tags = ["HTML", "CSS", "Web Development", "Real World Assignment", "Multipage Website"]
-categories = ["HTML", "CSS"]
+categories = ['Assignments']
 +++
 
 In this assignment, you are going to build a four-page website. Each page of the website is a new opportunity to explore and apply different elements of HTML and CSS. The theme for your website is "Welcome to the Real World Assignment", giving you a chance to explore on different ways of applying CSS using `inline` and `internal CSS` and `external CSS`. And also you will get to know different types of selectors in CSS.

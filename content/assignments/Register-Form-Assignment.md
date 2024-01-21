@@ -19,7 +19,7 @@ tags = [
     "HTML Tags",
     "HTML Structure"
 ]
-categories = ['HTML', 'CSS']
+categories = ['Assignments']
 
 +++
 

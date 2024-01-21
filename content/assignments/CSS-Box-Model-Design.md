@@ -22,7 +22,7 @@ tags = [
     "HTML Tags",
     "HTML Structure",
 ]
-categories = ['CSS']
+categories = ['Assignments']
 +++
 
 # Nested Box Layout Assignment

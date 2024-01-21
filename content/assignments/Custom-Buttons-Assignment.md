@@ -9,7 +9,7 @@ tags = [
     "HTML Assignments",
     "CSS Assignments",
 ]
-categories = ['HTML', 'CSS']
+categories = ['Assignments']
 +++
 
 Create five buttons with distinct styles using HTML and CSS. These buttons will represent common UI elements: primary, success, danger, warning, and info. The buttons should be displayed inline with specific styling for each.
