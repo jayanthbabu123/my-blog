@@ -2,13 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://programwithjayanth.com/tags/boxmodel/</loc>
+    <lastmod>2024-01-24T20:53:33+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/categories/</loc>
+    <lastmod>2024-01-24T20:53:33+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/css/</loc>
+    <lastmod>2024-01-24T20:53:33+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/css-interview/</loc>
+    <lastmod>2024-01-24T20:53:33+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/categories/css-interview/</loc>
+    <lastmod>2024-01-24T20:53:33+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/css-interview-questions/</loc>
+    <lastmod>2024-01-24T20:53:33+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/interview/</loc>
+    <lastmod>2024-01-24T20:53:33+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/interviews/</loc>
+    <lastmod>2024-01-24T20:53:33+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/</loc>
+    <lastmod>2024-01-24T20:53:33+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/interviews/css/css-boxmodel/</loc>
+    <lastmod>2024-01-24T20:53:33+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/display/</loc>
+    <lastmod>2024-01-24T19:21:13+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/hidden/</loc>
+    <lastmod>2024-01-24T19:21:13+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/none/</loc>
+    <lastmod>2024-01-24T19:21:13+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/visibility/</loc>
+    <lastmod>2024-01-24T19:21:13+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/interviews/css/css-display-none-visibility-hidden/</loc>
+    <lastmod>2024-01-24T19:21:13+05:30</lastmod>
+  </url><url>
     <loc>https://programwithjayanth.com/categories/assignments/</loc>
     <lastmod>2024-01-21T11:45:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/assignments/</loc>
-    <lastmod>2024-01-21T11:45:32+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/categories/</loc>
     <lastmod>2024-01-21T11:45:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/css-assignments/</loc>
@@ -30,9 +72,6 @@
     <lastmod>2024-01-21T11:45:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/html-interview/</loc>
-    <lastmod>2024-01-21T11:45:32+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/</loc>
     <lastmod>2024-01-21T11:45:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/assignments/simple-webpage-assignment-6/</loc>
@@ -71,9 +110,6 @@
     <loc>https://programwithjayanth.com/tags/html-new-features/</loc>
     <lastmod>2024-01-21T09:23:40+05:30</lastmod>
   </url><url>
-    <loc>https://programwithjayanth.com/interviews/</loc>
-    <lastmod>2024-01-21T09:23:40+05:30</lastmod>
-  </url><url>
     <loc>https://programwithjayanth.com/interviews/html/html5-new-features/</loc>
     <lastmod>2024-01-21T09:23:40+05:30</lastmod>
   </url><url>
@@ -82,9 +118,6 @@
   </url><url>
     <loc>https://programwithjayanth.com/interviews/html/doctype-in-html5/</loc>
     <lastmod>2024-01-19T23:44:41+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/tags/css/</loc>
-    <lastmod>2024-01-21T11:10:31+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/assignments/custom-buttons-assignment/</loc>
     <lastmod>2024-01-21T11:10:20+05:30</lastmod>
@@ -805,9 +838,6 @@
   </url><url>
     <loc>https://programwithjayanth.com/tags/seo/</loc>
     <lastmod>2024-01-17T21:11:09+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/tags/interview/</loc>
-    <lastmod>2024-01-07T23:32:23+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/javascript-foreach-loop/</loc>
     <lastmod>2024-01-07T23:32:23+05:30</lastmod>
