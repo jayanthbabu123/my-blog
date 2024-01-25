@@ -1,7 +1,7 @@
 +++
 title = 'Javascript Variables Lession 3'
 date = 2024-01-08T22:30:22+05:30
-draft = true
+draft = false
 categories = ['Javascript Learning']
 image= "/images/js-variables.webp"
 tags=[

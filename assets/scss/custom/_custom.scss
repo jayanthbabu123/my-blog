@@ -498,3 +498,15 @@ article.content.post.home {
 .interview-question a:hover {
   color: #0056b3;
 }
+
+@media (max-width: 768px) {
+  .header-inner{
+    display: block;
+  }
+  .container .open .header-inner {
+    flex-direction: column;
+    height: 333px;
+    justify-content: flex-start;
+  }
+  
+}
