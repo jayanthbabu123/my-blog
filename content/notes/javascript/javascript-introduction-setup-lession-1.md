@@ -1,5 +1,5 @@
 +++
-title = 'Javascript Introduction'
+title = 'Javascript Introduction - Lession 1'
 date = 2024-01-08T21:19:44+05:30
 draft = false
 weight = 1

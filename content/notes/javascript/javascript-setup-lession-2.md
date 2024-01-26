@@ -1,5 +1,5 @@
 +++
-title = 'How to set up JavaScript in Local Environment'
+title = 'How to set up JavaScript in Local Environment - Lession 2'
 date = 2024-01-08T21:57:00+05:30
 draft = false
 categories = ['JavaScript-Learning']

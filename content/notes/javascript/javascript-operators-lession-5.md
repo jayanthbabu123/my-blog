@@ -1,5 +1,5 @@
 +++
-title = 'Javascript Operators 🧮'
+title = 'Javascript Operators 🧮 - Lesson 5'
 date = 2024-01-09T23:15:50+05:30
 draft = false
 categories = ['Javascript Learning']

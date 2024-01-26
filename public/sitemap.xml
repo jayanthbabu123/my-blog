@@ -9,7 +9,7 @@
     <lastmod>2024-01-26T12:07:43+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/notes/javascript/javascript-introduction-setup-lession-1/</loc>
-    <lastmod>2024-01-26T12:59:57+05:30</lastmod>
+    <lastmod>2024-01-26T17:51:53+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/notes/css/css-introduction/</loc>
     <lastmod>2024-01-26T12:06:26+05:30</lastmod>
@@ -27,7 +27,7 @@
     <lastmod>2024-01-26T12:07:55+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/notes/javascript/javascript-setup-lession-2/</loc>
-    <lastmod>2024-01-26T12:33:49+05:30</lastmod>
+    <lastmod>2024-01-26T17:52:01+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/notes/css/css-selectors-lession-2/</loc>
     <lastmod>2024-01-26T12:06:45+05:30</lastmod>
@@ -75,13 +75,16 @@
     <lastmod>2024-01-26T12:50:45+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/notes/javascript/javascript-operators-lession-5/</loc>
-    <lastmod>2024-01-26T12:34:21+05:30</lastmod>
+    <lastmod>2024-01-26T17:52:12+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/notes/css/css-typography-and-text-styling-lession-5/</loc>
     <lastmod>2024-01-26T12:07:06+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/notes/react/state-in-react/</loc>
     <lastmod>2024-01-26T12:40:03+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/notes/javascript/javascript-functions-lession-6/</loc>
+    <lastmod>2024-01-26T17:52:18+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/notes/css/css-google-fonts-integration-lession-6/</loc>
     <lastmod>2024-01-26T12:07:13+05:30</lastmod>
@@ -92,8 +95,14 @@
     <loc>https://programwithjayanth.com/posts/access-webcam-in-javascript/</loc>
     <lastmod>2024-01-26T12:51:47+05:30</lastmod>
   </url><url>
+    <loc>https://programwithjayanth.com/notes/javascript/javascript-conditions-lession-7/</loc>
+    <lastmod>2024-01-26T18:57:34+05:30</lastmod>
+  </url><url>
     <loc>https://programwithjayanth.com/posts/excel-json-javascript/</loc>
     <lastmod>2024-01-26T12:52:37+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/notes/javascript/javascript-loops-lession-8/</loc>
+    <lastmod>2024-01-26T22:26:06+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/posts/generate-qr-code-in-react/</loc>
     <lastmod>2024-01-26T12:52:47+05:30</lastmod>
@@ -125,11 +134,56 @@
     <loc>https://programwithjayanth.com/posts/virtual-dom/</loc>
     <lastmod>2024-01-26T12:54:59+05:30</lastmod>
   </url><url>
+    <loc>https://programwithjayanth.com/categories/</loc>
+    <lastmod>2024-01-26T22:26:06+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/frontend-development/</loc>
+    <lastmod>2024-01-26T22:26:06+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/javascript/</loc>
+    <lastmod>2024-01-26T22:26:06+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/javascript-basics/</loc>
+    <lastmod>2024-01-26T22:26:06+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/categories/javascript-learning/</loc>
+    <lastmod>2024-01-26T22:26:06+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/javascript-loops/</loc>
+    <lastmod>2024-01-26T22:26:06+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/javascript-syntax/</loc>
+    <lastmod>2024-01-26T22:26:06+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/javascript-types/</loc>
+    <lastmod>2024-01-26T22:26:06+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/loops/</loc>
+    <lastmod>2024-01-26T22:26:06+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/notes/</loc>
+    <lastmod>2024-01-26T22:26:06+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/</loc>
+    <lastmod>2024-01-26T22:26:06+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/web-development/</loc>
+    <lastmod>2024-01-26T22:26:06+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/conditions/</loc>
+    <lastmod>2024-01-26T18:57:34+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/javascript-conditions/</loc>
+    <lastmod>2024-01-26T18:57:34+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/functions/</loc>
+    <lastmod>2024-01-26T17:52:18+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/javascript-functions/</loc>
+    <lastmod>2024-01-26T17:52:18+05:30</lastmod>
+  </url><url>
     <loc>https://programwithjayanth.com/tags/boxmodel/</loc>
     <lastmod>2024-01-26T12:08:59+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/categories/</loc>
-    <lastmod>2024-01-26T13:00:23+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/css/</loc>
     <lastmod>2024-01-26T12:09:07+05:30</lastmod>
@@ -148,9 +202,6 @@
   </url><url>
     <loc>https://programwithjayanth.com/interviews/</loc>
     <lastmod>2024-01-26T12:09:07+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/</loc>
-    <lastmod>2024-01-26T13:00:23+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/display/</loc>
     <lastmod>2024-01-26T12:09:07+05:30</lastmod>
@@ -230,9 +281,6 @@
     <loc>https://programwithjayanth.com/assignments/custom-buttons-assignment/</loc>
     <lastmod>2024-01-21T11:10:20+05:30</lastmod>
   </url><url>
-    <loc>https://programwithjayanth.com/tags/web-development/</loc>
-    <lastmod>2024-01-26T13:00:23+05:30</lastmod>
-  </url><url>
     <loc>https://programwithjayanth.com/tags/css-circle-design/</loc>
     <lastmod>2024-01-21T11:10:14+05:30</lastmod>
   </url><url>
@@ -281,9 +329,6 @@
     <loc>https://programwithjayanth.com/tags/css-tutorial/</loc>
     <lastmod>2024-01-21T11:10:05+05:30</lastmod>
   </url><url>
-    <loc>https://programwithjayanth.com/tags/frontend-development/</loc>
-    <lastmod>2024-01-26T13:00:23+05:30</lastmod>
-  </url><url>
     <loc>https://programwithjayanth.com/tags/markup-language/</loc>
     <lastmod>2024-01-21T11:10:05+05:30</lastmod>
   </url><url>
@@ -308,29 +353,11 @@
     <loc>https://programwithjayanth.com/tags/real-world-assignment/</loc>
     <lastmod>2024-01-21T11:10:26+05:30</lastmod>
   </url><url>
-    <loc>https://programwithjayanth.com/tags/javascript/</loc>
-    <lastmod>2024-01-26T13:00:23+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/tags/javascript-basics/</loc>
-    <lastmod>2024-01-26T12:34:21+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/categories/javascript-learning/</loc>
-    <lastmod>2024-01-26T12:59:57+05:30</lastmod>
-  </url><url>
     <loc>https://programwithjayanth.com/tags/javascript-operators/</loc>
-    <lastmod>2024-01-26T12:34:21+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/tags/javascript-syntax/</loc>
-    <lastmod>2024-01-26T12:34:21+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/tags/javascript-types/</loc>
-    <lastmod>2024-01-26T12:34:21+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/notes/</loc>
-    <lastmod>2024-01-26T12:59:57+05:30</lastmod>
+    <lastmod>2024-01-26T17:52:12+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/operators/</loc>
-    <lastmod>2024-01-26T12:34:21+05:30</lastmod>
+    <lastmod>2024-01-26T17:52:12+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/data-types/</loc>
     <lastmod>2024-01-26T12:34:13+05:30</lastmod>
@@ -345,34 +372,34 @@
     <lastmod>2024-01-26T12:33:59+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/javascript-setup/</loc>
-    <lastmod>2024-01-26T12:33:49+05:30</lastmod>
+    <lastmod>2024-01-26T17:52:01+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/event-bubbling/</loc>
-    <lastmod>2024-01-26T12:59:57+05:30</lastmod>
+    <lastmod>2024-01-26T17:51:53+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/event-handlers/</loc>
-    <lastmod>2024-01-26T12:59:57+05:30</lastmod>
+    <lastmod>2024-01-26T17:51:53+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/event-handling/</loc>
-    <lastmod>2024-01-26T12:59:57+05:30</lastmod>
+    <lastmod>2024-01-26T17:51:53+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/event-listener/</loc>
-    <lastmod>2024-01-26T12:59:57+05:30</lastmod>
+    <lastmod>2024-01-26T17:51:53+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/event-listeners/</loc>
-    <lastmod>2024-01-26T12:59:57+05:30</lastmod>
+    <lastmod>2024-01-26T17:51:53+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/event-propagation/</loc>
-    <lastmod>2024-01-26T12:59:57+05:30</lastmod>
+    <lastmod>2024-01-26T17:51:53+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/event-target/</loc>
-    <lastmod>2024-01-26T12:59:57+05:30</lastmod>
+    <lastmod>2024-01-26T17:51:53+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/event-targets/</loc>
-    <lastmod>2024-01-26T12:59:57+05:30</lastmod>
+    <lastmod>2024-01-26T17:51:53+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/introduction/</loc>
-    <lastmod>2024-01-26T12:59:57+05:30</lastmod>
+    <lastmod>2024-01-26T17:51:53+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/categories/css-learning/</loc>
     <lastmod>2024-01-26T12:07:13+05:30</lastmod>
@@ -1305,9 +1332,6 @@
     <lastmod>2024-01-26T12:47:46+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/function-syntax/</loc>
-    <lastmod>2024-01-26T12:47:46+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/tags/javascript-functions/</loc>
     <lastmod>2024-01-26T12:47:46+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/regular-functions/</loc>
