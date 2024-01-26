@@ -7,38 +7,16 @@ draft = false
 weight = 2
 +++
 
+### Beginner - Answer 1️⃣
+
 Firstly, `display: none;` and `visibility: hidden;` are both CSS properties used to hide elements on a web page, but they do so in different ways.
 
-**1. display: none;** completely removes the element from the document layout. It's like the element was never there. The element does not take up any space, and the space it would have occupied is now available for other elements. Here's a simple
+In CSS, when you use `display: none`, it's like telling an element to completely disappear from the web page. It's as if the element was never there. On the other hand, visibility: hidden is like making the element invisible, but it still takes up space on the page, just like an invisible box.
 
-```html
-<style>
-  .hidden {
-    display: none;
-  }
-</style>
+### Intermediate - Answer 2️⃣
 
-<div>This is visible.</div>
-<div class="hidden">This is not visible.</div>
-<div>This is also visible.</div>
-```
+`display: none` and visibility: hidden are both CSS properties used to hide elements, but they do it differently. When you apply display: none to an element, it removes the element from the document layout. This means the element won't take up any space and it's as if the element is not there at all. However, with visibility: hidden, the element is only made invisible - it's still rendered in the layout and occupies space, but it's just not visible to the user. This distinction is important when you are managing layout and flow of content on your webpage.
 
-In this example, the second <`div>` is completely removed from the layout. The third `<div>` will take the place where the second `<div>` would have been.
+### Advanced - Answer 3️⃣
 
-**2. visibility: hidden;** is similar to `display: none;`, except that the element is still present in the layout, but it's hidden from the user. Here's a simple example:
-
-```html
-<style>
-  .invisible {
-    visibility: hidden;
-  }
-</style>
-
-<div>This is visible.</div>
-<div class="invisible">This is invisible but takes up space.</div>
-<div>This is visible and pushed down by the invisible div.</div>
-```
-
-In this case, the second `<div>` is not visible, but it still occupies space, pushing the third `<div>` down.
-
-In a real-world scenario, choosing between these two depends on your specific needs. If you want to remove an element without affecting the overall layout, go with `display: none;`. But if you need to hide an element temporarily without altering the layout, `visibility: hidden;` is your best bet. It’s all about controlling how elements interact with each other and the space around them in your web design.
+`display: none` and `visibility: hidden` are two CSS properties that both hide elements, but they interact with the document layout and rendering in distinct ways. `display: none` effectively removes the element from the document flow. This means that the element doesn't occupy any space and doesn't affect the positioning of other elements. In contrast, `visibility: hidden` maintains the element in the document layout. The element remains in its place, occupying space and affecting layout, but is not visible. This property's impact is purely visual, without altering the document's box model. This distinction is crucial for nuanced control over document layout and rendering, especially in complex web applications.

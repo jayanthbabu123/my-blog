@@ -19,26 +19,16 @@ tags = [
 categories = ['HTML Interview']
 +++
 
-In HTML5, the DOCTYPE declaration is a way to tell the web browser that, what version and type of HTML the page is written in. Different versions of HTML have different DOCTYPE declarations:
+## Straight forward - Answer 1️⃣
 
-**HTML `4.01`:** The DOCTYPE for HTML `4.01` depends on the type of HTML document you are writing (`Strict`, `Transitional`, or `Frameset`). For example, the Strict DOCTYPE is:
+Doctype in HTML5 is essential and is declared at the top of an HTML document as `<!DOCTYPE html>`. It's a simple declaration that instructs the browser to render the page in standards mode, ensuring compatibility and consistency across different browsers.
 
-```html
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-```
+### Detailed Explanation - Answer 2️⃣
 
-**HTML5:** The DOCTYPE is simplified in HTML5 and is the same regardless of the type of HTML document:
+Doctype, or document type declaration, in HTML5 is crucial and mandatory. It's represented as `<!DOCTYPE html>` and placed at the very beginning of an HTML document. This tells the browser that the page is written in HTML5, ensuring that it renders the page correctly. Without this declaration, browsers might render the page in quirks mode, which can lead to inconsistent appearances and functionalities. So, including the Doctype is not just a best practice but a necessity for modern web development."
 
-```html
-<!DOCTYPE html>
-```
+### Comprehensive Explanation - Answer 3️⃣
 
-This declaration is a clear signal to the browser that the HTML code that follows is written in HTML5. It's essential because it helps the browser render the content correctly, maintaining consistent behavior across different browsers.
+Doctype, or document type declaration, is a declaration in HTML that informs the web browser about the version and type of HTML the page is written in. In HTML5, the Doctype is simplified and looks like `<!DOCTYPE html>`. This declaration is at the very top of an HTML document and is essential because it ensures that the browser renders the page in standards mode. Without it, the browser might render the page in a quirks mode, which could lead to inconsistent appearances and functionalities across different browsers.
 
-### Is it Mandatory? 🍃
-
-**Technically Optional:** While modern browsers will still render a page without a Doctype, it may not be in HTML 5 standards mode.
-
-**Best Practice:** It is strongly recommended to always include the Doctype in HTML 5 to ensure correct rendering and compatibility across different browsers.
-
-In summary, while Doctype in HTML 5 may not be technically mandatory, it is crucial for ensuring that web pages are rendered correctly and consistently in line with modern web standards.
+Yes, including the `Doctype` in HTML5 is mandatory. It's a key component that helps maintain compatibility with older browsers and ensures that the page behaves consistently in modern browsers. Additionally, it's a good practice in terms of following HTML standards and ensuring that your HTML documents are properly structured and accessible.
