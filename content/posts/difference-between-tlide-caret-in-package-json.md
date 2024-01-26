@@ -18,6 +18,7 @@ tags=[
   "AngularJS",
   "VueJS"
 ]
+weight = 3
 categories= ["JavaScript"]
 image= "/images/tlide-caret.webp"
 +++

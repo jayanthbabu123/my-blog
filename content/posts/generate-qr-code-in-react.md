@@ -21,6 +21,7 @@ tags = [
     "Modern Web Development",
     "React Development",
 ]
+weight = 8
 
 categories = ["React"]
 image = "/images/qr-code.webp"

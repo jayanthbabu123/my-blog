@@ -14,6 +14,7 @@ tags = ["JavaScript",
 categories = ["JavaScript"]
 favorite = true
 image = "/images/javascript-foreach.webp"
+weight = 10
 +++
 
 ![JavaScript Foreach Loop](/images/javascript-foreach.webp)

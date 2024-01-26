@@ -24,6 +24,7 @@ tags = [
   "React Router Lazy Loading"
 ]
 categories = ["React"]
+weight = 11
 favorite = true
 image = "/images/nested-routing.webp"
 +++

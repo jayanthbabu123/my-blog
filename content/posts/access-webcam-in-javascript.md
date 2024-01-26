@@ -23,6 +23,7 @@ tags=[
 categories = ["JavaScript"]
 favorite= true
 image= "/images/webcam.webp"
+weight = 6
 +++
 
 ![Access webcam JavaScript](/images/webcam.webp)

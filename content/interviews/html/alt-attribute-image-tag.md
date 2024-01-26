@@ -1,7 +1,22 @@
 +++
 title = 'What is the purpose of the `alt` attribute on images?'
 date = 2024-01-21T09:35:57+05:30
-draft = true
+draft = false
+categories = ['HTML Interview']
+weight = 4
+tags = [
+    "HTML",
+    "HTML 5",
+    "HTML Interview",
+    "HTML Notes",
+    "HTML Tutorials",
+    "HTML Tutorial",
+    "HTML Tags",
+    "HTML Attributes",
+    "HTML Elements",
+    "HTML Structure",
+    "HTML5",
+]
 +++
 
 The alt attribute, short for "alternative text," is an important element in HTML used for describing images. Its main role is to provide a backup text description when an image cannot be displayed, due to reasons like network issues or incorrect image paths. This ensures that users still understand what image was meant to be there by seeing a text description.

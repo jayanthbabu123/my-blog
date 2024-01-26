@@ -16,6 +16,7 @@ tags=[
 ]
 categories= ["React"]
 favorite= true
+weight= 2
 image= "/images/closures-react.webp"
 +++
 ![How I have used Closures in React](/images/closures-react.webp)

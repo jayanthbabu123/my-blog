@@ -35,6 +35,7 @@ tags = [
 categories = ["JavaScript"]
 draft = false
 favorite= true
+weight = 7
 image= "/images/excel-json-javascript-min.webp"
 +++
 

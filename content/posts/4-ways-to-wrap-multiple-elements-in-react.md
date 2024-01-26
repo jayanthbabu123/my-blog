@@ -1,6 +1,7 @@
 +++
 title = '4 Ways to Wrap Multiple Elements in React'
 date = 2023-12-22T12:31:47+05:30
+weight = 3
 draft = false
 tags=[
   "React",
@@ -16,6 +17,7 @@ tags=[
     "Web Design"
 ]
 categories= ["React"]
+
 image= "/images/react-fragments.webp"
 +++
 

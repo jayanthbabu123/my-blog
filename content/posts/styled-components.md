@@ -14,6 +14,7 @@ tags = [
   "UI Design",
   "Responsive Design"
 ]
+weight = 15
 categories= ["React"]
 image= "/images/styled-components-react.png"
 +++

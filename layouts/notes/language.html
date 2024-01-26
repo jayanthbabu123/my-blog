@@ -1,0 +1,25 @@
+{{ define "main" }}
+<main class="main assignments-page" id="main">
+  <div class="main-inner">
+    <div class="assignments-header" style="text-align: center">
+      <h1 class="assignments-title">
+        Checkout the Comprehensive Notes here
+      </h1>
+      <p class="assignments-description">
+        Comprehensive Guides and Tutorials for Web Development Success
+      </p>
+    </div>
+    <div class="interview-questions">
+      {{ range $index, $element := .Pages }}
+      <div class="interview-question">
+        <div>
+          <span>{{ add $index 1 }}. </span
+          ><a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        </div>
+        <p>{{ .Summary | plainify | truncate 160 "..."}}</p>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</main>
+{{ end }}

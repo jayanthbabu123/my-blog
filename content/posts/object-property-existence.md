@@ -16,6 +16,7 @@ tags=[
 ]
 categories = ["JavaScript"]
 image= "/images/object-properties.webp"
+weight = 12
 +++
 ![Object Property Existence](/images/object-properties.webp)
 ### Introduction 🌟

@@ -8,13 +8,10 @@
       </p>
     </div>
 
-    {{ $allPages := where .Site.RegularPages "Section" "in"
-    .Site.Params.mainSections }} {{ if .Site.Params.enableHideInHomepage }} {{
-    $allPages = where $allPages ".Params.hideInHomepage" "ne" true }} {{ end }}
-    {{ $favoritePosts := where $allPages "Params.favorite" true }} {{
-    $otherPosts := where $allPages "Params.favorite" "!=" true }} {{
-    $combinedPages := union $favoritePosts $otherPosts }} {{ $paginator :=
-    .Paginate $combinedPages 12 }}
+    {{ $posts := where .Site.RegularPages "Type" "posts" }} {{ $favoritePosts :=
+    where $posts "Params.favorite" true }} {{ $otherPosts := where $posts
+    "Params.favorite" "!=" true }} {{ $combinedPages := union $favoritePosts
+    $otherPosts }} {{ $paginator := .Paginate $combinedPages 12 }}
     <div
       style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center"
     >

@@ -11,6 +11,7 @@ tags = [
 ]
 categories = ["React-Training"]
 image = "/images/react-training.webp"
+weight = 14
 +++
 
 ![React Training Course](/images/react-training.webp)

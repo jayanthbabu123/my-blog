@@ -4,6 +4,7 @@ date = 2024-01-24T18:41:17+05:30
 categories = ["CSS-Interview"]
 tags = ["css", "display", "none", "visibility", "hidden", "interview", "css-interview", "css-interview-questions"]
 draft = false
+weight = 2
 +++
 
 Firstly, `display: none;` and `visibility: hidden;` are both CSS properties used to hide elements on a web page, but they do so in different ways.

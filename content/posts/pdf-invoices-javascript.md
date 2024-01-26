@@ -38,6 +38,7 @@ tags = [
 categories = ['JavaScript']
 favorite= true
 image= "/images/pdf-invoices.webp"
+weight = 13
 +++
 
 ![How to download web pages as pdf in javascript ](/images/pdf-invoices.webp)

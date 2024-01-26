@@ -2,7 +2,7 @@
 title = 'What are the new features added in HTML5?'
 date = 2024-01-21T00:21:45+05:30
 draft = false
-
+weight = 1
 tags = [
     "HTML",
     "HTML 5",

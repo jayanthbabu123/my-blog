@@ -25,6 +25,7 @@ tags = [
     "Angular API Integration with Angular 17"
 ]
 categories = ["Angular"]
+weight = 9
 favorite= true
 image= "/images/angular-api-call.webp"
 +++

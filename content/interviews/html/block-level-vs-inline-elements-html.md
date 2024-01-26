@@ -2,6 +2,7 @@
 title = 'What is the difference between block-level and inline elements in HTML?'
 date = 2024-01-20T22:19:32+05:30
 draft = false
+weight = 3
 tags = [
     "HTML",
     "HTML 5",

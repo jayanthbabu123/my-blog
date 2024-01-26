@@ -24,6 +24,7 @@ tags=[
     "TypeScript Blog",
     "Learn TypeScript"
 ]
+weight = 16
 categories= ["TypeScript"]
 image= "/images/typescript.webp"
 +++

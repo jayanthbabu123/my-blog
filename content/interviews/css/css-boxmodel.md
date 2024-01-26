@@ -3,6 +3,7 @@ title = 'What is the Box Model in CSS?'
 date = 2024-01-24T19:18:51+05:30
 draft = false
 categories = ["CSS-Interview"]
+weight = 1
 tags = ["css", "boxmodel", "interview", "css-interview", "css-interview-questions"]
 +++
 

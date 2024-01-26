@@ -22,6 +22,7 @@ tags = [
 categories = ["Javascript"]
 image = "/images/click-events-javascript.webp"
 favorite= true
+weight = 2
 +++
 
 ![Access webcam JavaScript](/images/click-events-javascript.webp)

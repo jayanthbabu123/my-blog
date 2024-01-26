@@ -2,6 +2,7 @@
 title = 'What is Doctype in HTML 5? Is it mandatory in HTML 5?'
 date = 2024-01-19T14:57:06+05:30
 draft = false
+weight = 2
 tags = [
     "HTML",
     "HTML 5",

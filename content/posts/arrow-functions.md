@@ -15,6 +15,7 @@ tags = [
 categories = ["JavaScript"]
 image= "/images/arrow-regular.webp"
 draft = false
+weight = 1
 +++
 
 ![How Real DOM works with HTML and JavaScript](/images/arrow-regular.webp)

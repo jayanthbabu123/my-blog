@@ -233,11 +233,12 @@ weight = 3
         pre = "internal"
         post = "th"
     [[menu.main]]
-        pageref = "/tags/"
-        name = "Tags"
+        pageref = "/notes/"
+        name = "Notes"
         weight = 4
         pre = "internal"
         post = "tags"
+   
     [[menu.main]]
         pageref = "/about/"
         name = "About"

@@ -6,6 +6,7 @@ categories = ["JavaScript"]
 draft = false
 favorite= true
 image= "/images/create-object-javascript.webp"
+weight = 4
 +++
 
 ![How I have used Styled Components in React](/images/create-object-javascript.webp)

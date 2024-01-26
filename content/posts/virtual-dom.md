@@ -15,9 +15,12 @@ tags=[
 ]
 categories= ["React"]
 favorite= true
+weight = 17
 image= "/images/virtual-dom.png"
 +++
+
 ![How I have used Closures in React](/images/virtual-dom.png)
+
 ### Introduction 🚀
 
 When I was asked about the Virtual DOM in React during an interview, I realized it’s a fundamental concept that often confuses beginners. Understanding the Virtual DOM is crucial for React developers as it is the foundation of React’s high performance and efficient rendering process, enabling the creation of dynamic and responsive user interfaces with minimal impact on browser performance.
@@ -37,45 +40,47 @@ This process, known as reconciliation, is where React shines. It updates the Rea
 ```html
 <!DOCTYPE html>
 <html>
-<body>
+  <body>
     <p id="text">Initial Text</p>
     <button id="updateButton">Click Me</button>
     <script>
-        document.getElementById("updateButton").addEventListener("click",()=> {
-            document.getElementById("text").innerText = "Updated Text";
-        });
+      document.getElementById("updateButton").addEventListener("click", () => {
+        document.getElementById("text").innerText = "Updated Text";
+      });
     </script>
-</body>
+  </body>
 </html>
 ```
+
 ![How Real DOM works with HTML and JavaScript](/images/real-dom.gif)
 In this HTML and JavaScript example, clicking the button changes the text of the paragraph to `Updated Text.` Each click triggers the update, and you can see these changes reflected in the browser’s Elements panel. This is because every update directly manipulates the Real DOM, even if the content being updated is the same.
 
 ### React Example: Updating Content with Virtual DOM 🧩
 
 ```jsx
-import React, { useState } from 'react';
+import React, { useState } from "react";
 function App() {
-    const [text, setText] = useState('Initial Text');
+  const [text, setText] = useState("Initial Text");
 
-    const handleClick = () => {
-        setText('Updated Text');
-    };
+  const handleClick = () => {
+    setText("Updated Text");
+  };
 
-    return (
-        <div>
-            <button onClick={handleClick}>Click Me</button>
-            <p>{text}</p>
-        </div>
-    );
+  return (
+    <div>
+      <button onClick={handleClick}>Click Me</button>
+      <p>{text}</p>
+    </div>
+  );
 }
 export default App;
 ```
+
 ![How Virtual Dom works in React](/images/virtual-dom.gif)
 In this updated example, we define a handleClick function in the component. When the button is clicked, this function is executed, which then calls setText to update the state. This is a common pattern in React for handling events. The outcome in terms of DOM updates remains the same as the previous example: React's Virtual DOM will only update the Real DOM on the first click, as subsequent clicks do not change the state (the text remains `Updated Text`). This demonstrates React's efficiency in handling DOM updates through its reconciliation process.
 
 ### Conclusion ❤️
 
-In this blog, we explored the `Virtual DOM` in React, a concept that might seem complex at first but is actually pretty straightforward once you understand it. Remember, the Virtual DOM is like a lightweight copy of the real web page you see in your browser. It helps React update what you see on screen quickly and efficiently, without slowing things down. This is super important for making websites that are fast and smooth. By using examples, we saw how React updates only what’s necessary, instead of changing everything, which is what makes it so special. Keep practicing and exploring React, and soon, the Virtual DOM will become a familiar friend in your journey as a web developer. 
+In this blog, we explored the `Virtual DOM` in React, a concept that might seem complex at first but is actually pretty straightforward once you understand it. Remember, the Virtual DOM is like a lightweight copy of the real web page you see in your browser. It helps React update what you see on screen quickly and efficiently, without slowing things down. This is super important for making websites that are fast and smooth. By using examples, we saw how React updates only what’s necessary, instead of changing everything, which is what makes it so special. Keep practicing and exploring React, and soon, the Virtual DOM will become a familiar friend in your journey as a web developer.
 
 Happy coding!
