@@ -80,6 +80,9 @@
     <loc>https://programwithjayanth.com/posts/multiple-ways-create-object/</loc>
     <lastmod>2024-01-26T12:50:45+05:30</lastmod>
   </url><url>
+    <loc>https://programwithjayanth.com/interviews/css/css-rem-em-units/</loc>
+    <lastmod>2024-01-27T11:00:18+05:30</lastmod>
+  </url><url>
     <loc>https://programwithjayanth.com/interviews/html/for-attribute-html/</loc>
     <lastmod>2024-01-27T00:20:54+05:30</lastmod>
   </url><url>
@@ -91,6 +94,9 @@
   </url><url>
     <loc>https://programwithjayanth.com/notes/react/state-in-react/</loc>
     <lastmod>2024-01-26T12:40:03+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/interviews/css/universal-selector-css/</loc>
+    <lastmod>2024-01-27T11:22:15+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/interviews/html/semantic-elements-html5/</loc>
     <lastmod>2024-01-27T00:35:59+05:30</lastmod>
@@ -106,6 +112,9 @@
   </url><url>
     <loc>https://programwithjayanth.com/posts/access-webcam-in-javascript/</loc>
     <lastmod>2024-01-26T12:51:47+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/interviews/css/css-selectors/</loc>
+    <lastmod>2024-01-27T12:10:36+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/notes/javascript/javascript-conditions-lession-7/</loc>
     <lastmod>2024-01-26T18:57:34+05:30</lastmod>
@@ -147,33 +156,48 @@
     <lastmod>2024-01-26T12:54:59+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/categories/</loc>
-    <lastmod>2024-01-27T01:51:28+05:30</lastmod>
+    <lastmod>2024-01-27T12:10:36+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/css/</loc>
+    <lastmod>2024-01-27T12:10:36+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/css-interview/</loc>
+    <lastmod>2024-01-27T12:10:36+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/categories/css-interview/</loc>
+    <lastmod>2024-01-27T12:10:36+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/css-interview-questions/</loc>
+    <lastmod>2024-01-27T12:10:36+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/interview/</loc>
+    <lastmod>2024-01-27T12:10:36+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/interviews/</loc>
+    <lastmod>2024-01-27T12:10:36+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/</loc>
+    <lastmod>2024-01-27T12:10:36+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/selectors/</loc>
+    <lastmod>2024-01-27T12:10:36+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/universal-selector/</loc>
+    <lastmod>2024-01-27T11:22:15+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/em/</loc>
+    <lastmod>2024-01-27T11:00:18+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/rem/</loc>
+    <lastmod>2024-01-27T11:00:18+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/units/</loc>
+    <lastmod>2024-01-27T11:00:18+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/center/</loc>
     <lastmod>2024-01-27T01:51:28+05:30</lastmod>
   </url><url>
-    <loc>https://programwithjayanth.com/tags/css/</loc>
-    <lastmod>2024-01-27T01:51:28+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/tags/css-interview/</loc>
-    <lastmod>2024-01-27T01:51:28+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/categories/css-interview/</loc>
-    <lastmod>2024-01-27T01:51:28+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/tags/css-interview-questions/</loc>
-    <lastmod>2024-01-27T01:51:28+05:30</lastmod>
-  </url><url>
     <loc>https://programwithjayanth.com/tags/horizontal/</loc>
-    <lastmod>2024-01-27T01:51:28+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/tags/interview/</loc>
-    <lastmod>2024-01-27T01:51:28+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/interviews/</loc>
-    <lastmod>2024-01-27T01:51:28+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/</loc>
     <lastmod>2024-01-27T01:51:28+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/vertical/</loc>
@@ -627,9 +651,6 @@
     <lastmod>2024-01-26T12:06:53+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/pseudo-elements/</loc>
-    <lastmod>2024-01-26T12:06:53+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/tags/selectors/</loc>
     <lastmod>2024-01-26T12:06:53+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/sibling-selectors/</loc>
