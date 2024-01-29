@@ -345,7 +345,7 @@ article.content.post.home {
   justify-content: space-between;
   align-items: center;
   margin: 0 auto;
-  max-width: 48em;
+  max-width: 73%;
 }
 
 .header-inner.list {
@@ -500,7 +500,7 @@ article.content.post.home {
 }
 
 @media (max-width: 768px) {
-  .header-inner{
+  .header-inner {
     display: block;
   }
   .container .open .header-inner {
@@ -508,13 +508,41 @@ article.content.post.home {
     height: 333px;
     justify-content: flex-start;
   }
-  
 }
 
 .drop-cap {
   float: none;
   font-size: 18px;
-  margin-right: 0; 
+  margin-right: 0;
   margin-top: 11.12484549px;
   line-height: 29.124px;
+}
+
+.post-body h1,
+.post-body h2,
+.post-body h3,
+.post-body h4,
+.post-body h5,
+.post-body h6 {
+  font-family: system-ui;
+  font-size: 1.1em;
+  font-family: "euclid_circular_a", "Arial", "Source Sans Pro", "Helvetica Neue",
+    "Helvetica", "Arial", sans-serif;
+  /* margin: 0; */
+  color: #25265e;
+}
+
+.post-title {
+  text-align: center;
+  font-family: system-ui;
+  font-family: "euclid_circular_a", "Arial", "Source Sans Pro", "Helvetica Neue",
+    "Helvetica", "Arial", sans-serif;
+  /* margin: 0; */
+  color: #25265e;
+  font-size: 1.8em;
+  margin-top: 10px;
+}
+
+.header-inner.list {
+  max-width: 70%;
 }
