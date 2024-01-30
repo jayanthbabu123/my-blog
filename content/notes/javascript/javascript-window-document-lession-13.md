@@ -1,7 +1,7 @@
 +++
 title = 'Javascript Window Document - Lession 13'
 date = 2024-01-29T23:18:16+05:30
-draft = true
+draft = false
 categories = ['Javascript Learning']
 image= "/images/js-window-document.webp"
 tags=[
