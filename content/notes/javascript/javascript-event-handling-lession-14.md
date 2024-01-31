@@ -224,6 +224,85 @@ actionButton.addEventListener("click", handleButtonClick);
 
 In this example, the `handleButtonClick` function is triggered when the button is clicked. After the first click, the event listener is removed, preventing further clicks on the button from triggering the function.
 
+## 6. Event Bubbling in JavaScript
+
+Event bubbling is a fundamental concept in JavaScript event handling, where an event on a child element propagates upwards to its parent elements. This behavior is a default aspect of how events work in the DOM (Document Object Model).
+
+**How Event Bubbling Works**
+
+When an event is fired on an element, after triggering any event handlers on the element itself, it 'bubbles up' the DOM tree. This means the event is then sequentially triggered on each of its parent elements up to the root of the document. This behavior allows parent elements to listen for events on their children.
+
+Let’s look at an example where event bubbling plays a key role:
+
+```html
+<div id="parent">
+  Parent
+  <div id="child">Child</div>
+</div>
+```
+
+In your JavaScript
+
+```javascript
+document.getElementById("parent").addEventListener("click", function (event) {
+  console.log("Parent clicked");
+});
+
+document.getElementById("child").addEventListener("click", function (event) {
+  console.log("Child clicked");
+});
+```
+
+In this scenario, clicking on the "Child" div triggers the click event for both the child and the parent due to event bubbling. First, the console logs 'Child clicked', then 'Parent clicked' as the event bubbles up to the parent div.
+
+**Controlling Event Bubbling**
+
+Event bubbling is generally useful, but there are situations where you might want to stop the bubble. You can prevent further bubbling by using event.stopPropagation() in the event handler.
+
+```javascript
+document.getElementById("child").addEventListener("click", function (event) {
+  console.log("Child clicked");
+  event.stopPropagation(); // Stops the event from bubbling up
+});
+```
+
+With event.stopPropagation(), clicking on the "Child" div will only trigger the child's event handler, and the event won’t bubble up to the parent.
+
+_Use event.stopPropagation() judiciously. Stopping event propagation can have unintended side effects, especially in complex applications where other elements might rely on bubbling._
+
+## 7. Event Delegation in JavaScript
+
+Event delegation is a technique in JavaScript that involves adding a single event listener to a parent element to manage events for multiple child elements. It's based on the concept of event bubbling, where an event on a child element propagates up to the parent elements.
+
+**How Event Delegation Works**
+
+Instead of attaching event listeners to each child element individually, event delegation attaches one to a parent element. When an event occurs on a child, it bubbles up and is handled by the listener on the parent. This approach is memory-efficient, especially useful for dynamic elements added to the DOM at a later stage.
+
+**Example: Click Event on a List**
+
+Consider a list where you want to identify which list item is clicked:
+
+```html
+<ul id="myList">
+  <li>Item 1</li>
+  <li>Item 2</li>
+  <li>Item 3</li>
+  <!-- More list items -->
+</ul>
+```
+
+and your JavaScript code is
+
+```javascript
+document.getElementById("myList").addEventListener("click", function (event) {
+  if (event.target.tagName === "LI") {
+    console.log("List item clicked:", event.target.textContent);
+  }
+});
+```
+
+In this setup, clicking on any list item (`<li>`) triggers the event listener on the `<ul>` element. The event.target property identifies the actual clicked item, allowing us to respond to individual list items.
+
 ## Conclusion 📝
 
 Understanding and effectively using these event types in JavaScript is key to creating dynamic and engaging web applications. Each event type serves a specific purpose and can be handled using the addEventListener method for more flexibility and control.
