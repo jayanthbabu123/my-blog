@@ -210,6 +210,39 @@ let obj = JSON.parse(json);
 console.log(obj); // Outputs: { name: "John", age: 30 }
 ```
 
+**JSON.stringify() Considerations**
+
+1. Handling of Undefined, Functions, and Symbols
+   When using `JSON.stringify()`, it's important to note how JavaScript values that are not supported in JSON format—specifically `undefined`, `functions` and `symbols`:
+
+**Objects:** If an object has properties with values of undefined, functions, or symbols, these properties are omitted in the resulting JSON string, as though they never existed.
+
+**Arrays**: In arrays, these values are converted to null, ensuring the array maintains its length but loses the type information of those specific elements
+
+```javascript
+const data = {
+  name: "Alice",
+  greet: function () {
+    console.log("Hello");
+  },
+  id: Symbol("id"),
+  undefinedValue: undefined,
+};
+
+const array = [undefined, function () {}, Symbol("")];
+
+console.log(JSON.stringify(data)); // '{"name":"Alice"}'
+console.log(JSON.stringify(array)); // '[null,null,null]'
+```
+
+2.  BigInt Support
+    As JSON is a text format that doesn't natively support JavaScript's `BigInt` data type, attempting to stringify an object containing a `BigInt` value will result in a `TypeError`. This behavior underscores the importance of ensuring data types are compatible with JSON before serialization.
+
+```javascript
+JSON.stringify({ bigInt: BigInt(9007199254740991) });
+// Uncaught TypeError: Do not know how to serialize a BigInt
+```
+
 ## 4.5 Object.assign()
 
 The `Object.assign()` method is used to copy the properties of one or more source objects to a target object. It returns the target object.
