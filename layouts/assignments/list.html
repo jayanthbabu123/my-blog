@@ -16,7 +16,7 @@
     >
       {{ range .Pages }}
       <div class="assignment-card">
-        <span class="emoji-icon">📚</span>
+        <img src="{{ .Params.logo }}" alt="{{ .Title }} Logo" height="50" width="50" />
         <h2 style="font-size: 1rem">
           <a href="{{ .RelPermalink }}">{{ .Title }}</a>
         </h2>

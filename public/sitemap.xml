@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://programwithjayanth.com/assignments/javascript/javascript-assignment-1/</loc>
+    <lastmod>2024-02-06T21:46:37+05:30</lastmod>
+  </url><url>
     <loc>https://programwithjayanth.com/interviews/css/css-center-horizontal-vertical/</loc>
     <lastmod>2024-01-27T01:51:28+05:30</lastmod>
   </url><url>
@@ -185,25 +188,64 @@
     <loc>https://programwithjayanth.com/notes/javascript/async-await-javascript-lession-18/</loc>
     <lastmod>2024-02-01T22:52:50+05:30</lastmod>
   </url><url>
-    <loc>https://programwithjayanth.com/tags/async-await/</loc>
-    <lastmod>2024-02-01T22:52:50+05:30</lastmod>
+    <loc>https://programwithjayanth.com/notes/javascript/settimeout-setinterval-lession-19/</loc>
+    <lastmod>2024-02-06T08:40:46+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/notes/javascript/promises-in-javascript-lession-20/</loc>
+    <lastmod>2024-02-05T00:11:53+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/assignments/</loc>
+    <lastmod>2024-02-06T21:46:37+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/categories/</loc>
-    <lastmod>2024-02-03T17:58:10+05:30</lastmod>
+    <lastmod>2024-02-06T21:46:37+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/frontend-development/</loc>
-    <lastmod>2024-02-03T17:58:10+05:30</lastmod>
+    <lastmod>2024-02-06T21:46:37+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/javascript/</loc>
-    <lastmod>2024-02-03T17:58:10+05:30</lastmod>
+    <lastmod>2024-02-06T21:46:37+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/javascript-assignments/</loc>
+    <lastmod>2024-02-06T21:46:37+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/categories/javascript-assignments/</loc>
+    <lastmod>2024-02-06T21:46:37+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/</loc>
+    <lastmod>2024-02-06T21:46:37+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/web-development/</loc>
+    <lastmod>2024-02-06T21:46:37+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/categories/javascript-learning/</loc>
+    <lastmod>2024-02-06T08:40:46+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/javascript-promises/</loc>
+    <lastmod>2024-02-05T00:11:53+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/notes/</loc>
+    <lastmod>2024-02-06T08:40:46+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/promises/</loc>
+    <lastmod>2024-02-05T00:11:53+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/javascript-settimeout-setinterval/</loc>
+    <lastmod>2024-02-06T08:40:46+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/setinterval/</loc>
+    <lastmod>2024-02-06T08:40:46+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/settimeout/</loc>
+    <lastmod>2024-02-06T08:40:46+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/tags/async-await/</loc>
+    <lastmod>2024-02-01T22:52:50+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/javascript-async-await/</loc>
     <lastmod>2024-02-01T22:52:50+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/javascript-basics/</loc>
-    <lastmod>2024-02-03T17:58:10+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/categories/javascript-learning/</loc>
     <lastmod>2024-02-03T17:58:10+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/javascript-methods/</loc>
@@ -213,15 +255,6 @@
     <lastmod>2024-02-03T17:58:10+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/javascript-types/</loc>
-    <lastmod>2024-02-03T17:58:10+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/notes/</loc>
-    <lastmod>2024-02-03T17:58:10+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/</loc>
-    <lastmod>2024-02-03T17:58:10+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/tags/web-development/</loc>
     <lastmod>2024-02-03T17:58:10+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/api-calls/</loc>
@@ -294,7 +327,7 @@
     <lastmod>2024-01-28T02:25:23+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/css/</loc>
-    <lastmod>2024-01-27T12:10:36+05:30</lastmod>
+    <lastmod>2024-02-06T20:06:24+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/css-interview/</loc>
     <lastmod>2024-01-27T12:10:36+05:30</lastmod>
@@ -336,7 +369,7 @@
     <lastmod>2024-01-27T01:51:28+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/html/</loc>
-    <lastmod>2024-01-27T00:35:59+05:30</lastmod>
+    <lastmod>2024-02-06T20:06:24+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/html-5/</loc>
     <lastmod>2024-01-27T00:35:59+05:30</lastmod>
@@ -405,15 +438,12 @@
     <lastmod>2024-01-26T23:36:56+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/categories/assignments/</loc>
-    <lastmod>2024-01-21T11:45:32+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/assignments/</loc>
-    <lastmod>2024-01-21T11:45:32+05:30</lastmod>
+    <lastmod>2024-02-06T20:06:24+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/css-assignments/</loc>
     <lastmod>2024-01-21T11:45:32+05:30</lastmod>
   </url><url>
-    <loc>https://programwithjayanth.com/assignments/feedback-rating-card-assignment-7/</loc>
+    <loc>https://programwithjayanth.com/assignments/css/feedback-rating-card-assignment-7/</loc>
     <lastmod>2024-01-21T11:45:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/html-assignments/</loc>
@@ -422,7 +452,7 @@
     <loc>https://programwithjayanth.com/tags/html-css-designs/</loc>
     <lastmod>2024-01-21T11:45:32+05:30</lastmod>
   </url><url>
-    <loc>https://programwithjayanth.com/assignments/simple-webpage-assignment-6/</loc>
+    <loc>https://programwithjayanth.com/assignments/css/simple-webpage-assignment-6/</loc>
     <lastmod>2024-01-21T11:33:32+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/html-interview-questions/</loc>
@@ -431,13 +461,13 @@
     <loc>https://programwithjayanth.com/tags/html-new-features/</loc>
     <lastmod>2024-01-26T12:07:43+05:30</lastmod>
   </url><url>
-    <loc>https://programwithjayanth.com/assignments/custom-buttons-assignment/</loc>
+    <loc>https://programwithjayanth.com/assignments/css/custom-buttons-assignment/</loc>
     <lastmod>2024-01-21T11:10:20+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/css-circle-design/</loc>
     <lastmod>2024-01-21T11:10:14+05:30</lastmod>
   </url><url>
-    <loc>https://programwithjayanth.com/assignments/css-circle-assignment/</loc>
+    <loc>https://programwithjayanth.com/assignments/css/css-circle-assignment/</loc>
     <lastmod>2024-01-21T11:10:14+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/form-design/</loc>
@@ -452,7 +482,7 @@
     <loc>https://programwithjayanth.com/tags/registration-form/</loc>
     <lastmod>2024-01-21T11:10:31+05:30</lastmod>
   </url><url>
-    <loc>https://programwithjayanth.com/assignments/register-form-assignment/</loc>
+    <loc>https://programwithjayanth.com/assignments/css/register-form-assignment/</loc>
     <lastmod>2024-01-21T11:10:31+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/user-experience/</loc>
@@ -473,7 +503,7 @@
     <loc>https://programwithjayanth.com/tags/css-box-model/</loc>
     <lastmod>2024-01-26T12:06:26+05:30</lastmod>
   </url><url>
-    <loc>https://programwithjayanth.com/assignments/css-box-model-design/</loc>
+    <loc>https://programwithjayanth.com/assignments/css/css-box-model-design/</loc>
     <lastmod>2024-01-21T11:10:05+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/css-notes/</loc>
@@ -498,13 +528,13 @@
     <lastmod>2024-01-26T13:00:23+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/multipage-website/</loc>
-    <lastmod>2024-01-21T11:10:26+05:30</lastmod>
+    <lastmod>2024-02-06T20:06:24+05:30</lastmod>
   </url><url>
-    <loc>https://programwithjayanth.com/assignments/html-assignment-1/</loc>
-    <lastmod>2024-01-21T11:10:26+05:30</lastmod>
+    <loc>https://programwithjayanth.com/assignments/html/html-assignment-1/</loc>
+    <lastmod>2024-02-06T20:06:24+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/real-world-assignment/</loc>
-    <lastmod>2024-01-21T11:10:26+05:30</lastmod>
+    <lastmod>2024-02-06T20:06:24+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/javascript-operators/</loc>
     <lastmod>2024-01-26T17:52:12+05:30</lastmod>
@@ -1607,17 +1637,26 @@
     <loc>https://programwithjayanth.com/tags/</loc>
     <lastmod>2023-12-06T21:01:31+05:30</lastmod>
   </url><url>
+    <loc>https://programwithjayanth.com/assignments/css/</loc>
+    <lastmod>2024-02-06T20:00:45+05:30</lastmod>
+  </url><url>
     <loc>https://programwithjayanth.com/interviews/css/</loc>
     <lastmod>2024-01-19T18:56:35+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/notes/css/</loc>
     <lastmod>2024-01-26T11:52:49+05:30</lastmod>
   </url><url>
+    <loc>https://programwithjayanth.com/assignments/html/</loc>
+    <lastmod>2024-02-06T20:00:52+05:30</lastmod>
+  </url><url>
     <loc>https://programwithjayanth.com/interviews/html/</loc>
     <lastmod>2024-01-19T18:56:12+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/notes/html/</loc>
-    <lastmod>2024-01-26T12:43:51+05:30</lastmod>
+    <lastmod>2024-02-06T08:37:32+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/assignments/javascript/</loc>
+    <lastmod>2024-02-06T20:01:03+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/notes/javascript/</loc>
     <lastmod>2024-01-26T12:43:09+05:30</lastmod>
