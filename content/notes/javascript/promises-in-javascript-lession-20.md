@@ -128,3 +128,44 @@ promise.then(
 );
 ```
 
+In this example, the .then method takes two arguments: first callback function will be executed if the promise is resolved, and second callback function will be executed if the promise is rejected.
+
+## .catch method
+
+The .catch method allows you to specify a callback function that will be executed once the promise is rejected. This method is used to handle error cases in asynchronous code.
+
+```javascript
+const promise = new Promise((resolve, reject) => {
+  setTimeout(() => reject("Rejected after 2 seconds"), 2000);
+});
+
+promise
+  .then(result => console.log(result))
+  .catch(error => console.log(error)); // Logs "Rejected after 2 seconds"
+
+```
+
+In this example, the .catch method takes one argument: a callback function that will be executed if the promise is rejected.
+
+## .finally method
+This method is similar to the `.then` method, but it is executed regardless of the state of the promise. This method is used to handle success and error cases in asynchronous code.
+
+```javascript
+const promise = new Promise((resolve, reject) => {
+  setTimeout(() => resolve("Resolved after 2 seconds"), 2000);
+});
+
+promise
+  .then(result => console.log(result)) // Logs "Resolved after 2 seconds"
+  .catch(error => console.log(error))
+  .finally(() => console.log("Operation completed")); // Logs "Resolved after 2 seconds" and "Operation completed"
+
+```
+
+In this example, the .finally method takes one argument: a callback function that will be executed regardless of the state of the promise.
+
+
+
+
+
+
