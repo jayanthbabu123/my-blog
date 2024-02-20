@@ -572,6 +572,7 @@ article.content.post.home {
 @media (max-width: 768px) {
   .header-inner {
     display: block;
+    max-width: 100% !important;
   }
   .container .open .header-inner {
     flex-direction: column;
