@@ -23,8 +23,8 @@ Welcome to our React Training Course! As a seasoned front-end developer with 9 y
 ### 📅 Course Launch Date & Details
 
 <div class="calendar-date">
-    <span class="month">JAN</span>
-    <span class="day">6</span>
+    <span class="month">Mar</span>
+    <span class="day">9</span>
     <span class="year">2024</span>
 </div>
 <div id="countdown">
@@ -34,7 +34,7 @@ Welcome to our React Training Course! As a seasoned front-end developer with 9 y
 
 <script>
     // Set the date we're counting down to
-    var countDownDate = new Date("Jan 6, 2024 00:00:00").getTime();
+    var countDownDate = new Date("Mar 9, 2024 10:00:00").getTime();
 
     // Update the count down every 1 second
     var x = setInterval(function() {
@@ -63,7 +63,7 @@ Welcome to our React Training Course! As a seasoned front-end developer with 9 y
     }, 1000);
 </script>
 
-- **Start Date:** JAN 6th, 2024.
+- **Start Date:** March 9th, 2024.
 - **Duration:** 50 days.
 <!-- - **Enrollment:** The course is paid. Contact for details and fees. -->
 - **Contact:** Reach out to me on WhatsApp at +918466880194 [WhatsApp](https://wa.me/+918466880194) for more information and to enroll.
@@ -158,6 +158,6 @@ Welcome to our React Training Course! As a seasoned front-end developer with 9 y
 
 ## Contact and Join Us 📧
 
-For more details about the course, or if you have any questions, feel free to reach out at jsomineni@gmail.com. Ready to start your journey in web development? Join us in the 2nd week of January 2024 for a transformative learning experience!
+For more details about the course, or if you have any questions, feel free to reach out at jsomineni@gmail.com. Ready to start your journey in web development? Join us in the 2nd week of March 2024 for a transformative learning experience!
 
 This course is more than just a learning experience; it's a step forward in your professional development as a front-end developer. Join us on this journey to mastering React and elevating your skillset in the ever-evolving world of web development.
