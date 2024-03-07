@@ -122,6 +122,9 @@
     <loc>https://programwithjayanth.com/notes/javascript/javascript-conditions-lession-7/</loc>
     <lastmod>2024-01-26T18:57:34+05:30</lastmod>
   </url><url>
+    <loc>https://programwithjayanth.com/notes/react/event-handling-react/</loc>
+    <lastmod>2024-03-02T08:28:03+05:30</lastmod>
+  </url><url>
     <loc>https://programwithjayanth.com/posts/excel-json-javascript/</loc>
     <lastmod>2024-01-26T12:52:37+05:30</lastmod>
   </url><url>
@@ -194,17 +197,44 @@
     <loc>https://programwithjayanth.com/notes/javascript/promises-in-javascript-lession-20/</loc>
     <lastmod>2024-02-10T14:32:43+05:30</lastmod>
   </url><url>
+    <loc>https://programwithjayanth.com/notes/react/context-api-in-react/</loc>
+    <lastmod>2024-03-03T23:12:57+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/notes/</loc>
+    <lastmod>2024-03-03T23:12:57+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/</loc>
+    <lastmod>2024-03-03T23:12:57+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/notes/react/react-js-form-handling/</loc>
+    <lastmod>2024-03-03T22:49:34+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/interviews/javascript/factory-functions-and-classes-in-javascript/</loc>
+    <lastmod>2024-02-22T14:07:51+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/interviews/</loc>
+    <lastmod>2024-02-22T14:07:51+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/interviews/react/importance-of-webvitals-in-react-project/</loc>
+    <lastmod>2024-02-22T13:07:04+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/interviews/react/how-to-specify-node-version-in-react-project/</loc>
+    <lastmod>2024-02-22T12:58:52+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/interviews/react/how-to-extend-webpack-config-react/</loc>
+    <lastmod>2024-02-22T12:51:49+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/interviews/javascript/web-workers-in-javascript/</loc>
+    <lastmod>2024-02-22T12:40:19+05:30</lastmod>
+  </url><url>
+    <loc>https://programwithjayanth.com/notes/react/life-cycle-methods-class-components-lession-9/</loc>
+    <lastmod>2024-03-02T19:22:12+05:30</lastmod>
+  </url><url>
     <loc>https://programwithjayanth.com/notes/react/class-components-in-reactjs-lession-8/</loc>
     <lastmod>2024-02-20T08:07:53+05:30</lastmod>
   </url><url>
-    <loc>https://programwithjayanth.com/notes/</loc>
-    <lastmod>2024-02-20T08:07:53+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/</loc>
-    <lastmod>2024-02-20T08:07:53+05:30</lastmod>
-  </url><url>
     <loc>https://programwithjayanth.com/notes/react/life-cycle-methods-in-reactjs-lession-8/</loc>
-    <lastmod>2024-02-18T13:46:03+05:30</lastmod>
+    <lastmod>2024-03-02T19:21:38+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/notes/react/roting-in-reactjs-lession-7/</loc>
     <lastmod>2024-02-18T13:29:17+05:30</lastmod>
@@ -217,9 +247,6 @@
   </url><url>
     <loc>https://programwithjayanth.com/notes/javascript/es6-introduction-let-const-lession-21/</loc>
     <lastmod>2024-02-18T10:58:54+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/interviews/</loc>
-    <lastmod>2024-02-10T15:08:26+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/interviews/javascript/memoization-in-javascript/</loc>
     <lastmod>2024-02-10T15:08:26+05:30</lastmod>
@@ -255,7 +282,7 @@
     <lastmod>2024-02-06T21:46:37+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/categories/</loc>
-    <lastmod>2024-02-10T14:32:43+05:30</lastmod>
+    <lastmod>2024-03-02T08:28:03+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/frontend-development/</loc>
     <lastmod>2024-02-10T14:32:43+05:30</lastmod>
@@ -944,6 +971,9 @@
     <loc>https://programwithjayanth.com/categories/javascript/</loc>
     <lastmod>2024-01-26T12:53:37+05:30</lastmod>
   </url><url>
+    <loc>https://programwithjayanth.com/categories/react-training/</loc>
+    <lastmod>2024-03-02T08:28:03+05:30</lastmod>
+  </url><url>
     <loc>https://programwithjayanth.com/tags/props/</loc>
     <lastmod>2024-01-26T12:40:10+05:30</lastmod>
   </url><url>
@@ -973,9 +1003,6 @@
   </url><url>
     <loc>https://programwithjayanth.com/tags/react-virtual-dom/</loc>
     <lastmod>2024-01-26T12:40:10+05:30</lastmod>
-  </url><url>
-    <loc>https://programwithjayanth.com/categories/react-training/</loc>
-    <lastmod>2024-01-26T12:53:46+05:30</lastmod>
   </url><url>
     <loc>https://programwithjayanth.com/tags/react-context/</loc>
     <lastmod>2024-01-26T12:40:03+05:30</lastmod>

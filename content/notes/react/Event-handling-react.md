@@ -2,7 +2,7 @@
 title = 'Event Handling in React: A Comprehensive Guide: Lesson-7'
 date = 2023-12-31T12:07:51+05:30
 weight = 7
-draft = true
+draft = false
 categories = ["React-Training"]
 image = "https://i.postimg.cc/PJnpMz7D/events-react.png"
 +++
