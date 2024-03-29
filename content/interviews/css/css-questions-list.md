@@ -1,7 +1,7 @@
 +++
 title = 'CSS Interview Questions List'
 date = 2024-03-28T17:56:35+05:30
-draft = true
+draft = false
 +++
 
 # CSS Interview Questions List
