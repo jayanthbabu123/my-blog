@@ -1,9 +1,9 @@
-[data-small-caps="true"] .post-body h1,
-[data-small-caps="true"] .post-body h2,
-[data-small-caps="true"] .post-body h3,
-[data-small-caps="true"] .post-body h4,
-[data-small-caps="true"] .post-body h5,
-[data-small-caps="true"] .post-body h6 {
+[data-small-caps=true] .post-body h1,
+[data-small-caps=true] .post-body h2,
+[data-small-caps=true] .post-body h3,
+[data-small-caps=true] .post-body h4,
+[data-small-caps=true] .post-body h5,
+[data-small-caps=true] .post-body h6 {
   font-variant: none;
 }
 
@@ -13,6 +13,7 @@
   font-size: 2.1em;
   margin-top: 10px;
 }
+
 .post-body h1,
 .post-body h2,
 .post-body h3,
@@ -22,13 +23,16 @@
   font-family: system-ui;
   font-size: 1.3em;
 }
+
 .lntable,
 .highlight > pre {
   max-height: max-content;
 }
+
 .main {
   padding-top: 6em;
 }
+
 .post-body {
   margin-top: 3em !important;
 }
@@ -57,16 +61,15 @@ article.content.post.home {
     flex: 0 0 calc(50% - 20px); /* 2 items per row on smaller screens */
   }
 }
-
 @media (max-width: 480px) {
   article.content.post.home {
     flex: 0 0 100%; /* 1 item per row on very small screens */
   }
 }
-
 .chroma .c1 {
   color: #007400;
 }
+
 #disqus_thread {
   margin: 0 auto;
   display: block;
@@ -84,11 +87,11 @@ article.content.post.home {
     width: 90%;
   }
 }
-
 .pagination {
   margin: 0 auto;
   width: 85%;
 }
+
 .read-more-container a {
   border: 1px solid #198754; /* Primary color for outline */
   background-color: transparent; /* Transparent background */
@@ -99,8 +102,7 @@ article.content.post.home {
   text-align: center; /* Center the text */
   vertical-align: middle; /* Align button text vertically */
   user-select: none; /* Prevent text selection */
-  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
-    border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out; /* Smooth transition for hover effects */
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out; /* Smooth transition for hover effects */
   text-decoration: none; /* Remove underline from links */
 }
 
@@ -120,15 +122,16 @@ article.content.post.home {
   text-align: center; /* Center the text */
   vertical-align: middle; /* Align button text vertically */
   user-select: none; /* Prevent text selection */
-  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
-    border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out; /* Smooth transition for hover effects */
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out; /* Smooth transition for hover effects */
   text-decoration: none; /* Remove underline from links */
 }
+
 .pagination a:hover {
   color: #fff;
   background-color: #0d6efd;
   border-color: #0d6efd;
 }
+
 .main-inner {
   margin: 0 auto;
   display: block;
@@ -193,7 +196,6 @@ article.content.post.home {
 
 #countdown {
   text-align: center;
-
   margin-bottom: 20px;
 }
 
@@ -292,27 +294,22 @@ article.content.post.home {
     opacity: 0;
   }
 }
-
 @keyframes float {
-  0%,
-  100% {
+  0%, 100% {
     transform: translateY(0);
   }
   50% {
     transform: translateY(-20px);
   }
 }
-
 @keyframes fadeInOut {
-  0%,
-  100% {
+  0%, 100% {
     opacity: 0;
   }
   50% {
     opacity: 1;
   }
 }
-
 .new-year-overlay {
   position: fixed;
   top: 0;
@@ -330,16 +327,13 @@ article.content.post.home {
     top: 10%; /* Adjust the position */
     font-size: 1rem; /* Reduce the font size */
   }
-
   .balloons {
     font-size: 2rem; /* Reduce the size of the balloons */
   }
-
   .message {
     font-size: 1.5rem; /* Adjust the message font size */
   }
 }
-
 .header-inner {
   display: flex;
   justify-content: space-between;
@@ -351,6 +345,7 @@ article.content.post.home {
 .header-inner.list {
   max-width: 48em;
 }
+
 .assignments-page .main-inner {
   max-width: 1200px;
   margin: 0 auto;
@@ -394,14 +389,10 @@ article.content.post.home {
   .assignments {
     flex-direction: column;
   }
-
   .assignment-card {
     width: auto; /* Full width on small screens */
   }
 }
-
-// interviews
-
 .language-cards {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
@@ -473,10 +464,6 @@ article.content.post.home {
   color: #0056b3;
 }
 
-.interview-question:hover {
-  // box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
-}
-
 .interview-question h2 {
   margin-top: 0;
   color: #333;
@@ -506,7 +493,7 @@ article.content.post.home {
   margin-top: 11.12484549px;
   line-height: 29.124px;
 }
- 
+
 .post-body h1,
 .post-body h2,
 .post-body h3,
@@ -515,8 +502,7 @@ article.content.post.home {
 .post-body h6 {
   font-family: system-ui;
   font-size: 1.1em;
-  font-family: "euclid_circular_a", "Arial", "Source Sans Pro", "Helvetica Neue",
-    "Helvetica", "Arial", sans-serif;
+  font-family: "euclid_circular_a", "Arial", "Source Sans Pro", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
   /* margin: 0; */
   color: #25265e;
 }
@@ -524,8 +510,7 @@ article.content.post.home {
 .post-title {
   text-align: center;
   font-family: system-ui;
-  font-family: "euclid_circular_a", "Arial", "Source Sans Pro", "Helvetica Neue",
-    "Helvetica", "Arial", sans-serif;
+  font-family: "euclid_circular_a", "Arial", "Source Sans Pro", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
   /* margin: 0; */
   color: #25265e;
   font-size: 1.8em;
@@ -565,6 +550,7 @@ article.content.post.home {
 .navigation-cards .card p {
   font-size: 0.9rem;
 }
+
 .menu-item {
   margin-left: 1.2em;
 }
