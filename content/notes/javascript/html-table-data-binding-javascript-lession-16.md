@@ -103,7 +103,9 @@ Your html will look like this:
     <th>Age</th>
     <th>Grade</th>
   </tr>
-  <
+  <tbody>
+    <!-- Dynamic data will be inserted here -->
+  </tbody>
 </table>
 ```
 

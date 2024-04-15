@@ -7,6 +7,11 @@
   font-variant: none;
 }
 
+.single .main-inner {
+  width: 40em;
+  text-align: justify;
+}
+
 .post-title {
   text-align: center;
   font-family: system-ui;
@@ -506,7 +511,7 @@ article.content.post.home {
   margin-top: 11.12484549px;
   line-height: 29.124px;
 }
- 
+
 .post-body h1,
 .post-body h2,
 .post-body h3,
