@@ -1,5 +1,5 @@
 +++
-title = 'Javascript Assignment 1'
+title = 'Javascript logic practice exercises - 1'
 date = 2024-02-06T20:08:37+05:30
 draft = false
 categories = ['Javascript Assignments']

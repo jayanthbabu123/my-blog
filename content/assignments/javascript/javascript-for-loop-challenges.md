@@ -1,5 +1,5 @@
 +++
-title = 'Javascript for Loop Challenges'
+title = 'Javascript for Loop Challenges with Functions - 2'
 date = 2024-04-16T17:10:23+05:30
 draft = false
 +++
