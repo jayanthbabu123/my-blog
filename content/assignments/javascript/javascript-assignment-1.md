@@ -70,11 +70,11 @@ console.log(sumOfEvenNumbers(arr)); // Output: 6
 Write a function that takes an array of numbers as input and returns the sum of all the odd numbers in the array.
 
 ```javascript
-var arr = [1, 2, 3, 4, 5];
+var arr = [1, 10, 5, 3, 7];
 function sumOfOddNumbers(array) {
   // Your logic here
 }
-console.log(sumOfOddNumbers(arr)); // Output: 9
+console.log(sumOfOddNumbers(arr)); // Output: 16
 ```
 
 # Converting Array into Object by Counting the Number of Times an Element Repeats - Problem 6
@@ -94,11 +94,11 @@ console.log(countElements(arr)); // Output: {apple: 3, banana: 2, orange: 1}
 Write a function that takes an array of numbers as input and returns the largest number in the array.
 
 ```javascript
-var arr = [1, 2, 3, 4, 5];
+var arr = [10, 5, 3, 8, 2, 30, 20];
 function findLargestNumber(array) {
   // Your logic here
 }
-console.log(findLargestNumber(arr)); // Output: 5
+console.log(findLargestNumber(arr)); // Output: 30
 ```
 
 # Find the Smallest Number in an Array - Problem 8
@@ -106,11 +106,11 @@ console.log(findLargestNumber(arr)); // Output: 5
 Write a function that takes an array of numbers as input and returns the smallest number in the array.
 
 ```javascript
-var arr = [1, 2, 3, 4, 5];
+var arr = [10, 5, 3, 8, 2, 30, 20];
 function findSmallestNumber(array) {
   // Your logic here
 }
-console.log(findSmallestNumber(arr)); // Output: 1
+console.log(findSmallestNumber(arr)); // Output: 2
 ```
 
 # Merge Two Arrays and Remove Duplicate Entries - Problem 9
@@ -131,11 +131,11 @@ console.log(mergeAndRemoveDuplicates(arr1, arr2)); // Output: [1, 2, 3, 4, 5, 6,
 Develop a function that counts the number of truthy values in an array.
 
 ```javascript
-var arr = [1, 2, 3, 4, 5];
+var arr = [true, false, null, undefined, 1, 0, NaN, ""];
 function countTruthyValues(array) {
   // Your logic here
 }
-console.log(countTruthyValues(arr)); // Output: 3
+console.log(countTruthyValues(arr)); // Output: 2
 ```
 
 # Conclusion
