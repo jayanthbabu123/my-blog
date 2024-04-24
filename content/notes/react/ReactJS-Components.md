@@ -1,8 +1,8 @@
 +++
 title = 'Complete Guide on ReactJS Components: Lesson-2'
 date = 2023-12-30T00:33:18+05:30
-weight = 2
-draft = false
+weight = 100
+draft = true
 tags = ["reactjs", "components",
  "functional-components",
   "class-components",

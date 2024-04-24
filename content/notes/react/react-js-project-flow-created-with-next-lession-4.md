@@ -1,7 +1,9 @@
 +++
-title = 'Understanding the Flow in a Project Created with Next.js - Lession-4'
+title = 'Understanding the Flow in a Project Created with Next.js - Lession 4'
 date = 2024-04-20T23:26:57+05:30
 draft = false
+weight = 4
+
 +++
 
 Given that Create React App is officially deprecated, developers are encouraged to explore other methodologies for initiating new React projects. Next.js stands out as a recommended approach, as suggested by the latest React documentation. This framework not only simplifies setup but also enriches the development experience with robust features such as built-in routing and server-side rendering.

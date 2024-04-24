@@ -2,6 +2,29 @@
 title = 'Introduction to React JS - Lession 1'
 date = 2024-04-20T13:50:59+05:30
 draft = false
+weight = 1
+tags = [
+  "ReactJS",
+  "Frontend Development",
+  "Modern Web Development",
+  "React Development",
+  "React Tutorial",
+  "ReactJS Tutorial",
+  "ReactJS Guide",
+  "ReactJS Tips",
+  "ReactJS Best Practices",
+  "ReactJS Examples",
+  "ReactJS Projects",
+  "ReactJS Components",
+  "ReactJS State Management",
+  "ReactJS Hooks",
+  "ReactJS Performance",
+  "ReactJS Optimization",
+  "ReactJS SEO",
+  "ReactJS Accessibility",
+  "ReactJS Testing",
+  "ReactJS Deployment"
+]
 +++
 
 ## 1. What Is React JS?
@@ -125,11 +148,11 @@ console.log(window.ReactDOM); // Outputs the ReactDOM object
 
 Adding these properties to the window object simplifies DOM manipulations in several ways:
 
-`Global Accessibility:` Since React and ReactDOM are attached to the global window object, they can be accessed from any script in the application. This reduces the need for passing React around through imports, making it straightforward especially in simple projects or when you are quickly prototyping.
+**Global Accessibility:** Since React and ReactDOM are attached to the global window object, they can be accessed from any script in the application. This reduces the need for passing React around through imports, making it straightforward especially in simple projects or when you are quickly prototyping.
 
-`Simplified Management of the DOM:` ReactDOM abstracts away the direct interactions with the DOM. Developers can focus on defining the UI logic using React components, and ReactDOM takes care of rendering these components into the DOM and updating them when necessary. This separation makes it easier to develop and maintain complex applications without getting bogged down by the intricacies of the DOM.
+**Simplified Management of the DOM:** ReactDOM abstracts away the direct interactions with the DOM. Developers can focus on defining the UI logic using React components, and ReactDOM takes care of rendering these components into the DOM and updating them when necessary. This separation makes it easier to develop and maintain complex applications without getting bogged down by the intricacies of the DOM.
 
-`Efficient Updates:` ReactDOM manages the Virtual DOM, which is an in-memory representation of the real DOM. It optimizes updates by only changing elements in the actual DOM that have changed in the Virtual DOM. This results in significantly faster re-renders than traditional DOM manipulation methods.
+**Efficient Updates:** ReactDOM manages the Virtual DOM, which is an in-memory representation of the real DOM. It optimizes updates by only changing elements in the actual DOM that have changed in the Virtual DOM. This results in significantly faster re-renders than traditional DOM manipulation methods.
 
 Understanding that React JS comprises just two main libraries, React and ReactDOM, which manage the UI logic and DOM rendering respectively, clarifies their roles in web development. Their integration into the window global object simplifies their usage across the entire application, fostering more efficient and less error-prone development of dynamic web applications. By abstracting direct DOM interactions, React and ReactDOM allow developers to focus more on designing responsive and intuitive user interfaces.
 
@@ -150,24 +173,64 @@ npm start
 
 ```
 
-This command sets up a new React project with all necessary dependencies, configurations, and development tools. It creates a directory called my-app with a straightforward project structure:
+### Understanding of the Folder Structure
 
-- public/: Contains the HTML file and images.
-- src/: Contains JavaScript and CSS files.
-- node_modules/: Contains all the project's npm dependencies.
-- package.json: Manages the project's scripts, dependencies, and version.
+When you create a React application using create-react-app, it generates a project with a specific structure that organizes files and directories in a logical and functional manner. Here's a detailed look at the key components:
 
-**Advantages:**
+```bash
+my-app
+├── node_modules
+├── public
+│   ├── index.html
+│   └── favicon.ico
+├── src
+│   ├── App.js
+│   ├── App.css
+│   ├── index.js
+│   ├── index.css
+│   └── logo.svg
+├── package.json
+└── README.md
 
-- No configuration required to get started.
-- Includes a live development server, webpack, Babel, and ESLint.
-- Ideal for learning React and small projects.
+```
+
+`node_modules/`
+
+Contains all the libraries and dependencies your project needs, as specified in package.json. Each dependency is a folder within node_modules.
+
+This folder can become quite large as it includes every library used in your project. It should not be modified directly or committed to version control.
+
+`public/`
+
+- **index.html:** The single HTML file for your entire React application. It typically contains a div element with id="root", where your entire React app is rendered.
+- **favicon.ico:** The small icon displayed in the browser tab. You can replace it with your own icon to personalize your app.
+- **manifest.json:** A configuration file for Progressive Web Apps (PWA). It defines how your app appears when installed on a user's mobile device or desktop.
+- **robots.txt:** Provides instructions to web crawling bots. Useful for SEO optimization.
+
+`src/`
+
+- **App.js:** The main React component that acts as the heart of your application. It's where you'll write most of your application's logic and structure.
+- **App.test.js:** The test suite for `App.js`. Use this to test your main component.
+- **App.css:** The stylesheet for `App.js`. Use this to style your main component.
+- **index.js:** The main entry point of your React app. It defines the structure of your React app and contains the logic to render your app.
+- **index.css:** The main stylesheet for your React app. It defines the styling for your app.
+- **logo.svg:** The logo displayed in the browser tab. You can replace it with your own logo to personalize your app.
+- **reportWebVitals.js:** A JavaScript file that provides a function to measure the performance of your app.
+
+`package-lock.json`: A JSON file that contains information about the dependencies in your project.
+
+`package.json`: A JSON file that contains metadata about your project. It contains information like the name, version, and dependencies.
+
+`README.md`: A Markdown file that provides a description of your project and its purpose.
+
+`.gitignore`: Specifies files and directories that should be ignored by Git. Typically includes `node_modules`, `build artifacts`, etc.
 
 **Exploring Modern Alternatives: Vite and Next.js**
 
 As your React skills grow, you might find that Create React App doesn’t meet all your needs, especially for more complex applications. Modern alternatives like Vite and Next.js offer enhanced performance and additional features out of the box.
 
 ## 4.2 Vite:
+
 Vite is a build tool that significantly speeds up the development process by leveraging modern JavaScript features. It serves code via ES modules, making it faster than traditional tools that rely on bundling.
 
 ```bash
@@ -184,6 +247,7 @@ npm run dev
 - Optimized build that outputs highly efficient code for production.
 
 ## 4.3 Next.js:
+
 Next.js provides a framework for rendering React applications on the server. It's ideal for building scalable applications that benefit from server-side rendering, static site generation, and other modern web technologies.
 
 Setting up a React project with Next.js:
@@ -201,6 +265,3 @@ npm run dev
 - Provides built-in CSS and image optimization.
 
 Choosing the right setup for your React project depends on your specific needs and the scale of the project. For beginners, Create React App provides an easy and comprehensive way to learn React. As you advance, tools like Vite and Next.js offer more control and optimization for larger applications. Each tool has its strengths, and understanding these will help you make the best choice for your project’s requirements.
-
-
-

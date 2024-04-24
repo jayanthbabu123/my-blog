@@ -2,6 +2,7 @@
 title = 'Understanding JSX in React - Lession 5'
 date = 2024-04-21T00:04:59+05:30
 draft = false
+weight = 5
 +++
 
 JSX (JavaScript XML) is a syntactic extension for JavaScript, designed specifically for React to enhance the development experience. It allows developers to write HTML-like code directly within JavaScript files, which simplifies the creation and maintenance of UI components.
@@ -127,7 +128,12 @@ JSX can be used to render lists or collections dynamically using JavaScript's ar
 ```jsx
 import React from "react";
 
-function TodoList({ items }) {
+function TodoList() {
+  const items = [
+    { id: 1, text: "Item 1" },
+    { id: 2, text: "Item 2" },
+    { id: 3, text: "Item 3" },
+  ];
   return (
     <ul>
       {items.map((item) => (

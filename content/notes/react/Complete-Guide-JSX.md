@@ -1,8 +1,8 @@
 +++
 title = 'Complete Guide on JSX in ReactJS: Lesson-3'
 date = 2023-12-30T12:17:19+05:30
-weight = 3
-draft = false
+weight = 100
+draft = true
 tags = [
   "ReactJS",
   "JSX",

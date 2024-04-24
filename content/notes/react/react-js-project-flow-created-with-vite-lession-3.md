@@ -1,7 +1,8 @@
 +++
-title = 'Understanding the Flow in a React 18 Project Created with Vite - Lession-3'
+title = 'Understanding the Flow in a React 18 Project Created with Vite - Lession 3'
 date = 2024-04-20T23:10:56+05:30
 draft = false
+weight = 3
 +++
 
 Vite is a modern build tool that leverages ES modules and offers a much faster development experience compared to traditional tools. Here’s a detailed guide on understanding the flow in a React 18 project created using Vite, complete with code snippets and explanations of each step.

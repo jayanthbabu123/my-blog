@@ -1,7 +1,8 @@
 +++
-title = 'Understanding the Flow in a React Project Created with Create React App - Lession-2'
+title = 'Understanding the Flow in a React Project Created with Create React App - Lession 2'
 date = 2024-04-20T17:22:54+05:30
 draft = false
+weight = 2
 +++
 
 When you create a new React project using `create-react-app`, the tool sets up a well-organized structure with everything you need to start building a React application. Here’s a breakdown of the main folders and files you'll see in your project and how they interact:
